@@ -1,0 +1,76 @@
+{
+  "world_vars": [
+    {
+      "id": "secrecy_pressure",
+      "name_cn": "保密压力",
+      "description": "魔法部对保密法的执行强度。越高，静默/封锁越多，门更偏向‘命运’。",
+      "default_value": 0.5,
+      "min_value": 0.0,
+      "max_value": 1.0,
+      "max_change_per_hour": 0.15
+    },
+    {
+      "id": "floo_stability",
+      "name_cn": "飞路稳定性",
+      "description": "飞路网与壁炉门的可预测性。越低，误投/错拍增多，但也会出现隐藏窗口。",
+      "default_value": 0.5,
+      "min_value": 0.0,
+      "max_value": 1.0,
+      "max_change_per_hour": 0.15
+    },
+    {
+      "id": "dark_trade_heat",
+      "name_cn": "黑市热度",
+      "description": "翻倒巷与暗市交易活跃度。越高，伪造/走私拍子增多。",
+      "default_value": 0.5,
+      "min_value": 0.0,
+      "max_value": 1.0,
+      "max_change_per_hour": 0.15
+    },
+    {
+      "id": "goblin_tension",
+      "name_cn": "妖精紧张度",
+      "description": "古灵阁审计与清算的冲突强度。越高，结算与信用事件更频繁。",
+      "default_value": 0.5,
+      "min_value": 0.0,
+      "max_value": 1.0,
+      "max_change_per_hour": 0.15
+    },
+    {
+      "id": "creature_unrest",
+      "name_cn": "奇兽躁动",
+      "description": "神奇动物出没与潮汐/雾相关。越高，江河与边缘舞台风险上升。",
+      "default_value": 0.5,
+      "min_value": 0.0,
+      "max_value": 1.0,
+      "max_change_per_hour": 0.15
+    },
+    {
+      "id": "press_glare",
+      "name_cn": "媒体聚光",
+      "description": "《预言家日报》对事件的关注。越高，民意门更强，叙事偏向公开化。",
+      "default_value": 0.5,
+      "min_value": 0.0,
+      "max_value": 1.0,
+      "max_change_per_hour": 0.15
+    },
+    {
+      "id": "ward_occlusion",
+      "name_cn": "遮蔽雾幕",
+      "description": "雾/屏蔽强度。越高，远观只能剪影，近观优势更大。",
+      "default_value": 0.5,
+      "min_value": 0.0,
+      "max_value": 1.0,
+      "max_change_per_hour": 0.15
+    },
+    {
+      "id": "alertness",
+      "name_cn": "警戒度",
+      "description": "巡夜/傲罗巡逻强度。越高，追逐/盘查拍子增多。",
+      "default_value": 0.5,
+      "min_value": 0.0,
+      "max_value": 1.0,
+      "max_change_per_hour": 0.15
+    }
+  ]
+}

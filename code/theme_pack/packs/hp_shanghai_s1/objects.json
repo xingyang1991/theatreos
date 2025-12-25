@@ -1,0 +1,46 @@
+{
+  "objects": [
+    {
+      "object_id": "obj_aether_spindle",
+      "name": "以太纺锤（Aether Spindle）",
+      "description": "导致飞路错拍的核心器物，能改写门的节拍。",
+      "related_threads": []
+    },
+    {
+      "object_id": "obj_black_ledger",
+      "name": "黑账本（Black Ledger）",
+      "description": "暗会账本，被拆成碎片流通。",
+      "related_threads": []
+    },
+    {
+      "object_id": "obj_secrecy_seal",
+      "name": "封口令印玺（Secrecy Seal）",
+      "description": "用于发布/执行临时封口令的印玺模具。",
+      "related_threads": []
+    },
+    {
+      "object_id": "obj_tally_stone",
+      "name": "清算算石（Tally Stone）",
+      "description": "古灵阁用于校验信用与债务的妖精算石。",
+      "related_threads": []
+    },
+    {
+      "object_id": "obj_cursed_page",
+      "name": "禁书页（Cursed Page）",
+      "description": "从禁书区流出的单页，含可触发错拍的咒式。",
+      "related_threads": []
+    },
+    {
+      "object_id": "obj_tide_charm",
+      "name": "潮汐符（Tide Charm）",
+      "description": "与河岸雾潮相关，召唤/安抚奇兽。",
+      "related_threads": []
+    },
+    {
+      "object_id": "obj_unseen_key",
+      "name": "无形钥（Unseen Key）",
+      "description": "神秘事务司的‘门后门’，能开启镜厅偏门。",
+      "related_threads": []
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "factions": [
+    {
+      "faction_id": "ministry",
+      "name": "魔法部",
+      "style": "封口、封锁、审讯、法令。偏向静默与秩序。",
+      "related_characters": []
+    },
+    {
+      "faction_id": "aurors",
+      "name": "傲罗办公室",
+      "style": "巡夜与追捕。偏向追逐、盘查、现场封条。",
+      "related_characters": []
+    },
+    {
+      "faction_id": "unspeakables",
+      "name": "神秘事务司",
+      "style": "谜团与规则。偏向仪式、镜厅、替身、回环。",
+      "related_characters": []
+    },
+    {
+      "faction_id": "gringotts",
+      "name": "古灵阁",
+      "style": "清算与信用。偏向审计、冻结、价差与交换。",
+      "related_characters": []
+    },
+    {
+      "faction_id": "diagon_guild",
+      "name": "对角巷行会",
+      "style": "开市与贸易。偏向开店、证物流通、口耳与人潮。",
+      "related_characters": []
+    },
+    {
+      "faction_id": "knockturn",
+      "name": "翻倒巷暗会",
+      "style": "走私与伪造。偏向诱饵痕迹、嫁祸、黑货。",
+      "related_characters": []
+    },
+    {
+      "faction_id": "hogwarts",
+      "name": "霍格沃茨外勤",
+      "style": "实地调查与教学。偏向发现、禁书、课堂式线索。",
+      "related_characters": []
+    },
+    {
+      "faction_id": "prophet",
+      "name": "预言家日报",
+      "style": "曝光与舆论。偏向公开门、战报卡与热度波动。",
+      "related_characters": []
+    },
+    {
+      "faction_id": "mungo",
+      "name": "圣芒戈医院",
+      "style": "救治与代价。偏向代价结算、伤势、恢复窗口。",
+      "related_characters": []
+    }
+  ]
+}

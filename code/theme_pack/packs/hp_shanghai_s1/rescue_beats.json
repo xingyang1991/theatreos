@@ -1,0 +1,1474 @@
+{
+  "rescue_beats": [
+    {
+      "beat_id": "rb_signal_loss_01",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用失真/静默中断场次，避免硬演崩坏。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_signal_loss_02",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用失真/静默中断场次，避免硬演崩坏。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_signal_loss_03",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用失真/静默中断场次，避免硬演崩坏。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_undercover_swap_01",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用替身/误认把冲突收敛到可控结果。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_undercover_swap_02",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用替身/误认把冲突收敛到可控结果。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_undercover_swap_03",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用替身/误认把冲突收敛到可控结果。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_delayed_owl_01",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "把关键证物延迟送达，避免时序冲突。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_delayed_owl_02",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "把关键证物延迟送达，避免时序冲突。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_delayed_owl_03",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "把关键证物延迟送达，避免时序冲突。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_sealed_door_01",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用封条/禁令阻止角色进入冲突舞台，救时空一致性。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_sealed_door_02",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用封条/禁令阻止角色进入冲突舞台，救时空一致性。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_sealed_door_03",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用封条/禁令阻止角色进入冲突舞台，救时空一致性。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_false_lead_01",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "投放伪证物把玩家从死路引开。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_false_lead_02",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "投放伪证物把玩家从死路引开。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_false_lead_03",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "投放伪证物把玩家从死路引开。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_memory_blur_01",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用眩晕/缺失解释信息断裂，让矛盾变成谜团。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_memory_blur_02",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用眩晕/缺失解释信息断裂，让矛盾变成谜团。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_memory_blur_03",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用眩晕/缺失解释信息断裂，让矛盾变成谜团。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_emergency_heal_01",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "把失败转为代价结算（印记/损失），并给线索。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_emergency_heal_02",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "把失败转为代价结算（印记/损失），并给线索。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_emergency_heal_03",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "把失败转为代价结算（印记/损失），并给线索。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_schedule_shift_01",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "把本应发生的关键场改到下一轮。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_schedule_shift_02",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "把本应发生的关键场改到下一轮。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_schedule_shift_03",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "把本应发生的关键场改到下一轮。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_blackout_01",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "中断飞路/灯塔，强制静默。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_blackout_02",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "中断飞路/灯塔，强制静默。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_blackout_03",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "中断飞路/灯塔，强制静默。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_offscreen_event_01",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用战报卡叙述场外事件，避免资源不足。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_offscreen_event_02",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用战报卡叙述场外事件，避免资源不足。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    },
+    {
+      "beat_id": "rb_offscreen_event_03",
+      "type": "RESCUE",
+      "thread_id": "*",
+      "cast_roles": [
+        "narrator"
+      ],
+      "preconditions": {
+        "any_of": [
+          "compile_fail",
+          "asset_fail",
+          "crowd_low",
+          "conflict_detected"
+        ]
+      },
+      "slots": {
+        "camera_style_any": [
+          "cctv",
+          "voice_note",
+          "static"
+        ],
+        "mood_any": [
+          "quiet",
+          "paranoid",
+          "urgent"
+        ]
+      },
+      "effects": {
+        "world": {
+          "ward_occlusion_add": 0.03
+        },
+        "thread": {
+          "progress_add": 0
+        },
+        "notes": "用战报卡叙述场外事件，避免资源不足。"
+      },
+      "evidence_outputs": [
+        {
+          "type": "silence_record",
+          "tier": "D"
+        },
+        {
+          "type": "time_window_card",
+          "tier": "C"
+        }
+      ],
+      "optional_gate": null,
+      "fallbacks": []
+    }
+  ]
+}

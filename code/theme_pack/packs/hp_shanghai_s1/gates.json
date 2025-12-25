@@ -1,0 +1,2088 @@
+{
+  "gate_templates": [
+    {
+      "gate_id": "gt_hp_001",
+      "type": "public_vote",
+      "title": "飞路门：下一步路线（早场）",
+      "tags": [
+        "thread_floo_fracture",
+        "portal"
+      ],
+      "options": [
+        {
+          "id": "take_floo",
+          "label": "走飞路"
+        },
+        {
+          "id": "use_portkey",
+          "label": "用门钥匙"
+        },
+        {
+          "id": "go_by_alley",
+          "label": "绕行暗巷"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_002",
+      "type": "public_vote",
+      "title": "封口令：是否公开（午场）",
+      "tags": [
+        "thread_ministry_lockdown",
+        "media"
+      ],
+      "options": [
+        {
+          "id": "publish",
+          "label": "公开刊发"
+        },
+        {
+          "id": "hold",
+          "label": "压稿"
+        },
+        {
+          "id": "leak_anonymous",
+          "label": "匿名放风"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_003",
+      "type": "public_vote",
+      "title": "封条处理：配合还是撕开（夜场）",
+      "tags": [
+        "thread_ministry_lockdown",
+        "seal"
+      ],
+      "options": [
+        {
+          "id": "comply",
+          "label": "配合封口"
+        },
+        {
+          "id": "negotiate",
+          "label": "谈判换条件"
+        },
+        {
+          "id": "break_seal",
+          "label": "撕开封条"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_004",
+      "type": "public_vote",
+      "title": "账本碎片：怎么处置（加急）",
+      "tags": [
+        "thread_knockturn_smuggling",
+        "ledger"
+      ],
+      "options": [
+        {
+          "id": "buy_fragment",
+          "label": "买下碎片"
+        },
+        {
+          "id": "hand_to_auror",
+          "label": "交给傲罗"
+        },
+        {
+          "id": "burn_fragment",
+          "label": "焚毁碎片"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_005",
+      "type": "public_vote",
+      "title": "审计条目：冻结还是交换（临时）",
+      "tags": [
+        "thread_gringotts_audit",
+        "finance"
+      ],
+      "options": [
+        {
+          "id": "freeze",
+          "label": "冻结"
+        },
+        {
+          "id": "swap",
+          "label": "交换条目"
+        },
+        {
+          "id": "audit_public",
+          "label": "公开审计"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_006",
+      "type": "public_vote",
+      "title": "外勤优先级：人还是页（早场）",
+      "tags": [
+        "thread_hogwarts_field",
+        "school"
+      ],
+      "options": [
+        {
+          "id": "protect",
+          "label": "先护人"
+        },
+        {
+          "id": "secure_page",
+          "label": "先收页"
+        },
+        {
+          "id": "report",
+          "label": "上报魔法部"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_007",
+      "type": "public_vote",
+      "title": "奇兽事件：处理方式（午场）",
+      "tags": [
+        "thread_creature_surge",
+        "creature"
+      ],
+      "options": [
+        {
+          "id": "calm",
+          "label": "安抚"
+        },
+        {
+          "id": "capture",
+          "label": "捕捉"
+        },
+        {
+          "id": "bait",
+          "label": "诱饵引开"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_008",
+      "type": "public_vote",
+      "title": "飞路门：下一步路线（夜场）",
+      "tags": [
+        "thread_floo_fracture",
+        "portal"
+      ],
+      "options": [
+        {
+          "id": "take_floo",
+          "label": "走飞路"
+        },
+        {
+          "id": "use_portkey",
+          "label": "用门钥匙"
+        },
+        {
+          "id": "go_by_alley",
+          "label": "绕行暗巷"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_009",
+      "type": "public_vote",
+      "title": "封口令：是否公开（加急）",
+      "tags": [
+        "thread_ministry_lockdown",
+        "media"
+      ],
+      "options": [
+        {
+          "id": "publish",
+          "label": "公开刊发"
+        },
+        {
+          "id": "hold",
+          "label": "压稿"
+        },
+        {
+          "id": "leak_anonymous",
+          "label": "匿名放风"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_010",
+      "type": "public_vote",
+      "title": "封条处理：配合还是撕开（临时）",
+      "tags": [
+        "thread_ministry_lockdown",
+        "seal"
+      ],
+      "options": [
+        {
+          "id": "comply",
+          "label": "配合封口"
+        },
+        {
+          "id": "negotiate",
+          "label": "谈判换条件"
+        },
+        {
+          "id": "break_seal",
+          "label": "撕开封条"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_011",
+      "type": "public_vote",
+      "title": "账本碎片：怎么处置（早场）",
+      "tags": [
+        "thread_knockturn_smuggling",
+        "ledger"
+      ],
+      "options": [
+        {
+          "id": "buy_fragment",
+          "label": "买下碎片"
+        },
+        {
+          "id": "hand_to_auror",
+          "label": "交给傲罗"
+        },
+        {
+          "id": "burn_fragment",
+          "label": "焚毁碎片"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_012",
+      "type": "public_vote",
+      "title": "审计条目：冻结还是交换（午场）",
+      "tags": [
+        "thread_gringotts_audit",
+        "finance"
+      ],
+      "options": [
+        {
+          "id": "freeze",
+          "label": "冻结"
+        },
+        {
+          "id": "swap",
+          "label": "交换条目"
+        },
+        {
+          "id": "audit_public",
+          "label": "公开审计"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_013",
+      "type": "public_vote",
+      "title": "外勤优先级：人还是页（夜场）",
+      "tags": [
+        "thread_hogwarts_field",
+        "school"
+      ],
+      "options": [
+        {
+          "id": "protect",
+          "label": "先护人"
+        },
+        {
+          "id": "secure_page",
+          "label": "先收页"
+        },
+        {
+          "id": "report",
+          "label": "上报魔法部"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_014",
+      "type": "public_vote",
+      "title": "奇兽事件：处理方式（加急）",
+      "tags": [
+        "thread_creature_surge",
+        "creature"
+      ],
+      "options": [
+        {
+          "id": "calm",
+          "label": "安抚"
+        },
+        {
+          "id": "capture",
+          "label": "捕捉"
+        },
+        {
+          "id": "bait",
+          "label": "诱饵引开"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_015",
+      "type": "public_vote",
+      "title": "飞路门：下一步路线（临时）",
+      "tags": [
+        "thread_floo_fracture",
+        "portal"
+      ],
+      "options": [
+        {
+          "id": "take_floo",
+          "label": "走飞路"
+        },
+        {
+          "id": "use_portkey",
+          "label": "用门钥匙"
+        },
+        {
+          "id": "go_by_alley",
+          "label": "绕行暗巷"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_016",
+      "type": "public_vote",
+      "title": "封口令：是否公开（早场）",
+      "tags": [
+        "thread_ministry_lockdown",
+        "media"
+      ],
+      "options": [
+        {
+          "id": "publish",
+          "label": "公开刊发"
+        },
+        {
+          "id": "hold",
+          "label": "压稿"
+        },
+        {
+          "id": "leak_anonymous",
+          "label": "匿名放风"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_017",
+      "type": "public_vote",
+      "title": "封条处理：配合还是撕开（午场）",
+      "tags": [
+        "thread_ministry_lockdown",
+        "seal"
+      ],
+      "options": [
+        {
+          "id": "comply",
+          "label": "配合封口"
+        },
+        {
+          "id": "negotiate",
+          "label": "谈判换条件"
+        },
+        {
+          "id": "break_seal",
+          "label": "撕开封条"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_018",
+      "type": "public_vote",
+      "title": "账本碎片：怎么处置（夜场）",
+      "tags": [
+        "thread_knockturn_smuggling",
+        "ledger"
+      ],
+      "options": [
+        {
+          "id": "buy_fragment",
+          "label": "买下碎片"
+        },
+        {
+          "id": "hand_to_auror",
+          "label": "交给傲罗"
+        },
+        {
+          "id": "burn_fragment",
+          "label": "焚毁碎片"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_019",
+      "type": "public_vote",
+      "title": "审计条目：冻结还是交换（加急）",
+      "tags": [
+        "thread_gringotts_audit",
+        "finance"
+      ],
+      "options": [
+        {
+          "id": "freeze",
+          "label": "冻结"
+        },
+        {
+          "id": "swap",
+          "label": "交换条目"
+        },
+        {
+          "id": "audit_public",
+          "label": "公开审计"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_020",
+      "type": "public_vote",
+      "title": "外勤优先级：人还是页（临时）",
+      "tags": [
+        "thread_hogwarts_field",
+        "school"
+      ],
+      "options": [
+        {
+          "id": "protect",
+          "label": "先护人"
+        },
+        {
+          "id": "secure_page",
+          "label": "先收页"
+        },
+        {
+          "id": "report",
+          "label": "上报魔法部"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "public_max_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "民意门：总权重最高的选项直接胜出。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_021",
+      "type": "fate_vote",
+      "title": "命运门：壁炉门偏（一号）",
+      "tags": [
+        "thread_floo_fracture",
+        "fate"
+      ],
+      "options": [
+        {
+          "id": "jump_now",
+          "label": "立即穿门"
+        },
+        {
+          "id": "wait_window",
+          "label": "等待低噪窗口"
+        },
+        {
+          "id": "cut_power",
+          "label": "切断火源"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "floo_stability",
+        "ward_occlusion"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_022",
+      "type": "fate_vote",
+      "title": "命运门：巡夜封锁（二号）",
+      "tags": [
+        "thread_ministry_lockdown",
+        "patrol"
+      ],
+      "options": [
+        {
+          "id": "blend_crowd",
+          "label": "混入人潮"
+        },
+        {
+          "id": "show_pass",
+          "label": "出示通行证"
+        },
+        {
+          "id": "backtrack",
+          "label": "原路撤退"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "alertness",
+        "secrecy_pressure"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_023",
+      "type": "fate_vote",
+      "title": "命运门：黑市交割（三号）",
+      "tags": [
+        "thread_knockturn_smuggling",
+        "trade"
+      ],
+      "options": [
+        {
+          "id": "meet_broker",
+          "label": "赴约交割"
+        },
+        {
+          "id": "double_cross",
+          "label": "反向设局"
+        },
+        {
+          "id": "no_show",
+          "label": "放鸽子"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "dark_trade_heat",
+        "alertness"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_024",
+      "type": "fate_vote",
+      "title": "命运门：清算听证（一号）",
+      "tags": [
+        "thread_gringotts_audit",
+        "trial"
+      ],
+      "options": [
+        {
+          "id": "accept_terms",
+          "label": "接受条款"
+        },
+        {
+          "id": "appeal",
+          "label": "提出申诉"
+        },
+        {
+          "id": "walk_out",
+          "label": "离场"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "goblin_tension",
+        "press_glare"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_025",
+      "type": "fate_vote",
+      "title": "命运门：禁书封印（二号）",
+      "tags": [
+        "thread_hogwarts_field",
+        "ritual"
+      ],
+      "options": [
+        {
+          "id": "seal_page",
+          "label": "立刻封印"
+        },
+        {
+          "id": "copy_clue",
+          "label": "先抄线索"
+        },
+        {
+          "id": "bait_scribe",
+          "label": "引诱抄写员"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "ward_occlusion",
+        "floo_stability"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_026",
+      "type": "fate_vote",
+      "title": "命运门：雾潮奇兽（三号）",
+      "tags": [
+        "thread_creature_surge",
+        "creature"
+      ],
+      "options": [
+        {
+          "id": "calm_spell",
+          "label": "安抚咒"
+        },
+        {
+          "id": "net_capture",
+          "label": "网捕"
+        },
+        {
+          "id": "lure_to_forest",
+          "label": "引去禁林"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "creature_unrest",
+        "ward_occlusion"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_027",
+      "type": "fate_vote",
+      "title": "命运门：壁炉门偏（一号）",
+      "tags": [
+        "thread_floo_fracture",
+        "fate"
+      ],
+      "options": [
+        {
+          "id": "jump_now",
+          "label": "立即穿门"
+        },
+        {
+          "id": "wait_window",
+          "label": "等待低噪窗口"
+        },
+        {
+          "id": "cut_power",
+          "label": "切断火源"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "floo_stability",
+        "ward_occlusion"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_028",
+      "type": "fate_vote",
+      "title": "命运门：巡夜封锁（二号）",
+      "tags": [
+        "thread_ministry_lockdown",
+        "patrol"
+      ],
+      "options": [
+        {
+          "id": "blend_crowd",
+          "label": "混入人潮"
+        },
+        {
+          "id": "show_pass",
+          "label": "出示通行证"
+        },
+        {
+          "id": "backtrack",
+          "label": "原路撤退"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "alertness",
+        "secrecy_pressure"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_029",
+      "type": "fate_vote",
+      "title": "命运门：黑市交割（三号）",
+      "tags": [
+        "thread_knockturn_smuggling",
+        "trade"
+      ],
+      "options": [
+        {
+          "id": "meet_broker",
+          "label": "赴约交割"
+        },
+        {
+          "id": "double_cross",
+          "label": "反向设局"
+        },
+        {
+          "id": "no_show",
+          "label": "放鸽子"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "dark_trade_heat",
+        "alertness"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_030",
+      "type": "fate_vote",
+      "title": "命运门：清算听证（一号）",
+      "tags": [
+        "thread_gringotts_audit",
+        "trial"
+      ],
+      "options": [
+        {
+          "id": "accept_terms",
+          "label": "接受条款"
+        },
+        {
+          "id": "appeal",
+          "label": "提出申诉"
+        },
+        {
+          "id": "walk_out",
+          "label": "离场"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "goblin_tension",
+        "press_glare"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_031",
+      "type": "fate_vote",
+      "title": "命运门：禁书封印（二号）",
+      "tags": [
+        "thread_hogwarts_field",
+        "ritual"
+      ],
+      "options": [
+        {
+          "id": "seal_page",
+          "label": "立刻封印"
+        },
+        {
+          "id": "copy_clue",
+          "label": "先抄线索"
+        },
+        {
+          "id": "bait_scribe",
+          "label": "引诱抄写员"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "ward_occlusion",
+        "floo_stability"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_032",
+      "type": "fate_vote",
+      "title": "命运门：雾潮奇兽（三号）",
+      "tags": [
+        "thread_creature_surge",
+        "creature"
+      ],
+      "options": [
+        {
+          "id": "calm_spell",
+          "label": "安抚咒"
+        },
+        {
+          "id": "net_capture",
+          "label": "网捕"
+        },
+        {
+          "id": "lure_to_forest",
+          "label": "引去禁林"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "creature_unrest",
+        "ward_occlusion"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_033",
+      "type": "fate_vote",
+      "title": "命运门：壁炉门偏（一号）",
+      "tags": [
+        "thread_floo_fracture",
+        "fate"
+      ],
+      "options": [
+        {
+          "id": "jump_now",
+          "label": "立即穿门"
+        },
+        {
+          "id": "wait_window",
+          "label": "等待低噪窗口"
+        },
+        {
+          "id": "cut_power",
+          "label": "切断火源"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "floo_stability",
+        "ward_occlusion"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_034",
+      "type": "fate_vote",
+      "title": "命运门：巡夜封锁（二号）",
+      "tags": [
+        "thread_ministry_lockdown",
+        "patrol"
+      ],
+      "options": [
+        {
+          "id": "blend_crowd",
+          "label": "混入人潮"
+        },
+        {
+          "id": "show_pass",
+          "label": "出示通行证"
+        },
+        {
+          "id": "backtrack",
+          "label": "原路撤退"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "alertness",
+        "secrecy_pressure"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_035",
+      "type": "fate_vote",
+      "title": "命运门：黑市交割（三号）",
+      "tags": [
+        "thread_knockturn_smuggling",
+        "trade"
+      ],
+      "options": [
+        {
+          "id": "meet_broker",
+          "label": "赴约交割"
+        },
+        {
+          "id": "double_cross",
+          "label": "反向设局"
+        },
+        {
+          "id": "no_show",
+          "label": "放鸽子"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "dark_trade_heat",
+        "alertness"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "softmax_ln_base_plus_ln_weight"
+      },
+      "consequences": {
+        "win": [
+          "ticket+",
+          "pass_unlock",
+          "bond+"
+        ],
+        "lose": [
+          "ticket-",
+          "stain+",
+          "view_bias_next24h"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "命运门：世界底概率 + 你们投票共同决定结果。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_036",
+      "type": "faction_council",
+      "title": "阵营议会：封锁强度",
+      "tags": [
+        "council",
+        "ministry"
+      ],
+      "options": [
+        {
+          "id": "tighten",
+          "label": "加严封锁"
+        },
+        {
+          "id": "targeted",
+          "label": "定点封锁"
+        },
+        {
+          "id": "relax",
+          "label": "放松封锁"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "secrecy_pressure",
+        "press_glare"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "council_rule"
+      },
+      "consequences": {
+        "win": [
+          "world_var_shift",
+          "spotlight_shift"
+        ],
+        "lose": [
+          "no_change"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "阵营门：阵营议会规则结算，影响下周聚光线与封锁。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_037",
+      "type": "faction_council",
+      "title": "阵营议会：审计方案",
+      "tags": [
+        "council",
+        "finance"
+      ],
+      "options": [
+        {
+          "id": "hard_audit",
+          "label": "强硬审计"
+        },
+        {
+          "id": "negotiation",
+          "label": "谈判审计"
+        },
+        {
+          "id": "amnesty",
+          "label": "临时宽免"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "goblin_tension",
+        "press_glare"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "council_rule"
+      },
+      "consequences": {
+        "win": [
+          "world_var_shift",
+          "spotlight_shift"
+        ],
+        "lose": [
+          "no_change"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "阵营门：阵营议会规则结算，影响下周聚光线与封锁。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_038",
+      "type": "faction_council",
+      "title": "阵营议会：黑市打击",
+      "tags": [
+        "council",
+        "security"
+      ],
+      "options": [
+        {
+          "id": "raid",
+          "label": "突袭翻倒巷"
+        },
+        {
+          "id": "infiltrate",
+          "label": "渗透交易"
+        },
+        {
+          "id": "ignore",
+          "label": "暂缓处理"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "dark_trade_heat",
+        "alertness"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "council_rule"
+      },
+      "consequences": {
+        "win": [
+          "world_var_shift",
+          "spotlight_shift"
+        ],
+        "lose": [
+          "no_change"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "阵营门：阵营议会规则结算，影响下周聚光线与封锁。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_039",
+      "type": "faction_council",
+      "title": "阵营议会：舞台聚光线",
+      "tags": [
+        "council",
+        "spotlight"
+      ],
+      "options": [
+        {
+          "id": "floo",
+          "label": "聚光飞路线"
+        },
+        {
+          "id": "audit",
+          "label": "聚光审计线"
+        },
+        {
+          "id": "creature",
+          "label": "聚光奇兽线"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "press_glare"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "council_rule"
+      },
+      "consequences": {
+        "win": [
+          "world_var_shift",
+          "spotlight_shift"
+        ],
+        "lose": [
+          "no_change"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "阵营门：阵营议会规则结算，影响下周聚光线与封锁。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    },
+    {
+      "gate_id": "gt_hp_040",
+      "type": "faction_council",
+      "title": "阵营议会：门的规则",
+      "tags": [
+        "council",
+        "rules"
+      ],
+      "options": [
+        {
+          "id": "more_public",
+          "label": "更多民意门"
+        },
+        {
+          "id": "more_fate",
+          "label": "更多命运门"
+        },
+        {
+          "id": "balanced",
+          "label": "保持平衡"
+        }
+      ],
+      "stake": {
+        "currency": "ticket",
+        "weight_rule": "sqrt",
+        "cap_by_cred": true
+      },
+      "world_factors": [
+        "ward_occlusion",
+        "floo_stability"
+      ],
+      "resolve": {
+        "time": "TBD",
+        "algorithm": "council_rule"
+      },
+      "consequences": {
+        "win": [
+          "world_var_shift",
+          "spotlight_shift"
+        ],
+        "lose": [
+          "no_change"
+        ]
+      },
+      "explain_card": {
+        "title": "结算说明",
+        "bullets": [
+          "阵营门：阵营议会规则结算，影响下周聚光线与封锁。",
+          "到场（RingB/A）可获得更硬证物，从而更准确判断底概率与风险。"
+        ]
+      }
+    }
+  ]
+}

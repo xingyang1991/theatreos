@@ -1,0 +1,530 @@
+{
+  "authority": {
+    "cn": "权威/执法",
+    "hp_mapping": "魔法部法规与执法体系、威森加摩、傲罗行动",
+    "prompt_cues": [
+      "制度化空间：徽章/告示/审讯桌/隔离线",
+      "强秩序感：队列、通行证、宣誓、检查",
+      "信息呈现偏“公告/通报/裁决”口吻"
+    ],
+    "camera_styles": [
+      "news",
+      "cctv",
+      "desk"
+    ],
+    "moods": [
+      "solemn",
+      "tense",
+      "urgent"
+    ]
+  },
+  "audit": {
+    "cn": "审计/清点",
+    "hp_mapping": "古灵阁账簿清算、魔法部财务司审查、封印核验",
+    "prompt_cues": [
+      "大量文书与印章：账簿、清单、红色封条",
+      "细节检查：编号、时间码、签名、封印纹路",
+      "情绪偏紧张与算计，结算落槌明确"
+    ],
+    "camera_styles": [
+      "desk",
+      "cctv",
+      "static"
+    ],
+    "moods": [
+      "tense",
+      "hushed",
+      "urgent"
+    ]
+  },
+  "bank": {
+    "cn": "银行/金库",
+    "hp_mapping": "古灵阁大厅、金库门、哥布林柜台",
+    "prompt_cues": [
+      "金属/石材质感，厚重门、滑轨、编号牌",
+      "交易与风险并存：抵押、借贷、封存",
+      "“安全守卫/封印”是视觉主语"
+    ],
+    "camera_styles": [
+      "static",
+      "desk",
+      "cctv"
+    ],
+    "moods": [
+      "solemn",
+      "tense",
+      "hushed"
+    ]
+  },
+  "black_market": {
+    "cn": "暗市/走私",
+    "hp_mapping": "翻倒巷、博金-博克、黑魔法器具交易",
+    "prompt_cues": [
+      "狭窄阴影巷道：背光、遮挡、低语",
+      "伪装与暗号：黑市价目、暗门、暗号墙",
+      "证物更“脏”：撕裂纸条、污渍、灰烬"
+    ],
+    "camera_styles": [
+      "handheld",
+      "cctv",
+      "voice_note"
+    ],
+    "moods": [
+      "conspiratorial",
+      "eerie",
+      "tense"
+    ]
+  },
+  "books": {
+    "cn": "书籍/档案",
+    "hp_mapping": "丽痕书店、霍格沃茨图书馆、档案馆",
+    "prompt_cues": [
+      "书架与纸页细节：批注、夹页、禁书封带",
+      "线索以“引用/索引/页码/书签”形式出现",
+      "氛围偏安静、克制、带一点神秘"
+    ],
+    "camera_styles": [
+      "desk",
+      "static"
+    ],
+    "moods": [
+      "hushed",
+      "solemn",
+      "conspiratorial"
+    ]
+  },
+  "clue": {
+    "cn": "线索密度",
+    "hp_mapping": "可推理的证物/目击碎片（与具体地点无关）",
+    "prompt_cues": [
+      "每段内容都要留下可追溯“锚点”：时间码/符号/一句话",
+      "解释卡必须能回溯到至少1个证物类型",
+      "不讲长旁白，靠碎片拼图推进"
+    ],
+    "camera_styles": [
+      "desk",
+      "cctv",
+      "static",
+      "handheld"
+    ],
+    "moods": [
+      "tense",
+      "hushed",
+      "urgent"
+    ]
+  },
+  "creature": {
+    "cn": "神奇动物",
+    "hp_mapping": "神奇动物出没、禁林、饲育与巡护",
+    "prompt_cues": [
+      "声音优先：脚步、低鸣、翅膀、树叶摩擦",
+      "镜头“没拍全”：只给影子/毛发/痕迹",
+      "证物偏生物性：羽毛、爪痕、草药残渣"
+    ],
+    "camera_styles": [
+      "handheld",
+      "static",
+      "voice_note"
+    ],
+    "moods": [
+      "eerie",
+      "urgent",
+      "conspiratorial"
+    ]
+  },
+  "finance": {
+    "cn": "金融/交易",
+    "hp_mapping": "魔法金融区、哥布林交易台、押注与结算",
+    "prompt_cues": [
+      "波动与报价：涨跌、风向、赔率提示（不直接给答案）",
+      "金钱≠点数：是稀缺资源与权限钥匙",
+      "“赢了也要付代价/输了也能追”写进回声"
+    ],
+    "camera_styles": [
+      "desk",
+      "news",
+      "static"
+    ],
+    "moods": [
+      "tense",
+      "urgent",
+      "festive"
+    ]
+  },
+  "forgery": {
+    "cn": "伪造/假印",
+    "hp_mapping": "伪造封印、假通行证、诅咒文书",
+    "prompt_cues": [
+      "真假对比：偏差的符文、错位的印章、被擦改的字迹",
+      "证物含“鉴伪点”：放大图、边缘毛刺、墨迹层次",
+      "回声常引导去“审计/封印”地点印证"
+    ],
+    "camera_styles": [
+      "desk",
+      "cctv"
+    ],
+    "moods": [
+      "conspiratorial",
+      "tense",
+      "hushed"
+    ]
+  },
+  "healing": {
+    "cn": "医疗/解咒",
+    "hp_mapping": "圣芒戈、咒伤治疗、解咒药房",
+    "prompt_cues": [
+      "治疗与后果：代价兑现、恢复、但留下印记",
+      "视觉强调“病历/药瓶/绷带/护符”",
+      "解释卡像“诊断书”：原因、处置、复诊提示"
+    ],
+    "camera_styles": [
+      "desk",
+      "static",
+      "voice_note"
+    ],
+    "moods": [
+      "solemn",
+      "hushed",
+      "urgent"
+    ]
+  },
+  "hub": {
+    "cn": "枢纽/中心",
+    "hp_mapping": "车站/广场/换乘点（平台九又四分之三、骑士公交）",
+    "prompt_cues": [
+      "人流与分岔：赶场选择、错过与取舍",
+      "广播与倒计时强化“真实时间感”",
+      "适合放“预告/回声跳转”入口"
+    ],
+    "camera_styles": [
+      "news",
+      "handheld",
+      "cctv"
+    ],
+    "moods": [
+      "urgent",
+      "festive",
+      "tense"
+    ]
+  },
+  "lanes": {
+    "cn": "街巷/里弄",
+    "hp_mapping": "对角巷/翻倒巷的城市肌理映射",
+    "prompt_cues": [
+      "空间狭窄、转角多：适合“偶遇/误听”",
+      "证物多来自摊位/墙面/门缝",
+      "社交协作强：你看不到全貌，需要交换"
+    ],
+    "camera_styles": [
+      "handheld",
+      "cctv",
+      "static"
+    ],
+    "moods": [
+      "conspiratorial",
+      "hushed",
+      "festive"
+    ]
+  },
+  "ministry": {
+    "cn": "魔法部",
+    "hp_mapping": "魔法部办公区、司局、通告系统",
+    "prompt_cues": [
+      "流程化：申请-审核-通行-封存",
+      "信息权力：谁能看、谁能改、谁被消音",
+      "回声常改变“权限/可见内容分布”"
+    ],
+    "camera_styles": [
+      "news",
+      "desk",
+      "cctv"
+    ],
+    "moods": [
+      "solemn",
+      "tense",
+      "urgent"
+    ]
+  },
+  "mystery": {
+    "cn": "神秘/未知",
+    "hp_mapping": "神秘事务司、预言厅、回声室",
+    "prompt_cues": [
+      "给线索不给答案：符号、回声、倒影",
+      "多用环境音与静止镜头制造空白",
+      "适合生成“可解释但不完全确定”的分支"
+    ],
+    "camera_styles": [
+      "static",
+      "voice_note",
+      "desk"
+    ],
+    "moods": [
+      "eerie",
+      "hushed",
+      "conspiratorial"
+    ]
+  },
+  "occlusion": {
+    "cn": "遮蔽/雾化",
+    "hp_mapping": "麻瓜驱逐/混淆咒、隐蔽结界、雾幕",
+    "prompt_cues": [
+      "剪影化/遮挡：RingC只见轮廓、RingB见细节",
+      "信息不连续：断句、干扰、噪点",
+      "强调“隐私安全”：不出现可识别真人"
+    ],
+    "camera_styles": [
+      "cctv",
+      "static",
+      "voice_note"
+    ],
+    "moods": [
+      "conspiratorial",
+      "eerie",
+      "hushed"
+    ]
+  },
+  "order": {
+    "cn": "秩序/规则",
+    "hp_mapping": "剧场制度本身：门厅仪式、判词、档案",
+    "prompt_cues": [
+      "仪式感：封口、盖章、落槌、归档",
+      "输赢都可追：但深线要靠持续参与",
+      "解释卡必须“可解释可追溯”"
+    ],
+    "camera_styles": [
+      "desk",
+      "static",
+      "news"
+    ],
+    "moods": [
+      "solemn",
+      "tense",
+      "festive"
+    ]
+  },
+  "paper": {
+    "cn": "文书/纸面",
+    "hp_mapping": "预言家日报、通行证、档案、告示",
+    "prompt_cues": [
+      "纸张作为叙事载体：票据、判词、公告栏",
+      "适合个性化：每个用户的票据/印记不同",
+      "证物可用“扫描/盖章/批注”形式"
+    ],
+    "camera_styles": [
+      "desk",
+      "static"
+    ],
+    "moods": [
+      "hushed",
+      "solemn",
+      "tense"
+    ]
+  },
+  "portal": {
+    "cn": "传送/门",
+    "hp_mapping": "飞路网、门钥匙、隐秘入口",
+    "prompt_cues": [
+      "明确“开门时间窗”：T+10~12门厅压迫",
+      "入口伪装：墙砖、电话亭、壁炉、招牌",
+      "回声提示下一小时“哪扇门更可能出现”"
+    ],
+    "camera_styles": [
+      "handheld",
+      "static",
+      "voice_note"
+    ],
+    "moods": [
+      "urgent",
+      "tense",
+      "eerie"
+    ]
+  },
+  "ritual": {
+    "cn": "仪式/咒阵",
+    "hp_mapping": "封印仪式、守护结界、古老符文",
+    "prompt_cues": [
+      "空间中心：符号阵、烛光、结界线",
+      "代价明确：开启会消耗资源/权限",
+      "适合做周爆点的“Major Gate”"
+    ],
+    "camera_styles": [
+      "static",
+      "voice_note"
+    ],
+    "moods": [
+      "solemn",
+      "eerie",
+      "hushed"
+    ]
+  },
+  "risk": {
+    "cn": "风险/危险",
+    "hp_mapping": "黑魔法、失控咒语、追捕",
+    "prompt_cues": [
+      "押门风险提示要清楚：赢的收益 vs 失败代价",
+      "内容上体现“时间压力”和“后果兑现”",
+      "安全态/降级态必须可用（不空白）"
+    ],
+    "camera_styles": [
+      "handheld",
+      "cctv",
+      "news"
+    ],
+    "moods": [
+      "urgent",
+      "tense",
+      "chaotic"
+    ]
+  },
+  "school": {
+    "cn": "学园/教学",
+    "hp_mapping": "霍格沃茨课程、校友会、野外教学点",
+    "prompt_cues": [
+      "知识推动剧情：考试/作业/课题变成线索任务",
+      "证物是“讲义/试卷/板书/标本”",
+      "社交是“分工做题/交换页码”"
+    ],
+    "camera_styles": [
+      "desk",
+      "static",
+      "voice_note"
+    ],
+    "moods": [
+      "hushed",
+      "festive",
+      "tense"
+    ]
+  },
+  "seal": {
+    "cn": "封印/印记",
+    "hp_mapping": "封条、咒印、通行证窗口",
+    "prompt_cues": [
+      "世界会留下痕迹：印记、封条破损、权限变更",
+      "适合解释卡的“为什么”：封印被动过",
+      "证物常是“盖章/封条碎片/火漆”"
+    ],
+    "camera_styles": [
+      "desk",
+      "static"
+    ],
+    "moods": [
+      "solemn",
+      "tense",
+      "conspiratorial"
+    ]
+  },
+  "secret": {
+    "cn": "秘密/密会",
+    "hp_mapping": "凤凰社、双面镜、密道、暗号",
+    "prompt_cues": [
+      "情报交换点：Crew协作、证物共享",
+      "镜头不直给：对话短句、只露一角",
+      "回声常指向“下一次密会时间/地点标签”"
+    ],
+    "camera_styles": [
+      "voice_note",
+      "handheld",
+      "static"
+    ],
+    "moods": [
+      "conspiratorial",
+      "hushed",
+      "tense"
+    ]
+  },
+  "security": {
+    "cn": "安保/巡逻",
+    "hp_mapping": "傲罗巡逻、守护咒、封锁线",
+    "prompt_cues": [
+      "区域状态会变：封锁/开放/临检",
+      "同屏在线“匿名存在痕迹”更强（不暴露身份）",
+      "押门与证物提交受安全规则影响"
+    ],
+    "camera_styles": [
+      "cctv",
+      "news",
+      "handheld"
+    ],
+    "moods": [
+      "tense",
+      "urgent",
+      "solemn"
+    ]
+  },
+  "signal": {
+    "cn": "信号/广播",
+    "hp_mapping": "巫师无线电、猫头鹰邮局、信号干扰",
+    "prompt_cues": [
+      "用声音塑造真实：广播、噪点、环境音",
+      "适合做“下一小时预告”与“回声提醒”",
+      "证物可以是“录音/截屏/播报字幕卡”"
+    ],
+    "camera_styles": [
+      "news",
+      "voice_note",
+      "cctv"
+    ],
+    "moods": [
+      "urgent",
+      "hushed",
+      "festive"
+    ]
+  },
+  "trade": {
+    "cn": "交易/集市",
+    "hp_mapping": "对角巷商铺、摊位交易、黑市交换",
+    "prompt_cues": [
+      "价格与筹码：下注货币可流通并稀缺",
+      "交易带来情报：买到的不只是道具，也是线索",
+      "适合多人协作：凑筹码、换证物"
+    ],
+    "camera_styles": [
+      "handheld",
+      "desk",
+      "cctv"
+    ],
+    "moods": [
+      "festive",
+      "tense",
+      "chaotic"
+    ]
+  },
+  "transport": {
+    "cn": "交通/线路",
+    "hp_mapping": "霍格沃茨快线、骑士公交、门钥匙线路",
+    "prompt_cues": [
+      "节拍强：准点开演与准点结算",
+      "多舞台并行带来赶场与分工",
+      "门厅像“检票”：错过即关"
+    ],
+    "camera_styles": [
+      "handheld",
+      "news",
+      "cctv"
+    ],
+    "moods": [
+      "urgent",
+      "tense",
+      "festive"
+    ]
+  },
+  "waterfront": {
+    "cn": "滨水/码头",
+    "hp_mapping": "黑湖/码头、走私线路、雾与回声",
+    "prompt_cues": [
+      "雾与反光：适合做遮蔽与神秘",
+      "多用环境音：水声、风、船鸣",
+      "适合“走私/海关/截停”剧情"
+    ],
+    "camera_styles": [
+      "static",
+      "handheld",
+      "cctv"
+    ],
+    "moods": [
+      "eerie",
+      "conspiratorial",
+      "hushed"
+    ]
+  }
+}

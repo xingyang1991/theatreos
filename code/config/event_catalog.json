@@ -1,0 +1,116 @@
+{
+  "version": "1.0",
+  "topics": [
+    {
+      "topic": "world.tick.started",
+      "producer": "kernel",
+      "key": "theatre_id:ticker",
+      "payload_fields": [
+        "theatre_id",
+        "tick_id",
+        "started_at"
+      ]
+    },
+    {
+      "topic": "world.tick.completed",
+      "producer": "kernel",
+      "key": "theatre_id:ticker",
+      "payload_fields": [
+        "theatre_id",
+        "tick_id",
+        "snapshot_version",
+        "completed_at"
+      ]
+    },
+    {
+      "topic": "schedule.hour_plan.created",
+      "producer": "scheduler",
+      "key": "theatre_id:slot_id",
+      "payload_fields": [
+        "theatre_id",
+        "slot_id",
+        "start_at",
+        "plan_hash"
+      ]
+    },
+    {
+      "topic": "schedule.hour_plan.overridden",
+      "producer": "scheduler",
+      "key": "theatre_id:slot_id",
+      "payload_fields": [
+        "theatre_id",
+        "slot_id",
+        "override_id",
+        "override_hash"
+      ]
+    },
+    {
+      "topic": "content.slot.published",
+      "producer": "content_factory",
+      "key": "theatre_id:slot_id",
+      "payload_fields": [
+        "theatre_id",
+        "slot_id",
+        "publish_version",
+        "media_level",
+        "source_job_id"
+      ]
+    },
+    {
+      "topic": "gate.opened",
+      "producer": "gate",
+      "key": "gate_instance_id",
+      "payload_fields": [
+        "gate_instance_id",
+        "slot_id",
+        "opens_at"
+      ]
+    },
+    {
+      "topic": "gate.closed",
+      "producer": "gate",
+      "key": "gate_instance_id",
+      "payload_fields": [
+        "gate_instance_id",
+        "slot_id",
+        "closes_at"
+      ]
+    },
+    {
+      "topic": "gate.resolved",
+      "producer": "gate",
+      "key": "gate_instance_id",
+      "payload_fields": [
+        "gate_instance_id",
+        "slot_id",
+        "winner_option_id",
+        "resolved_at"
+      ]
+    },
+    {
+      "topic": "world.delta.applied",
+      "producer": "kernel",
+      "key": "delta_id",
+      "payload_fields": [
+        "delta_id",
+        "theatre_id",
+        "new_version",
+        "source"
+      ]
+    },
+    {
+      "topic": "wallet.ledger.appended",
+      "producer": "gate",
+      "key": "tx_id",
+      "payload_fields": [
+        "tx_id",
+        "user_id",
+        "currency",
+        "delta",
+        "reason",
+        "ref_type",
+        "ref_id"
+      ]
+    }
+  ]
+}

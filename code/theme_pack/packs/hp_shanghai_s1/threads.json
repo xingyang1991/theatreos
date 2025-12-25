@@ -1,0 +1,413 @@
+{
+  "threads": [
+    {
+      "thread_id": "thread_floo_fracture",
+      "name": "飞路错拍线",
+      "logline": "飞路网络出现错拍与误投，隐藏门与伪门同时出现。",
+      "key_objects": [
+        "obj_aether_spindle",
+        "obj_unseen_key"
+      ],
+      "key_stages": [
+        "st_floo_exchange",
+        "st_kingscross_934",
+        "st_dom_corridor"
+      ],
+      "world_vars": [
+        "floo_stability",
+        "ward_occlusion"
+      ],
+      "phases": [
+        {
+          "phase": "infiltration",
+          "name_cn": "潜伏",
+          "goal": "发现错拍语法",
+          "allowed_beat_types": [
+            "REVEAL",
+            "INVESTIGATE",
+            "DISCOVERY",
+            "SILENCE",
+            "MISDIRECTION"
+          ]
+        },
+        {
+          "phase": "leak",
+          "name_cn": "扩散",
+          "goal": "门偏导致泄密",
+          "allowed_beat_types": [
+            "CHASE",
+            "PORTAL",
+            "PATROL",
+            "BROADCAST",
+            "INTERROGATE"
+          ]
+        },
+        {
+          "phase": "conflict",
+          "name_cn": "冲突",
+          "goal": "夺回纺锤/修门",
+          "allowed_beat_types": [
+            "RITUAL",
+            "DUEL",
+            "HEIST",
+            "PORTAL",
+            "CHASE"
+          ]
+        },
+        {
+          "phase": "aftermath",
+          "name_cn": "余波",
+          "goal": "回声归位/新载体出现",
+          "allowed_beat_types": [
+            "AFTERMATH",
+            "REVEAL",
+            "COUNCIL"
+          ]
+        }
+      ],
+      "crosslinks": [
+        "thread_ministry_lockdown",
+        "thread_knockturn_smuggling"
+      ]
+    },
+    {
+      "thread_id": "thread_ministry_lockdown",
+      "name": "封口令线",
+      "logline": "魔法部发布临时封口令，封锁与静默成为日常，门更像审判。",
+      "key_objects": [
+        "obj_secrecy_seal",
+        "obj_unseen_key"
+      ],
+      "key_stages": [
+        "st_ministry_atrium",
+        "st_wizengamot",
+        "st_auror_office"
+      ],
+      "world_vars": [
+        "secrecy_pressure",
+        "alertness",
+        "press_glare"
+      ],
+      "phases": [
+        {
+          "phase": "infiltration",
+          "name_cn": "潜伏",
+          "goal": "封口令成形",
+          "allowed_beat_types": [
+            "COUNCIL",
+            "REVEAL",
+            "PATROL",
+            "SILENCE"
+          ]
+        },
+        {
+          "phase": "leak",
+          "name_cn": "扩散",
+          "goal": "封锁失效/舆论波动",
+          "allowed_beat_types": [
+            "BROADCAST",
+            "INTERROGATE",
+            "CHASE",
+            "MISDIRECTION"
+          ]
+        },
+        {
+          "phase": "conflict",
+          "name_cn": "冲突",
+          "goal": "审讯与交换",
+          "allowed_beat_types": [
+            "TRIAL",
+            "DUEL",
+            "HEIST",
+            "COUNCIL",
+            "TRADE"
+          ]
+        },
+        {
+          "phase": "aftermath",
+          "name_cn": "余波",
+          "goal": "新规则写入城市",
+          "allowed_beat_types": [
+            "AFTERMATH",
+            "COUNCIL",
+            "REVEAL"
+          ]
+        }
+      ],
+      "crosslinks": [
+        "thread_gringotts_audit",
+        "thread_prophet_exposure",
+        "thread_floo_fracture"
+      ]
+    },
+    {
+      "thread_id": "thread_knockturn_smuggling",
+      "name": "黑市走私线",
+      "logline": "翻倒巷暗会拆账本卖碎片，伪证物像瘟疫一样传播。",
+      "key_objects": [
+        "obj_black_ledger",
+        "obj_cursed_page"
+      ],
+      "key_stages": [
+        "st_knockturn_alley",
+        "st_diagon_main",
+        "st_diagon_backcourt"
+      ],
+      "world_vars": [
+        "dark_trade_heat",
+        "alertness"
+      ],
+      "phases": [
+        {
+          "phase": "infiltration",
+          "name_cn": "潜伏",
+          "goal": "发现碎片流通规则",
+          "allowed_beat_types": [
+            "TRADE",
+            "REVEAL",
+            "MISDIRECTION",
+            "DISCOVERY"
+          ]
+        },
+        {
+          "phase": "leak",
+          "name_cn": "扩散",
+          "goal": "伪造风格传播",
+          "allowed_beat_types": [
+            "FORGERY",
+            "CHASE",
+            "TRADE",
+            "INTERROGATE",
+            "BROADCAST"
+          ]
+        },
+        {
+          "phase": "conflict",
+          "name_cn": "冲突",
+          "goal": "抄写员现身/账本归属",
+          "allowed_beat_types": [
+            "HEIST",
+            "DUEL",
+            "CHASE",
+            "RITUAL",
+            "TRADE"
+          ]
+        },
+        {
+          "phase": "aftermath",
+          "name_cn": "余波",
+          "goal": "遗产与谣言",
+          "allowed_beat_types": [
+            "AFTERMATH",
+            "REVEAL",
+            "SILENCE"
+          ]
+        }
+      ],
+      "crosslinks": [
+        "thread_gringotts_audit",
+        "thread_floo_fracture"
+      ]
+    },
+    {
+      "thread_id": "thread_gringotts_audit",
+      "name": "古灵阁审计线",
+      "logline": "审计拉开序幕，信用冻结与交换成为新的门槛。",
+      "key_objects": [
+        "obj_tally_stone",
+        "obj_black_ledger"
+      ],
+      "key_stages": [
+        "st_gringotts_hall",
+        "st_diagon_main",
+        "st_portkey_registry"
+      ],
+      "world_vars": [
+        "goblin_tension",
+        "press_glare"
+      ],
+      "phases": [
+        {
+          "phase": "infiltration",
+          "name_cn": "潜伏",
+          "goal": "审计条款落地",
+          "allowed_beat_types": [
+            "COUNCIL",
+            "REVEAL",
+            "TRADE",
+            "INVESTIGATE"
+          ]
+        },
+        {
+          "phase": "leak",
+          "name_cn": "扩散",
+          "goal": "冻结名单外泄",
+          "allowed_beat_types": [
+            "BROADCAST",
+            "INTERROGATE",
+            "MISDIRECTION",
+            "TRADE"
+          ]
+        },
+        {
+          "phase": "conflict",
+          "name_cn": "冲突",
+          "goal": "清算与夺回算石",
+          "allowed_beat_types": [
+            "HEIST",
+            "TRIAL",
+            "DUEL",
+            "CHASE"
+          ]
+        },
+        {
+          "phase": "aftermath",
+          "name_cn": "余波",
+          "goal": "信用重排",
+          "allowed_beat_types": [
+            "AFTERMATH",
+            "COUNCIL",
+            "REVEAL"
+          ]
+        }
+      ],
+      "crosslinks": [
+        "thread_ministry_lockdown",
+        "thread_knockturn_smuggling"
+      ]
+    },
+    {
+      "thread_id": "thread_hogwarts_field",
+      "name": "霍格沃茨外勤线",
+      "logline": "教授带学生外勤追禁书页；‘教学’与‘危险’同时上演。",
+      "key_objects": [
+        "obj_cursed_page",
+        "obj_unseen_key"
+      ],
+      "key_stages": [
+        "st_flourish_blotts",
+        "st_hogwarts_library",
+        "st_room_requirement"
+      ],
+      "world_vars": [
+        "ward_occlusion",
+        "press_glare"
+      ],
+      "phases": [
+        {
+          "phase": "infiltration",
+          "name_cn": "潜伏",
+          "goal": "找到禁书页踪迹",
+          "allowed_beat_types": [
+            "DISCOVERY",
+            "INVESTIGATE",
+            "REVEAL"
+          ]
+        },
+        {
+          "phase": "leak",
+          "name_cn": "扩散",
+          "goal": "学生被卷入门偏",
+          "allowed_beat_types": [
+            "PORTAL",
+            "CHASE",
+            "HEAL",
+            "INTERROGATE"
+          ]
+        },
+        {
+          "phase": "conflict",
+          "name_cn": "冲突",
+          "goal": "收回禁书页/封印",
+          "allowed_beat_types": [
+            "RITUAL",
+            "DUEL",
+            "HEAL",
+            "PORTAL"
+          ]
+        },
+        {
+          "phase": "aftermath",
+          "name_cn": "余波",
+          "goal": "课堂式复盘与词典成长",
+          "allowed_beat_types": [
+            "AFTERMATH",
+            "REVEAL",
+            "SILENCE"
+          ]
+        }
+      ],
+      "crosslinks": [
+        "thread_floo_fracture",
+        "thread_ministry_lockdown"
+      ]
+    },
+    {
+      "thread_id": "thread_creature_surge",
+      "name": "潮汐奇兽线",
+      "logline": "河岸雾潮里出现奇兽躁动；有人在召唤，有人在掩盖。",
+      "key_objects": [
+        "obj_tide_charm",
+        "obj_aether_spindle"
+      ],
+      "key_stages": [
+        "st_thames_mist_dock",
+        "st_forbidden_border",
+        "st_mungo_lobby"
+      ],
+      "world_vars": [
+        "creature_unrest",
+        "ward_occlusion",
+        "alertness"
+      ],
+      "phases": [
+        {
+          "phase": "infiltration",
+          "name_cn": "潜伏",
+          "goal": "辨认生物与召唤者",
+          "allowed_beat_types": [
+            "DISCOVERY",
+            "REVEAL",
+            "INVESTIGATE"
+          ]
+        },
+        {
+          "phase": "leak",
+          "name_cn": "扩散",
+          "goal": "躁动蔓延/伤势出现",
+          "allowed_beat_types": [
+            "SUMMON",
+            "CHASE",
+            "HEAL",
+            "BROADCAST"
+          ]
+        },
+        {
+          "phase": "conflict",
+          "name_cn": "冲突",
+          "goal": "安抚或捕捉/夺回潮汐符",
+          "allowed_beat_types": [
+            "RITUAL",
+            "DUEL",
+            "HEAL",
+            "CHASE"
+          ]
+        },
+        {
+          "phase": "aftermath",
+          "name_cn": "余波",
+          "goal": "生态回声",
+          "allowed_beat_types": [
+            "AFTERMATH",
+            "REVEAL",
+            "COUNCIL"
+          ]
+        }
+      ],
+      "crosslinks": [
+        "thread_floo_fracture",
+        "thread_hogwarts_field"
+      ]
+    }
+  ]
+}

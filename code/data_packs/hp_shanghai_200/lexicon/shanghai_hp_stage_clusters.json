@@ -1,0 +1,676 @@
+[
+  {
+    "cluster_code": "psq",
+    "district": "黄浦",
+    "center_lat": 31.2304,
+    "center_lng": 121.4737,
+    "real_area": "人民广场",
+    "wizarding_zone": "九又四分之三枢纽",
+    "canon_ref": "King's Cross / Platform 9¾",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "base_tags": [
+      "transport",
+      "hub",
+      "portal",
+      "signal",
+      "clue",
+      "order"
+    ],
+    "stage_ids": [
+      "stage_psq_01",
+      "stage_psq_02",
+      "stage_psq_03",
+      "stage_psq_04",
+      "stage_psq_05",
+      "stage_psq_06",
+      "stage_psq_07",
+      "stage_psq_08",
+      "stage_psq_09",
+      "stage_psq_10"
+    ]
+  },
+  {
+    "cluster_code": "njd",
+    "district": "黄浦",
+    "center_lat": 31.235,
+    "center_lng": 121.48,
+    "real_area": "南京东路步行街",
+    "wizarding_zone": "对角巷主街",
+    "canon_ref": "Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_gringotts_audit"
+    ],
+    "base_tags": [
+      "trade",
+      "lanes",
+      "books",
+      "paper",
+      "clue",
+      "seal"
+    ],
+    "stage_ids": [
+      "stage_njd_01",
+      "stage_njd_02",
+      "stage_njd_03",
+      "stage_njd_04",
+      "stage_njd_05",
+      "stage_njd_06",
+      "stage_njd_07",
+      "stage_njd_08",
+      "stage_njd_09",
+      "stage_njd_10"
+    ]
+  },
+  {
+    "cluster_code": "bund",
+    "district": "黄浦",
+    "center_lat": 31.24,
+    "center_lng": 121.49,
+    "real_area": "外滩观光平台",
+    "wizarding_zone": "魔法部东方办事处",
+    "canon_ref": "Ministry of Magic",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_floo_fracture"
+    ],
+    "base_tags": [
+      "ministry",
+      "authority",
+      "audit",
+      "security",
+      "order",
+      "paper",
+      "waterfront"
+    ],
+    "stage_ids": [
+      "stage_bund",
+      "stage_bund_02",
+      "stage_bund_03",
+      "stage_bund_04",
+      "stage_bund_05",
+      "stage_bund_06",
+      "stage_bund_07",
+      "stage_bund_08",
+      "stage_bund_09",
+      "stage_bund_10"
+    ]
+  },
+  {
+    "cluster_code": "yuyuan",
+    "district": "黄浦",
+    "center_lat": 31.227,
+    "center_lng": 121.492,
+    "real_area": "豫园",
+    "wizarding_zone": "翻倒巷/暗市",
+    "canon_ref": "Knockturn Alley",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture"
+    ],
+    "base_tags": [
+      "black_market",
+      "lanes",
+      "forgery",
+      "risk",
+      "secret",
+      "trade",
+      "occlusion"
+    ],
+    "stage_ids": [
+      "stage_yuyuan",
+      "stage_yuyuan_02",
+      "stage_yuyuan_03",
+      "stage_yuyuan_04",
+      "stage_yuyuan_05",
+      "stage_yuyuan_06",
+      "stage_yuyuan_07",
+      "stage_yuyuan_08",
+      "stage_yuyuan_09",
+      "stage_yuyuan_10"
+    ]
+  },
+  {
+    "cluster_code": "xintiandi",
+    "district": "黄浦",
+    "center_lat": 31.2204,
+    "center_lng": 121.4754,
+    "real_area": "新天地",
+    "wizarding_zone": "对角巷南里/破釜后门",
+    "canon_ref": "Leaky Cauldron / Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field"
+    ],
+    "base_tags": [
+      "trade",
+      "lanes",
+      "secret",
+      "clue",
+      "order",
+      "signal"
+    ],
+    "stage_ids": [
+      "stage_xintiandi",
+      "stage_xintiandi_02",
+      "stage_xintiandi_03",
+      "stage_xintiandi_04",
+      "stage_xintiandi_05",
+      "stage_xintiandi_06",
+      "stage_xintiandi_07",
+      "stage_xintiandi_08",
+      "stage_xintiandi_09",
+      "stage_xintiandi_10"
+    ]
+  },
+  {
+    "cluster_code": "huaihai",
+    "district": "黄浦/徐汇",
+    "center_lat": 31.218,
+    "center_lng": 121.466,
+    "real_area": "淮海中路",
+    "wizarding_zone": "预言家日报/摩金高定",
+    "canon_ref": "Daily Prophet / Madam Malkin",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_gringotts_audit",
+      "thread_hogwarts_field"
+    ],
+    "base_tags": [
+      "paper",
+      "order",
+      "clue",
+      "trade",
+      "seal",
+      "audit"
+    ],
+    "stage_ids": [
+      "stage_huaihai_01",
+      "stage_huaihai_02",
+      "stage_huaihai_03",
+      "stage_huaihai_04",
+      "stage_huaihai_05",
+      "stage_huaihai_06",
+      "stage_huaihai_07",
+      "stage_huaihai_08",
+      "stage_huaihai_09",
+      "stage_huaihai_10"
+    ]
+  },
+  {
+    "cluster_code": "tianzifang",
+    "district": "黄浦",
+    "center_lat": 31.21,
+    "center_lng": 121.466,
+    "real_area": "田子坊",
+    "wizarding_zone": "猫头鹰邮局/符文巷",
+    "canon_ref": "Owl Post / Rune Craft",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling"
+    ],
+    "base_tags": [
+      "lanes",
+      "trade",
+      "forgery",
+      "clue",
+      "signal",
+      "paper",
+      "secret"
+    ],
+    "stage_ids": [
+      "stage_tianzifang_01",
+      "stage_tianzifang_02",
+      "stage_tianzifang_03",
+      "stage_tianzifang_04",
+      "stage_tianzifang_05",
+      "stage_tianzifang_06",
+      "stage_tianzifang_07",
+      "stage_tianzifang_08",
+      "stage_tianzifang_09",
+      "stage_tianzifang_10"
+    ]
+  },
+  {
+    "cluster_code": "jingan",
+    "district": "静安",
+    "center_lat": 31.2234,
+    "center_lng": 121.445,
+    "real_area": "静安寺",
+    "wizarding_zone": "圣芒戈/古灵阁分部",
+    "canon_ref": "St Mungo's / Gringotts branch",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "base_tags": [
+      "healing",
+      "order",
+      "security",
+      "secret",
+      "bank",
+      "audit"
+    ],
+    "stage_ids": [
+      "stage_jingantmpl",
+      "stage_jingan_02",
+      "stage_jingan_03",
+      "stage_jingan_04",
+      "stage_jingan_05",
+      "stage_jingan_06",
+      "stage_jingan_07",
+      "stage_jingan_08",
+      "stage_jingan_09",
+      "stage_jingan_10"
+    ]
+  },
+  {
+    "cluster_code": "njw",
+    "district": "静安",
+    "center_lat": 31.229,
+    "center_lng": 121.456,
+    "real_area": "兴业太古汇",
+    "wizarding_zone": "财务司/国际合作司",
+    "canon_ref": "Ministry finance / International cooperation",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "base_tags": [
+      "audit",
+      "paper",
+      "authority",
+      "order",
+      "seal",
+      "security",
+      "finance"
+    ],
+    "stage_ids": [
+      "stage_njw_01",
+      "stage_njw_02",
+      "stage_njw_03",
+      "stage_njw_04",
+      "stage_njw_05",
+      "stage_njw_06",
+      "stage_njw_07",
+      "stage_njw_08",
+      "stage_njw_09",
+      "stage_njw_10"
+    ]
+  },
+  {
+    "cluster_code": "zsp",
+    "district": "长宁",
+    "center_lat": 31.224,
+    "center_lng": 121.424,
+    "real_area": "中山公园",
+    "wizarding_zone": "神奇动物驿站",
+    "canon_ref": "Fantastic Beasts",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "base_tags": [
+      "creature",
+      "mystery",
+      "risk",
+      "signal",
+      "order"
+    ],
+    "stage_ids": [
+      "stage_zsp_01",
+      "stage_zsp_02",
+      "stage_zsp_03",
+      "stage_zsp_04",
+      "stage_zsp_05",
+      "stage_zsp_06",
+      "stage_zsp_07",
+      "stage_zsp_08",
+      "stage_zsp_09",
+      "stage_zsp_10"
+    ]
+  },
+  {
+    "cluster_code": "xujiahui",
+    "district": "徐汇",
+    "center_lat": 31.194,
+    "center_lng": 121.436,
+    "real_area": "徐家汇",
+    "wizarding_zone": "霍格沃茨校友会/外勤教室",
+    "canon_ref": "Hogwarts",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_ministry_lockdown"
+    ],
+    "base_tags": [
+      "school",
+      "books",
+      "clue",
+      "order",
+      "security"
+    ],
+    "stage_ids": [
+      "stage_xujiahui_01",
+      "stage_xujiahui_02",
+      "stage_xujiahui_03",
+      "stage_xujiahui_04",
+      "stage_xujiahui_05",
+      "stage_xujiahui_06",
+      "stage_xujiahui_07",
+      "stage_xujiahui_08",
+      "stage_xujiahui_09",
+      "stage_xujiahui_10"
+    ]
+  },
+  {
+    "cluster_code": "wukang",
+    "district": "徐汇",
+    "center_lat": 31.206,
+    "center_lng": 121.438,
+    "real_area": "武康路",
+    "wizarding_zone": "凤凰社安全屋/双面镜",
+    "canon_ref": "Order of the Phoenix",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_hogwarts_field",
+      "thread_knockturn_smuggling"
+    ],
+    "base_tags": [
+      "secret",
+      "clue",
+      "lanes",
+      "order",
+      "occlusion",
+      "security"
+    ],
+    "stage_ids": [
+      "stage_wukang_01",
+      "stage_wukang_02",
+      "stage_wukang_03",
+      "stage_wukang_04",
+      "stage_wukang_05",
+      "stage_wukang_06",
+      "stage_wukang_07",
+      "stage_wukang_08",
+      "stage_wukang_09",
+      "stage_wukang_10"
+    ]
+  },
+  {
+    "cluster_code": "rail",
+    "district": "静安",
+    "center_lat": 31.25,
+    "center_lng": 121.459,
+    "real_area": "上海火车站",
+    "wizarding_zone": "门钥匙列车/飞路接驳",
+    "canon_ref": "Portkey / Floo network",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "base_tags": [
+      "transport",
+      "hub",
+      "portal",
+      "signal",
+      "risk",
+      "security"
+    ],
+    "stage_ids": [
+      "stage_rail_01",
+      "stage_rail_02",
+      "stage_rail_03",
+      "stage_rail_04",
+      "stage_rail_05",
+      "stage_rail_06",
+      "stage_rail_07",
+      "stage_rail_08",
+      "stage_rail_09",
+      "stage_rail_10"
+    ]
+  },
+  {
+    "cluster_code": "northbund",
+    "district": "虹口",
+    "center_lat": 31.248,
+    "center_lng": 121.5,
+    "real_area": "北外滩滨江",
+    "wizarding_zone": "黑湖码头/魔法海关",
+    "canon_ref": "Black Lake Dock / Smuggling interdiction",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "base_tags": [
+      "waterfront",
+      "transport",
+      "signal",
+      "trade",
+      "risk",
+      "occlusion",
+      "security"
+    ],
+    "stage_ids": [
+      "stage_northbund_01",
+      "stage_northbund_02",
+      "stage_northbund_03",
+      "stage_northbund_04",
+      "stage_northbund_05",
+      "stage_northbund_06",
+      "stage_northbund_07",
+      "stage_northbund_08",
+      "stage_northbund_09",
+      "stage_northbund_10"
+    ]
+  },
+  {
+    "cluster_code": "hongkou",
+    "district": "虹口",
+    "center_lat": 31.276,
+    "center_lng": 121.488,
+    "real_area": "虹口足球场",
+    "wizarding_zone": "傲罗训练区/档案馆",
+    "canon_ref": "Auror Office / Law Enforcement",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_knockturn_smuggling",
+      "thread_creature_surge"
+    ],
+    "base_tags": [
+      "authority",
+      "security",
+      "order",
+      "audit",
+      "clue",
+      "risk"
+    ],
+    "stage_ids": [
+      "stage_hongkou_01",
+      "stage_hongkou_02",
+      "stage_hongkou_03",
+      "stage_hongkou_04",
+      "stage_hongkou_05",
+      "stage_hongkou_06",
+      "stage_hongkou_07",
+      "stage_hongkou_08",
+      "stage_hongkou_09",
+      "stage_hongkou_10"
+    ]
+  },
+  {
+    "cluster_code": "lujiazui",
+    "district": "浦东",
+    "center_lat": 31.24,
+    "center_lng": 121.506,
+    "real_area": "陆家嘴环路",
+    "wizarding_zone": "古灵阁东方分行",
+    "canon_ref": "Gringotts",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "base_tags": [
+      "bank",
+      "finance",
+      "audit",
+      "security",
+      "seal",
+      "paper"
+    ],
+    "stage_ids": [
+      "stage_lujiazui",
+      "stage_lujiazui_02",
+      "stage_lujiazui_03",
+      "stage_lujiazui_04",
+      "stage_lujiazui_05",
+      "stage_lujiazui_06",
+      "stage_lujiazui_07",
+      "stage_lujiazui_08",
+      "stage_lujiazui_09",
+      "stage_lujiazui_10"
+    ]
+  },
+  {
+    "cluster_code": "centuryave",
+    "district": "浦东",
+    "center_lat": 31.222,
+    "center_lng": 121.538,
+    "real_area": "世纪大道",
+    "wizarding_zone": "魔法科技展/国际合作",
+    "canon_ref": "Department of Mysteries / Muggle studies",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "base_tags": [
+      "signal",
+      "clue",
+      "order",
+      "authority",
+      "paper",
+      "transport"
+    ],
+    "stage_ids": [
+      "stage_centuryave_01",
+      "stage_centuryave_02",
+      "stage_centuryave_03",
+      "stage_centuryave_04",
+      "stage_centuryave_05",
+      "stage_centuryave_06",
+      "stage_centuryave_07",
+      "stage_centuryave_08",
+      "stage_centuryave_09",
+      "stage_centuryave_10"
+    ]
+  },
+  {
+    "cluster_code": "centurypark",
+    "district": "浦东",
+    "center_lat": 31.215,
+    "center_lng": 121.546,
+    "real_area": "世纪公园",
+    "wizarding_zone": "禁林投影区",
+    "canon_ref": "Forbidden Forest",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "base_tags": [
+      "creature",
+      "mystery",
+      "risk",
+      "ritual",
+      "occlusion",
+      "signal"
+    ],
+    "stage_ids": [
+      "stage_centurypark_01",
+      "stage_centurypark_02",
+      "stage_centurypark_03",
+      "stage_centurypark_04",
+      "stage_centurypark_05",
+      "stage_centurypark_06",
+      "stage_centurypark_07",
+      "stage_centurypark_08",
+      "stage_centurypark_09",
+      "stage_centurypark_10"
+    ]
+  },
+  {
+    "cluster_code": "fudan",
+    "district": "杨浦",
+    "center_lat": 31.297,
+    "center_lng": 121.503,
+    "real_area": "复旦大学邯郸校区",
+    "wizarding_zone": "魔法研究所",
+    "canon_ref": "Hogwarts research / Library",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_creature_surge"
+    ],
+    "base_tags": [
+      "school",
+      "books",
+      "clue",
+      "secret",
+      "order",
+      "paper"
+    ],
+    "stage_ids": [
+      "stage_fudan_01",
+      "stage_fudan_02",
+      "stage_fudan_03",
+      "stage_fudan_04",
+      "stage_fudan_05",
+      "stage_fudan_06",
+      "stage_fudan_07",
+      "stage_fudan_08",
+      "stage_fudan_09",
+      "stage_fudan_10"
+    ]
+  },
+  {
+    "cluster_code": "wujiaochang",
+    "district": "杨浦",
+    "center_lat": 31.302,
+    "center_lng": 121.514,
+    "real_area": "五角场",
+    "wizarding_zone": "对角巷北口/巫师广播",
+    "canon_ref": "Diagon Alley (north) / Wizarding wireless",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field",
+      "thread_floo_fracture"
+    ],
+    "base_tags": [
+      "hub",
+      "trade",
+      "signal",
+      "clue",
+      "order",
+      "lanes"
+    ],
+    "stage_ids": [
+      "stage_wujiaochang_01",
+      "stage_wujiaochang_02",
+      "stage_wujiaochang_03",
+      "stage_wujiaochang_04",
+      "stage_wujiaochang_05",
+      "stage_wujiaochang_06",
+      "stage_wujiaochang_07",
+      "stage_wujiaochang_08",
+      "stage_wujiaochang_09",
+      "stage_wujiaochang_10"
+    ]
+  }
+]

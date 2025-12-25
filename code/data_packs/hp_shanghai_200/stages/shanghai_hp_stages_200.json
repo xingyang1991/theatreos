@@ -1,0 +1,3851 @@
+[
+  {
+    "stage_id": "stage_psq_01",
+    "name": "人民广场·九又四分之三候车厅",
+    "lat": 31.230481,
+    "lng": 121.473531,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_psq_02",
+    "name": "上海博物馆·九又四分之三检票口",
+    "lat": 31.230454,
+    "lng": 121.475776,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_psq_03",
+    "name": "上海大剧院·霍格沃茨快线广播",
+    "lat": 31.23049,
+    "lng": 121.471667,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "paper",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_psq_04",
+    "name": "城市规划展示馆·魔法交通司调度台",
+    "lat": 31.231986,
+    "lng": 121.473552,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_psq_05",
+    "name": "人民公园·门钥匙登记处",
+    "lat": 31.228895,
+    "lng": 121.473658,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_psq_06",
+    "name": "来福士广场·飞路紧急接驳点",
+    "lat": 31.232148,
+    "lng": 121.475754,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_psq_07",
+    "name": "福州路口·骑士公交临停站",
+    "lat": 31.228643,
+    "lng": 121.475723,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_psq_08",
+    "name": "黄河路口·猫头鹰投递窗口",
+    "lat": 31.231859,
+    "lng": 121.471772,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_psq_09",
+    "name": "延安东路口·麻瓜驱散咒警示牌",
+    "lat": 31.228733,
+    "lng": 121.471667,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_psq_10",
+    "name": "南京西路口·隐形斗篷失物处",
+    "lat": 31.230418,
+    "lng": 121.477177,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njd_01",
+    "name": "南京东路步行街·破釜酒吧正门",
+    "lat": 31.235081,
+    "lng": 121.480105,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njd_02",
+    "name": "第一百货·奥利凡德魔杖店",
+    "lat": 31.235036,
+    "lng": 121.482097,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njd_03",
+    "name": "世茂广场·丽痕书店",
+    "lat": 31.234937,
+    "lng": 121.47823,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njd_04",
+    "name": "置地广场·摩金夫人长袍店",
+    "lat": 31.236441,
+    "lng": 121.479789,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njd_05",
+    "name": "南京东路地铁站·韦斯莱把戏坊",
+    "lat": 31.233315,
+    "lng": 121.479831,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njd_06",
+    "name": "四川中路口·咿啦猫头鹰店",
+    "lat": 31.236468,
+    "lng": 121.482002,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njd_07",
+    "name": "河南中路口·斯拉格与吉格斯药房",
+    "lat": 31.233486,
+    "lng": 121.481802,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "books",
+      "clue",
+      "healing",
+      "lanes",
+      "order",
+      "paper",
+      "seal",
+      "secret",
+      "security",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njd_08",
+    "name": "福州路书店街·神奇动物橱窗",
+    "lat": 31.236631,
+    "lng": 121.478198,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njd_09",
+    "name": "江西中路口·预言家日报摊",
+    "lat": 31.233306,
+    "lng": 121.478093,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "order",
+      "paper",
+      "seal",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njd_10",
+    "name": "外滩口（南京东路）·古灵阁咨询台",
+    "lat": 31.234919,
+    "lng": 121.483488,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "audit",
+      "bank",
+      "books",
+      "clue",
+      "finance",
+      "lanes",
+      "paper",
+      "seal",
+      "security",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_bund",
+    "name": "外滩观光平台·魔法部东办门厅",
+    "lat": 31.240117,
+    "lng": 121.489842,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_bund_02",
+    "name": "和平饭店·法律执行司值班",
+    "lat": 31.240135,
+    "lng": 121.491749,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_bund_03",
+    "name": "外白渡桥·神秘事务司镜厅",
+    "lat": 31.240108,
+    "lng": 121.487945,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_bund_04",
+    "name": "外滩源·威森加摩分庭",
+    "lat": 31.241613,
+    "lng": 121.489789,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_bund_05",
+    "name": "海关大楼·魔法事故与灾害司",
+    "lat": 31.238252,
+    "lng": 121.490084,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_bund_06",
+    "name": "黄浦江游船码头·记忆注销处",
+    "lat": 31.241631,
+    "lng": 121.491939,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_bund_07",
+    "name": "中山东一路·禁言令公告墙",
+    "lat": 31.238288,
+    "lng": 121.491823,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_bund_08",
+    "name": "罗斯福公馆·国际合作司会客",
+    "lat": 31.241577,
+    "lng": 121.48824,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_bund_09",
+    "name": "汇丰大楼·预言家部委记者席",
+    "lat": 31.23855,
+    "lng": 121.488198,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "signal",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_bund_10",
+    "name": "观光隧道口（外滩）·守护咒巡逻线",
+    "lat": 31.239874,
+    "lng": 121.493372,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_yuyuan",
+    "name": "豫园·翻倒巷博金-博克",
+    "lat": 31.226928,
+    "lng": 121.491926,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_yuyuan_02",
+    "name": "城隍庙·黑魔法器具铺",
+    "lat": 31.226973,
+    "lng": 121.493875,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_yuyuan_03",
+    "name": "豫园商城·诅咒修补匠",
+    "lat": 31.227054,
+    "lng": 121.490125,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_yuyuan_04",
+    "name": "九曲桥·伪造印章作坊",
+    "lat": 31.228586,
+    "lng": 121.49181,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_yuyuan_05",
+    "name": "方浜中路·暗市交换所",
+    "lat": 31.225477,
+    "lng": 121.491958,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_yuyuan_06",
+    "name": "福佑路口·禁书摊夜读角",
+    "lat": 31.228631,
+    "lng": 121.493991,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_yuyuan_07",
+    "name": "豫园地铁站·失落门钥匙仓",
+    "lat": 31.225441,
+    "lng": 121.493707,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "black_market",
+      "clue",
+      "forgery",
+      "hub",
+      "lanes",
+      "occlusion",
+      "order",
+      "portal",
+      "risk",
+      "secret",
+      "security",
+      "signal",
+      "trade",
+      "transport"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_yuyuan_08",
+    "name": "小南门口·隐形墨水柜台",
+    "lat": 31.228748,
+    "lng": 121.490104,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_yuyuan_09",
+    "name": "十六铺码头·走私暗号墙",
+    "lat": 31.225423,
+    "lng": 121.49004,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_yuyuan_10",
+    "name": "老城厢街口·摄魂怪谣言角",
+    "lat": 31.226982,
+    "lng": 121.495255,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_xintiandi",
+    "name": "新天地·对角巷南里",
+    "lat": 31.22031,
+    "lng": 121.47521,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xintiandi_02",
+    "name": "太平桥公园·破釜酒吧后门",
+    "lat": 31.220427,
+    "lng": 121.477138,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xintiandi_03",
+    "name": "马当路口·凤凰社茶会点",
+    "lat": 31.220328,
+    "lng": 121.473293,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "creature",
+      "lanes",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_xintiandi_04",
+    "name": "香港广场·变身术沙龙",
+    "lat": 31.222139,
+    "lng": 121.475295,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xintiandi_05",
+    "name": "一大会址旁·记忆酒吧",
+    "lat": 31.218959,
+    "lng": 121.4754,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xintiandi_06",
+    "name": "瑞金二路口·隐形斗篷寄存处",
+    "lat": 31.222202,
+    "lng": 121.477349,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xintiandi_07",
+    "name": "复兴公园口·双面镜联络台",
+    "lat": 31.21876,
+    "lng": 121.477391,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xintiandi_08",
+    "name": "南里广场·福灵剂小赌局",
+    "lat": 31.221932,
+    "lng": 121.473388,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xintiandi_09",
+    "name": "北里广场·护身符交换桌",
+    "lat": 31.218895,
+    "lng": 121.473599,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "ritual",
+      "seal",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xintiandi_10",
+    "name": "淮海中路口（新天地）·夜巡暗号处",
+    "lat": 31.220535,
+    "lng": 121.478834,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_huaihai_01",
+    "name": "淮海中路·预言家日报编辑部",
+    "lat": 31.21809,
+    "lng": 121.465789,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "clue",
+      "order",
+      "paper",
+      "seal",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_huaihai_02",
+    "name": "K11购物艺术中心·摩金夫人高定室",
+    "lat": 31.218117,
+    "lng": 121.468075,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "clue",
+      "order",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_huaihai_03",
+    "name": "iapm环贸·魔法界画廊会客",
+    "lat": 31.217892,
+    "lng": 121.464072,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "clue",
+      "order",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_huaihai_04",
+    "name": "陕西南路口·古灵阁贵宾咨询",
+    "lat": 31.219721,
+    "lng": 121.466,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_huaihai_05",
+    "name": "上海图书馆·魔药调香馆",
+    "lat": 31.21655,
+    "lng": 121.465905,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "clue",
+      "order",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_huaihai_06",
+    "name": "思南公馆·禁书阅览室",
+    "lat": 31.219523,
+    "lng": 121.467696,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "audit",
+      "black_market",
+      "clue",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "order",
+      "paper",
+      "risk",
+      "seal",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_huaihai_07",
+    "name": "瑞金医院·魔法部公关处",
+    "lat": 31.216495,
+    "lng": 121.467844,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "ministry",
+      "order",
+      "paper",
+      "seal",
+      "security",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_huaihai_08",
+    "name": "复兴中路口·时间转换器展柜",
+    "lat": 31.219757,
+    "lng": 121.464199,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "clue",
+      "order",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_huaihai_09",
+    "name": "茂名南路口·巫师电台播音间",
+    "lat": 31.21627,
+    "lng": 121.463893,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "clue",
+      "order",
+      "paper",
+      "seal",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_huaihai_10",
+    "name": "巨鹿路口·麻瓜研究伪装间",
+    "lat": 31.218063,
+    "lng": 121.469276,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "seal",
+      "secret",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_tianzifang_01",
+    "name": "田子坊·猫头鹰邮局分拣间",
+    "lat": 31.210135,
+    "lng": 121.465874,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "paper",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_tianzifang_02",
+    "name": "泰康路口·咿啦猫头鹰寄养处",
+    "lat": 31.210045,
+    "lng": 121.467928,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "paper",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_tianzifang_03",
+    "name": "打浦桥口·符文刻印摊",
+    "lat": 31.20982,
+    "lng": 121.463988,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "order",
+      "paper",
+      "ritual",
+      "seal",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_tianzifang_04",
+    "name": "日月光中心·门钥匙工坊",
+    "lat": 31.211658,
+    "lng": 121.465863,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "forgery",
+      "hub",
+      "lanes",
+      "order",
+      "paper",
+      "portal",
+      "secret",
+      "security",
+      "signal",
+      "trade",
+      "transport"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_tianzifang_05",
+    "name": "丽园路口·魔杖修理铺",
+    "lat": 31.208342,
+    "lng": 121.465989,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "paper",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_tianzifang_06",
+    "name": "南昌路口·纸鹤咒信摊",
+    "lat": 31.211586,
+    "lng": 121.467759,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "paper",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_tianzifang_07",
+    "name": "建国中路口·隐形墨水铺",
+    "lat": 31.208532,
+    "lng": 121.467991,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "black_market",
+      "clue",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "paper",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_tianzifang_08",
+    "name": "斜土路口·迷路符路标处",
+    "lat": 31.21164,
+    "lng": 121.464083,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "paper",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_tianzifang_09",
+    "name": "绍兴路口·冥想盆展示柜",
+    "lat": 31.208297,
+    "lng": 121.463904,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "paper",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_tianzifang_10",
+    "name": "思南路口·活点地图碎片墙",
+    "lat": 31.210063,
+    "lng": 121.46956,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "paper",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_jingantmpl",
+    "name": "静安寺·古灵阁静安分部",
+    "lat": 31.223283,
+    "lng": 121.445011,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "healing",
+      "order",
+      "paper",
+      "seal",
+      "secret",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_jingan_02",
+    "name": "久光百货·圣芒戈东区急诊",
+    "lat": 31.223337,
+    "lng": 121.44677,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "healing",
+      "order",
+      "secret",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_jingan_03",
+    "name": "静安公园·咒伤科诊疗台",
+    "lat": 31.223571,
+    "lng": 121.443283,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "healing",
+      "order",
+      "secret",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_jingan_04",
+    "name": "静安嘉里中心·记忆创伤科",
+    "lat": 31.225085,
+    "lng": 121.444853,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "healing",
+      "order",
+      "secret",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_jingan_05",
+    "name": "南京西路（静安寺段）·解咒药房",
+    "lat": 31.221661,
+    "lng": 121.444937,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "healing",
+      "order",
+      "secret",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_jingan_06",
+    "name": "常德路口·失控咒隔离室",
+    "lat": 31.225193,
+    "lng": 121.447033,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "healing",
+      "order",
+      "secret",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_jingan_07",
+    "name": "愚园路口·复方汤剂取药处",
+    "lat": 31.221688,
+    "lng": 121.447033,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "healing",
+      "order",
+      "secret",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_jingan_08",
+    "name": "华山路口·石化急救床",
+    "lat": 31.22495,
+    "lng": 121.442914,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "healing",
+      "order",
+      "secret",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_jingan_09",
+    "name": "武定路口·护身符诊疗台",
+    "lat": 31.221814,
+    "lng": 121.443314,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "healing",
+      "order",
+      "ritual",
+      "seal",
+      "secret",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_jingan_10",
+    "name": "静安寺地铁站·禁林咬伤处理点",
+    "lat": 31.223355,
+    "lng": 121.448445,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "creature",
+      "healing",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "secret",
+      "security",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njw_01",
+    "name": "兴业太古汇·魔法部财务司审计处",
+    "lat": 31.229162,
+    "lng": 121.456095,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "bank",
+      "finance",
+      "ministry",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njw_02",
+    "name": "恒隆广场·古灵阁账簿室",
+    "lat": 31.229117,
+    "lng": 121.457707,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "bank",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njw_03",
+    "name": "梅龙镇广场·预言家风向室",
+    "lat": 31.228838,
+    "lng": 121.454293,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njw_04",
+    "name": "吴江路口·国际合作司签证台",
+    "lat": 31.230441,
+    "lng": 121.456105,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "finance",
+      "ministry",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njw_05",
+    "name": "上海展览中心·傲罗装备库",
+    "lat": 31.227541,
+    "lng": 121.456,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njw_06",
+    "name": "上海商城·防伪封印处",
+    "lat": 31.230514,
+    "lng": 121.457707,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njw_07",
+    "name": "静安雕塑公园·魔法合同盖章处",
+    "lat": 31.227486,
+    "lng": 121.457686,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njw_08",
+    "name": "南京西路地铁站·保密法宣誓台",
+    "lat": 31.230802,
+    "lng": 121.453946,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "finance",
+      "ministry",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njw_09",
+    "name": "石门一路口·麻瓜媒体干预组",
+    "lat": 31.227405,
+    "lng": 121.45403,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_njw_10",
+    "name": "铜仁路口·幻影广告牌",
+    "lat": 31.229,
+    "lng": 121.459171,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_zsp_01",
+    "name": "中山公园·神奇动物安置点",
+    "lat": 31.223865,
+    "lng": 121.424211,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "order",
+      "risk",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_zsp_02",
+    "name": "龙之梦购物中心·神奇动物巡护站",
+    "lat": 31.224063,
+    "lng": 121.425854,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "order",
+      "risk",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_zsp_03",
+    "name": "长宁路口·独角兽水源点",
+    "lat": 31.224036,
+    "lng": 121.42222,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_zsp_04",
+    "name": "定西路口·夜骐牧场",
+    "lat": 31.225613,
+    "lng": 121.423853,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_zsp_05",
+    "name": "江苏路口·护树罗锅小窝",
+    "lat": 31.22227,
+    "lng": 121.424158,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_zsp_06",
+    "name": "愚园路（长宁段）·嗅嗅巡逻点",
+    "lat": 31.225649,
+    "lng": 121.425896,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_zsp_07",
+    "name": "延安西路口·马人观测点",
+    "lat": 31.222333,
+    "lng": 121.425886,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "paper",
+      "risk",
+      "ritual",
+      "school",
+      "secret",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_zsp_08",
+    "name": "凯旋路口·摄魂怪预警灯",
+    "lat": 31.225559,
+    "lng": 121.421914,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "order",
+      "risk",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_zsp_09",
+    "name": "中山公园地铁站·禁林投影边缘",
+    "lat": 31.222414,
+    "lng": 121.421904,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_zsp_10",
+    "name": "虹桥路口·凤凰栖木",
+    "lat": 31.223919,
+    "lng": 121.427508,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xujiahui_01",
+    "name": "徐家汇·校友会沪上会馆",
+    "lat": 31.193973,
+    "lng": 121.436126,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xujiahui_02",
+    "name": "港汇恒隆广场·魔法史讲堂",
+    "lat": 31.193919,
+    "lng": 121.437822,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xujiahui_03",
+    "name": "美罗城·拉文克劳资料室",
+    "lat": 31.194117,
+    "lng": 121.434262,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xujiahui_04",
+    "name": "徐家汇天主教堂·格兰芬多集结点",
+    "lat": 31.195586,
+    "lng": 121.436179,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "school",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xujiahui_05",
+    "name": "徐家汇公园·赫奇帕奇补给间",
+    "lat": 31.192351,
+    "lng": 121.436063,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "school",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xujiahui_06",
+    "name": "太平洋百货·斯莱特林暗室",
+    "lat": 31.195622,
+    "lng": 121.438022,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "school",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xujiahui_07",
+    "name": "徐家汇地铁站·黑魔防练习场",
+    "lat": 31.192261,
+    "lng": 121.437927,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "black_market",
+      "books",
+      "clue",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "order",
+      "risk",
+      "school",
+      "secret",
+      "security",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_xujiahui_08",
+    "name": "衡山路口（徐家汇）·飞行课看台",
+    "lat": 31.195703,
+    "lng": 121.434252,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "school",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xujiahui_09",
+    "name": "徐家汇书院·分院帽问答桌",
+    "lat": 31.192559,
+    "lng": 121.434283,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "school",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_xujiahui_10",
+    "name": "上海体育馆口·OWL考试公告栏",
+    "lat": 31.194162,
+    "lng": 121.439549,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "books",
+      "clue",
+      "ministry",
+      "order",
+      "paper",
+      "school",
+      "secret",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_wukang_01",
+    "name": "武康路·凤凰社密会门环",
+    "lat": 31.206153,
+    "lng": 121.437958,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "creature",
+      "lanes",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "secret",
+      "security",
+      "signal"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_wukang_02",
+    "name": "安福路·双面镜交换柜",
+    "lat": 31.206108,
+    "lng": 121.439696,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "occlusion",
+      "order",
+      "secret",
+      "security"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_wukang_03",
+    "name": "衡山路·记忆瓶暗柜",
+    "lat": 31.206153,
+    "lng": 121.436136,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "occlusion",
+      "order",
+      "secret",
+      "security"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_wukang_04",
+    "name": "复兴西路·预言厅碎片收藏",
+    "lat": 31.207703,
+    "lng": 121.437905,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "occlusion",
+      "order",
+      "secret",
+      "security"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_wukang_05",
+    "name": "乌鲁木齐中路·隐形披风投影廊",
+    "lat": 31.204261,
+    "lng": 121.437989,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "occlusion",
+      "order",
+      "secret",
+      "security"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_wukang_06",
+    "name": "上海交大徐汇校区·守护神练习点",
+    "lat": 31.207541,
+    "lng": 121.440054,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "occlusion",
+      "order",
+      "secret",
+      "security"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_wukang_07",
+    "name": "宋庆龄故居·合法化身术诊所",
+    "lat": 31.204505,
+    "lng": 121.439991,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "occlusion",
+      "order",
+      "secret",
+      "security"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_wukang_08",
+    "name": "巴金故居·禁咒事故档案点",
+    "lat": 31.20764,
+    "lng": 121.43602,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "lanes",
+      "ministry",
+      "occlusion",
+      "order",
+      "paper",
+      "secret",
+      "security"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_wukang_09",
+    "name": "上海音乐学院·魂器谣言角",
+    "lat": 31.204261,
+    "lng": 121.435978,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "black_market",
+      "clue",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "order",
+      "risk",
+      "secret",
+      "security",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_wukang_10",
+    "name": "湖南路口·夜巡暗线",
+    "lat": 31.206081,
+    "lng": 121.441486,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "clue",
+      "lanes",
+      "occlusion",
+      "order",
+      "secret",
+      "security"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_rail_01",
+    "name": "上海火车站·门钥匙列车厢",
+    "lat": 31.249964,
+    "lng": 121.458842,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_rail_02",
+    "name": "长途客运总站·飞路炉灰清理站",
+    "lat": 31.250045,
+    "lng": 121.460918,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_rail_03",
+    "name": "苏州河步道·交通司调度间",
+    "lat": 31.250036,
+    "lng": 121.457114,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_rail_04",
+    "name": "M50创意园·失控门封印站",
+    "lat": 31.251721,
+    "lng": 121.458831,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "hub",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_rail_05",
+    "name": "长寿路口·骑士公交换乘点",
+    "lat": 31.248342,
+    "lng": 121.458821,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_rail_06",
+    "name": "天潼路口·行李幻影柜",
+    "lat": 31.251739,
+    "lng": 121.460886,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "hub",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_rail_07",
+    "name": "中潭路口·猫头鹰快递站",
+    "lat": 31.248414,
+    "lng": 121.460823,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "hub",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_rail_08",
+    "name": "昌化路口·防伪检票咒",
+    "lat": 31.251802,
+    "lng": 121.457093,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_rail_09",
+    "name": "光复西路口·信号干扰屏",
+    "lat": 31.248559,
+    "lng": 121.457072,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "hub",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_rail_10",
+    "name": "上海站北广场·紧急撤离点",
+    "lat": 31.250162,
+    "lng": 121.462225,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_northbund_01",
+    "name": "北外滩滨江·黑湖码头渡口",
+    "lat": 31.248144,
+    "lng": 121.500063,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_northbund_02",
+    "name": "白玉兰广场·魔法海关口岸",
+    "lat": 31.247955,
+    "lng": 121.501812,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_northbund_03",
+    "name": "国际客运中心·走私截停点",
+    "lat": 31.247973,
+    "lng": 121.497956,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_northbund_04",
+    "name": "上海邮轮码头·海雾信号灯塔",
+    "lat": 31.249766,
+    "lng": 121.499821,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_northbund_05",
+    "name": "提篮桥口·国际魁地奇码头",
+    "lat": 31.246225,
+    "lng": 121.5,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_northbund_06",
+    "name": "公平路口·德姆斯特朗货舱",
+    "lat": 31.24973,
+    "lng": 121.501823,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_northbund_07",
+    "name": "东大名路口·门钥匙仓",
+    "lat": 31.246207,
+    "lng": 121.501865,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "occlusion",
+      "order",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_northbund_08",
+    "name": "北外滩来福士口·护岸结界桩",
+    "lat": 31.249775,
+    "lng": 121.498124,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_northbund_09",
+    "name": "虹口滨江绿地·水下回声室",
+    "lat": 31.246405,
+    "lng": 121.497945,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_northbund_10",
+    "name": "外白渡桥北口·港口传闻墙",
+    "lat": 31.247991,
+    "lng": 121.503562,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_hongkou_01",
+    "name": "虹口足球场·傲罗训练场",
+    "lat": 31.276,
+    "lng": 121.488084,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "order",
+      "risk",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_hongkou_02",
+    "name": "鲁迅公园·执法司演练厅",
+    "lat": 31.276,
+    "lng": 121.490003,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "order",
+      "risk",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_hongkou_03",
+    "name": "1933老场坊·记忆抹除培训点",
+    "lat": 31.276171,
+    "lng": 121.486103,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "order",
+      "risk",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_hongkou_04",
+    "name": "多伦路名人街·凤凰社观察台",
+    "lat": 31.277468,
+    "lng": 121.488011,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "security",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_hongkou_05",
+    "name": "四川北路口·黑魔遗物展柜",
+    "lat": 31.274505,
+    "lng": 121.4882,
+    "ringc_m": 800,
+    "ringb_m": 300,
+    "ringa_m": 50,
+    "tags": [
+      "audit",
+      "authority",
+      "black_market",
+      "clue",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "order",
+      "risk",
+      "secret",
+      "security",
+      "signal",
+      "trade"
+    ],
+    "safe_only": false
+  },
+  {
+    "stage_id": "stage_hongkou_06",
+    "name": "海伦路口·禁咒事故档案馆",
+    "lat": 31.277468,
+    "lng": 121.489697,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "ministry",
+      "order",
+      "paper",
+      "risk",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_hongkou_07",
+    "name": "甜爱路口·混淆咒演示点",
+    "lat": 31.274351,
+    "lng": 121.489834,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "order",
+      "risk",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_hongkou_08",
+    "name": "虹口龙之梦口·巡逻路线图",
+    "lat": 31.27755,
+    "lng": 121.485987,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "order",
+      "risk",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_hongkou_09",
+    "name": "邮政博物馆口·审讯模拟室",
+    "lat": 31.274243,
+    "lng": 121.486092,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "order",
+      "risk",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_hongkou_10",
+    "name": "江湾体育场口·战术道具仓",
+    "lat": 31.275838,
+    "lng": 121.49151,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "order",
+      "risk",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_lujiazui",
+    "name": "陆家嘴环路·古灵阁东方分行大厅",
+    "lat": 31.240153,
+    "lng": 121.506011,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_lujiazui_02",
+    "name": "东方明珠·金库门一号",
+    "lat": 31.239946,
+    "lng": 121.507918,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_lujiazui_03",
+    "name": "上海中心·哥布林清算台",
+    "lat": 31.240153,
+    "lng": 121.504304,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_lujiazui_04",
+    "name": "环球金融中心·账簿封印室",
+    "lat": 31.24155,
+    "lng": 121.505852,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_lujiazui_05",
+    "name": "金茂大厦·资产咒印室",
+    "lat": 31.238198,
+    "lng": 121.505905,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_lujiazui_06",
+    "name": "国金中心IFC·魔法金融交易台",
+    "lat": 31.241685,
+    "lng": 121.50777,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_lujiazui_07",
+    "name": "正大广场·护卫巨像岗哨",
+    "lat": 31.238342,
+    "lng": 121.507844,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_lujiazui_08",
+    "name": "陆家嘴地铁站·债券咒文柜",
+    "lat": 31.241495,
+    "lng": 121.504051,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_lujiazui_09",
+    "name": "滨江大道·审计密室",
+    "lat": 31.238351,
+    "lng": 121.504282,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_lujiazui_10",
+    "name": "观光隧道口（浦东）·黑金追踪台",
+    "lat": 31.240135,
+    "lng": 121.509572,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centuryave_01",
+    "name": "世纪大道·国际合作司办证台",
+    "lat": 31.221928,
+    "lng": 121.537916,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centuryave_02",
+    "name": "上海科技馆·麻瓜研究伪装科",
+    "lat": 31.222117,
+    "lng": 121.539854,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "authority",
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centuryave_03",
+    "name": "东方艺术中心·魔法科技展厅",
+    "lat": 31.221901,
+    "lng": 121.535914,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "authority",
+      "clue",
+      "order",
+      "paper",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centuryave_04",
+    "name": "世纪大道地铁站·神秘事务司回声室",
+    "lat": 31.223523,
+    "lng": 121.538,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centuryave_05",
+    "name": "张杨路口·预言家数据台",
+    "lat": 31.220414,
+    "lng": 121.538147,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "authority",
+      "clue",
+      "order",
+      "paper",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centuryave_06",
+    "name": "花木路口·交通枢纽门厅",
+    "lat": 31.223541,
+    "lng": 121.539749,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "authority",
+      "clue",
+      "hub",
+      "order",
+      "paper",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centuryave_07",
+    "name": "迎春路口·时空记录柜",
+    "lat": 31.220315,
+    "lng": 121.539907,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "authority",
+      "clue",
+      "order",
+      "paper",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centuryave_08",
+    "name": "丁香路口·咒语反射屏",
+    "lat": 31.223649,
+    "lng": 121.53623,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "authority",
+      "clue",
+      "order",
+      "paper",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centuryave_09",
+    "name": "科苑路口·低噪观察窗",
+    "lat": 31.220198,
+    "lng": 121.536188,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "authority",
+      "clue",
+      "order",
+      "paper",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centuryave_10",
+    "name": "浦东图书馆口·外交咒印台",
+    "lat": 31.221829,
+    "lng": 121.541255,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "audit",
+      "authority",
+      "bank",
+      "clue",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centurypark_01",
+    "name": "世纪公园·禁林投影入口",
+    "lat": 31.214982,
+    "lng": 121.546084,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centurypark_02",
+    "name": "花木路地铁站·妖精圈",
+    "lat": 31.214901,
+    "lng": 121.547865,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centurypark_03",
+    "name": "新国际博览中心·马人观测点",
+    "lat": 31.21518,
+    "lng": 121.544241,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "paper",
+      "risk",
+      "ritual",
+      "school",
+      "secret",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centurypark_04",
+    "name": "锦绣路口·夜骐牧场",
+    "lat": 31.216658,
+    "lng": 121.546137,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centurypark_05",
+    "name": "罗山路口·独角兽踪迹",
+    "lat": 31.213279,
+    "lng": 121.545916,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centurypark_06",
+    "name": "迎春路（公园段）·海格临时营地",
+    "lat": 31.216631,
+    "lng": 121.547822,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centurypark_07",
+    "name": "世纪公园7号门·狼人警戒线",
+    "lat": 31.213333,
+    "lng": 121.547938,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centurypark_08",
+    "name": "世纪公园2号门·护树罗锅栖地",
+    "lat": 31.216613,
+    "lng": 121.543893,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centurypark_09",
+    "name": "芳甸路口·迷雾祭坛",
+    "lat": 31.213369,
+    "lng": 121.543935,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "clue",
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "seal",
+      "secret",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_centurypark_10",
+    "name": "龙阳路口·放生登记点",
+    "lat": 31.215162,
+    "lng": 121.549266,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_fudan_01",
+    "name": "复旦大学邯郸校区·魔法研究所图书馆",
+    "lat": 31.297153,
+    "lng": 121.503116,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_fudan_02",
+    "name": "邯郸路口·拉文克劳论文室",
+    "lat": 31.297045,
+    "lng": 121.504961,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_fudan_03",
+    "name": "光华楼·预言厅译码室",
+    "lat": 31.297135,
+    "lng": 121.501239,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_fudan_04",
+    "name": "复旦正门·魔咒实验台",
+    "lat": 31.298712,
+    "lng": 121.502873,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_fudan_05",
+    "name": "相辉堂·记忆术研讨室",
+    "lat": 31.29545,
+    "lng": 121.502989,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_fudan_06",
+    "name": "复旦图书馆·符文学讲义柜",
+    "lat": 31.298712,
+    "lng": 121.504929,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "ritual",
+      "school",
+      "seal",
+      "secret"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_fudan_07",
+    "name": "江湾体育场·魔药配方库",
+    "lat": 31.295387,
+    "lng": 121.504887,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_fudan_08",
+    "name": "五角场口（复旦侧）·天文观测台",
+    "lat": 31.298505,
+    "lng": 121.501165,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_fudan_09",
+    "name": "国权路口·保护咒测试点",
+    "lat": 31.295315,
+    "lng": 121.500944,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_fudan_10",
+    "name": "复旦北区·校内密道入口",
+    "lat": 31.296892,
+    "lng": 121.506585,
+    "ringc_m": 1000,
+    "ringb_m": 400,
+    "ringa_m": 60,
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_wujiaochang_01",
+    "name": "五角场·对角巷北口",
+    "lat": 31.302045,
+    "lng": 121.514053,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_wujiaochang_02",
+    "name": "合生汇·魁地奇球迷酒馆",
+    "lat": 31.302162,
+    "lng": 121.515792,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_wujiaochang_03",
+    "name": "万达广场（五角场）·巫师无线电台",
+    "lat": 31.301883,
+    "lng": 121.512281,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "paper",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_wujiaochang_04",
+    "name": "百联又一城·快闪门厅",
+    "lat": 31.303595,
+    "lng": 121.514095,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_wujiaochang_05",
+    "name": "五角场地铁站·交换证物柜",
+    "lat": 31.300495,
+    "lng": 121.514179,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_wujiaochang_06",
+    "name": "淞沪路口·伪装服饰店",
+    "lat": 31.303631,
+    "lng": 121.515814,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_wujiaochang_07",
+    "name": "国定路口·魔法小剧场",
+    "lat": 31.300477,
+    "lng": 121.516024,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_wujiaochang_08",
+    "name": "黄兴路口·风向占卜摊",
+    "lat": 31.303586,
+    "lng": 121.512271,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "paper",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_wujiaochang_09",
+    "name": "创智天地·传闻公告墙",
+    "lat": 31.300432,
+    "lng": 121.512165,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "hub",
+      "lanes",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  },
+  {
+    "stage_id": "stage_wujiaochang_10",
+    "name": "江湾镇口·社团集会点",
+    "lat": 31.302081,
+    "lng": 121.517269,
+    "ringc_m": 1200,
+    "ringb_m": 500,
+    "ringa_m": 80,
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "signal",
+      "trade"
+    ],
+    "safe_only": true
+  }
+]

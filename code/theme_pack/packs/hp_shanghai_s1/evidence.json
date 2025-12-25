@@ -1,0 +1,1047 @@
+{
+  "evidence_types": [
+    {
+      "evidence_type_id": "ev_floo_soot_pattern",
+      "name": "飞路灰纹图",
+      "category": "FLOO",
+      "description": "壁炉灰烬留下的纹路，可推断门偏方向",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "floo_stability",
+        "ward_occlusion"
+      ],
+      "forgeability": "medium",
+      "expiry": "48h",
+      "notes": "RingB更清晰；可伪造但有副作用"
+    },
+    {
+      "evidence_type_id": "ev_floo_timecode",
+      "name": "壁炉时间码碎片",
+      "category": "FLOO",
+      "description": "火焰跳动形成的断续时间码",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "floo_stability"
+      ],
+      "forgeability": "hard",
+      "expiry": "24h",
+      "notes": "用于判断命运门底概率"
+    },
+    {
+      "evidence_type_id": "ev_portkey_stub",
+      "name": "门钥匙票根",
+      "category": "PORTAL",
+      "description": "一次性门钥匙留下的纸质票根",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "floo_stability",
+        "alertness"
+      ],
+      "forgeability": "medium",
+      "expiry": "72h",
+      "notes": "可交易；与登记处比对可验证"
+    },
+    {
+      "evidence_type_id": "ev_portkey_registry_stamp",
+      "name": "登记处盖章页角",
+      "category": "PORTAL",
+      "description": "登记处文件的盖章残角",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "secrecy_pressure"
+      ],
+      "forgeability": "hard",
+      "expiry": "168h",
+      "notes": "高可信；可解锁私场"
+    },
+    {
+      "evidence_type_id": "ev_934_platform_chalk",
+      "name": "站台粉笔短码",
+      "category": "PORTAL",
+      "description": "站台上留下的短码与箭头",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "ward_occlusion"
+      ],
+      "forgeability": "easy",
+      "expiry": "12h",
+      "notes": "容易被覆盖/伪造"
+    },
+    {
+      "evidence_type_id": "ev_portal_misroute_map",
+      "name": "误投路线草图",
+      "category": "PORTAL",
+      "description": "被误投者绘制的路线草图",
+      "default_tier": "C",
+      "provenance_default": "rumor",
+      "used_for": [
+        "floo_stability"
+      ],
+      "forgeability": "easy",
+      "expiry": "72h",
+      "notes": "可信度取决于作者声望"
+    },
+    {
+      "evidence_type_id": "ev_secrecy_decree_leaf",
+      "name": "封口令条款页",
+      "category": "MINISTRY",
+      "description": "临时封口令条款节选",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "secrecy_pressure",
+        "press_glare"
+      ],
+      "forgeability": "hard",
+      "expiry": "168h",
+      "notes": "可能引发巡夜升级"
+    },
+    {
+      "evidence_type_id": "ev_seal_wax_fragment",
+      "name": "封条蜡碎",
+      "category": "MINISTRY",
+      "description": "封条蜡的碎片，含印玺纹理",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "secrecy_pressure"
+      ],
+      "forgeability": "medium",
+      "expiry": "72h",
+      "notes": "可用于验证封锁来源"
+    },
+    {
+      "evidence_type_id": "ev_patrol_route_tick",
+      "name": "巡夜路线勾选表",
+      "category": "MINISTRY",
+      "description": "傲罗巡夜路线的勾选痕迹",
+      "default_tier": "B",
+      "provenance_default": "rumor",
+      "used_for": [
+        "alertness"
+      ],
+      "forgeability": "medium",
+      "expiry": "24h",
+      "notes": "误导可能性高"
+    },
+    {
+      "evidence_type_id": "ev_auror_cuff_mark",
+      "name": "束缚痕",
+      "category": "MINISTRY",
+      "description": "束缚咒残留在衣料/地面的痕迹",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "alertness"
+      ],
+      "forgeability": "hard",
+      "expiry": "48h",
+      "notes": "用于推断追逐拍子发生"
+    },
+    {
+      "evidence_type_id": "ev_wizengamot_docket",
+      "name": "法庭案号卡",
+      "category": "MINISTRY",
+      "description": "威森加摩听证案号与时间窗",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "secrecy_pressure"
+      ],
+      "forgeability": "hard",
+      "expiry": "168h",
+      "notes": "触发审判类拍子"
+    },
+    {
+      "evidence_type_id": "ev_muggle_cover_note",
+      "name": "掩护便签",
+      "category": "MINISTRY",
+      "description": "麻瓜联络处用于遮蔽的便签编码",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "ward_occlusion"
+      ],
+      "forgeability": "hard",
+      "expiry": "72h",
+      "notes": "不包含现实地址；只含舞台ID"
+    },
+    {
+      "evidence_type_id": "ev_goblin_ink_tally",
+      "name": "妖精墨计",
+      "category": "BANK",
+      "description": "妖精羽笔写下的清算符号",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "goblin_tension"
+      ],
+      "forgeability": "hard",
+      "expiry": "168h",
+      "notes": "伪造难；可换取低噪窗口"
+    },
+    {
+      "evidence_type_id": "ev_credit_freeze_notice",
+      "name": "冻结告知函",
+      "category": "BANK",
+      "description": "信用冻结通知（节选）",
+      "default_tier": "B",
+      "provenance_default": "rumor",
+      "used_for": [
+        "goblin_tension",
+        "press_glare"
+      ],
+      "forgeability": "medium",
+      "expiry": "72h",
+      "notes": "可能引发舆论拍子"
+    },
+    {
+      "evidence_type_id": "ev_vault_key_rubbing",
+      "name": "金库钥拓片",
+      "category": "BANK",
+      "description": "钥齿拓片（不含真实钥形）",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "goblin_tension"
+      ],
+      "forgeability": "hard",
+      "expiry": "24h",
+      "notes": "高风险证物；触发夺物"
+    },
+    {
+      "evidence_type_id": "ev_ledger_entry_scrap",
+      "name": "账条碎片",
+      "category": "BANK",
+      "description": "账条记录的一行/半行",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "goblin_tension",
+        "dark_trade_heat"
+      ],
+      "forgeability": "medium",
+      "expiry": "168h",
+      "notes": "与黑账本可拼合"
+    },
+    {
+      "evidence_type_id": "ev_tally_stone_residue",
+      "name": "算石粉末",
+      "category": "BANK",
+      "description": "算石摩擦掉落的粉末",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "goblin_tension"
+      ],
+      "forgeability": "hard",
+      "expiry": "48h",
+      "notes": "需要RingA才清晰"
+    },
+    {
+      "evidence_type_id": "ev_black_ledger_page",
+      "name": "黑账本页",
+      "category": "ALLEY",
+      "description": "黑账本的一页（可能被撕裂）",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "dark_trade_heat",
+        "goblin_tension"
+      ],
+      "forgeability": "medium",
+      "expiry": "168h",
+      "notes": "核心拼图；可被伪造"
+    },
+    {
+      "evidence_type_id": "ev_black_ledger_corner",
+      "name": "黑账本页角",
+      "category": "ALLEY",
+      "description": "黑账本页角（可与其他拼合）",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "dark_trade_heat"
+      ],
+      "forgeability": "easy",
+      "expiry": "168h",
+      "notes": "碎片货币化"
+    },
+    {
+      "evidence_type_id": "ev_knockturn_price_tag",
+      "name": "暗市价签",
+      "category": "ALLEY",
+      "description": "翻倒巷价签与暗号",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "dark_trade_heat"
+      ],
+      "forgeability": "easy",
+      "expiry": "24h",
+      "notes": "可信度低但可引流"
+    },
+    {
+      "evidence_type_id": "ev_forged_seal_imprint",
+      "name": "伪封条印痕",
+      "category": "ALLEY",
+      "description": "伪造封条的压印痕",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "dark_trade_heat",
+        "secrecy_pressure"
+      ],
+      "forgeability": "easy",
+      "expiry": "24h",
+      "notes": "副作用：提高警戒度"
+    },
+    {
+      "evidence_type_id": "ev_broker_short_code",
+      "name": "掮客短码",
+      "category": "ALLEY",
+      "description": "中间人的短码纸条",
+      "default_tier": "C",
+      "provenance_default": "rumor",
+      "used_for": [
+        "dark_trade_heat"
+      ],
+      "forgeability": "easy",
+      "expiry": "12h",
+      "notes": "容易被仿造"
+    },
+    {
+      "evidence_type_id": "ev_receipt_puncture",
+      "name": "票据穿孔",
+      "category": "ALLEY",
+      "description": "交易票据的穿孔样式",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "dark_trade_heat"
+      ],
+      "forgeability": "medium",
+      "expiry": "72h",
+      "notes": "可用于验证同一来源"
+    },
+    {
+      "evidence_type_id": "ev_scribe_paper_fiber",
+      "name": "抄写员纸纤维",
+      "category": "ALLEY",
+      "description": "伪证物纸张纤维特征",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "dark_trade_heat"
+      ],
+      "forgeability": "hard",
+      "expiry": "168h",
+      "notes": "用来识别‘抄写员风格’"
+    },
+    {
+      "evidence_type_id": "ev_restricted_index_card",
+      "name": "禁书索引卡",
+      "category": "SCHOOL",
+      "description": "禁书区索引卡片（节选）",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "ward_occlusion"
+      ],
+      "forgeability": "hard",
+      "expiry": "168h",
+      "notes": "可解锁课堂式私场"
+    },
+    {
+      "evidence_type_id": "ev_cursed_page_strip",
+      "name": "禁书页条",
+      "category": "SCHOOL",
+      "description": "禁书页的一条（含咒式）",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "ward_occlusion",
+        "floo_stability"
+      ],
+      "forgeability": "hard",
+      "expiry": "72h",
+      "notes": "触发仪式/穿门"
+    },
+    {
+      "evidence_type_id": "ev_margin_note",
+      "name": "书页批注",
+      "category": "SCHOOL",
+      "description": "教授/学生留下的页边批注",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "press_glare"
+      ],
+      "forgeability": "easy",
+      "expiry": "168h",
+      "notes": "可形成‘词典碎片’"
+    },
+    {
+      "evidence_type_id": "ev_chalkboard_snapshot",
+      "name": "黑板快照",
+      "category": "SCHOOL",
+      "description": "课堂黑板的关键一角",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "ward_occlusion"
+      ],
+      "forgeability": "medium",
+      "expiry": "72h",
+      "notes": "RingB/A更清晰"
+    },
+    {
+      "evidence_type_id": "ev_room_requirement_token",
+      "name": "有求必应屋小物",
+      "category": "SCHOOL",
+      "description": "屋内留下的小物件（符号化）",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "ward_occlusion"
+      ],
+      "forgeability": "hard",
+      "expiry": "72h",
+      "notes": "强沉浸；不能包含私人信息"
+    },
+    {
+      "evidence_type_id": "ev_astronomy_signal_chart",
+      "name": "天文信号图",
+      "category": "SCHOOL",
+      "description": "塔楼记录的脉冲/闪烁图",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "ward_occlusion"
+      ],
+      "forgeability": "medium",
+      "expiry": "168h",
+      "notes": "用于预测时间窗事件"
+    },
+    {
+      "evidence_type_id": "ev_tide_scale",
+      "name": "潮鳞",
+      "category": "CREATURE",
+      "description": "雾潮生物掉落的鳞片",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "creature_unrest"
+      ],
+      "forgeability": "medium",
+      "expiry": "72h",
+      "notes": "与潮汐符关联"
+    },
+    {
+      "evidence_type_id": "ev_claw_mark_map",
+      "name": "爪痕示意",
+      "category": "CREATURE",
+      "description": "河岸/林缘爪痕示意图",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "creature_unrest"
+      ],
+      "forgeability": "easy",
+      "expiry": "48h",
+      "notes": "可误导：自然痕迹"
+    },
+    {
+      "evidence_type_id": "ev_lowfreq_audio",
+      "name": "低频音片段",
+      "category": "CREATURE",
+      "description": "雾中出现的低频‘脉冲’录音",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "creature_unrest",
+        "ward_occlusion"
+      ],
+      "forgeability": "hard",
+      "expiry": "24h",
+      "notes": "命运门底概率关键"
+    },
+    {
+      "evidence_type_id": "ev_tide_charm_rune",
+      "name": "潮汐符纹",
+      "category": "CREATURE",
+      "description": "潮汐符上的符纹摹本",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "creature_unrest"
+      ],
+      "forgeability": "hard",
+      "expiry": "168h",
+      "notes": "可触发召唤/安抚"
+    },
+    {
+      "evidence_type_id": "ev_mist_salinity_note",
+      "name": "雾盐度记录",
+      "category": "CREATURE",
+      "description": "治疗师记录的雾盐度与症状关联",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "creature_unrest"
+      ],
+      "forgeability": "medium",
+      "expiry": "168h",
+      "notes": "科学化证物，增强可信"
+    },
+    {
+      "evidence_type_id": "ev_forest_spore_bag",
+      "name": "禁林孢子袋",
+      "category": "CREATURE",
+      "description": "林缘采集的孢子袋（符号化）",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "creature_unrest"
+      ],
+      "forgeability": "medium",
+      "expiry": "72h",
+      "notes": "副作用：提高遮蔽雾幕"
+    },
+    {
+      "evidence_type_id": "ev_headline_proof",
+      "name": "头版校样",
+      "category": "MEDIA",
+      "description": "未刊出的头版校样",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "press_glare"
+      ],
+      "forgeability": "medium",
+      "expiry": "48h",
+      "notes": "可影响民意门"
+    },
+    {
+      "evidence_type_id": "ev_photo_negative",
+      "name": "相片底片",
+      "category": "MEDIA",
+      "description": "照片底片（匿名化）",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "press_glare",
+        "secrecy_pressure"
+      ],
+      "forgeability": "hard",
+      "expiry": "72h",
+      "notes": "强证物；高风险"
+    },
+    {
+      "evidence_type_id": "ev_interview_tape",
+      "name": "采访录音带",
+      "category": "MEDIA",
+      "description": "采访录音片段（剪辑）",
+      "default_tier": "C",
+      "provenance_default": "rumor",
+      "used_for": [
+        "press_glare"
+      ],
+      "forgeability": "easy",
+      "expiry": "72h",
+      "notes": "可信度随来源变化"
+    },
+    {
+      "evidence_type_id": "ev_newsroom_censor_mark",
+      "name": "删改标记",
+      "category": "MEDIA",
+      "description": "编辑部删改痕迹",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "press_glare",
+        "secrecy_pressure"
+      ],
+      "forgeability": "medium",
+      "expiry": "168h",
+      "notes": "用于判断‘压稿’后果"
+    },
+    {
+      "evidence_type_id": "ev_rumor_flyer",
+      "name": "谣言传单",
+      "category": "MEDIA",
+      "description": "街头流通的传闻卡（模板化）",
+      "default_tier": "D",
+      "provenance_default": "rumor",
+      "used_for": [
+        "press_glare"
+      ],
+      "forgeability": "easy",
+      "expiry": "24h",
+      "notes": "误导为主，但能引流"
+    },
+    {
+      "evidence_type_id": "ev_broadcast_time_slot",
+      "name": "播报时段表",
+      "category": "MEDIA",
+      "description": "播报/刊发的时段窗口",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "press_glare"
+      ],
+      "forgeability": "medium",
+      "expiry": "168h",
+      "notes": "用于预测曝光事件"
+    },
+    {
+      "evidence_type_id": "ev_diagnosis_card",
+      "name": "诊断卡",
+      "category": "HEAL",
+      "description": "圣芒戈诊断卡（症状编码）",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "ward_occlusion"
+      ],
+      "forgeability": "hard",
+      "expiry": "168h",
+      "notes": "与印记系统联动"
+    },
+    {
+      "evidence_type_id": "ev_potion_label",
+      "name": "药瓶标签",
+      "category": "HEAL",
+      "description": "药剂标签残片",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "ward_occlusion"
+      ],
+      "forgeability": "easy",
+      "expiry": "48h",
+      "notes": "可作为交易小筹码"
+    },
+    {
+      "evidence_type_id": "ev_memory_dizzy_report",
+      "name": "眩晕报告",
+      "category": "HEAL",
+      "description": "错拍导致的记忆眩晕报告（节选）",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "floo_stability"
+      ],
+      "forgeability": "hard",
+      "expiry": "168h",
+      "notes": "用于解释命运门‘失败’代价"
+    },
+    {
+      "evidence_type_id": "ev_shadow_burn_photo",
+      "name": "影子灼伤图",
+      "category": "HEAL",
+      "description": "影子灼伤的匿名图像证物",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "ward_occlusion"
+      ],
+      "forgeability": "medium",
+      "expiry": "72h",
+      "notes": "用于验证‘到场/押门’后果"
+    },
+    {
+      "evidence_type_id": "ev_recovery_window_ticket",
+      "name": "恢复窗口票",
+      "category": "HEAL",
+      "description": "治疗师给的‘恢复窗口’票据",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "ward_occlusion"
+      ],
+      "forgeability": "medium",
+      "expiry": "72h",
+      "notes": "可换取一次低噪倾听"
+    },
+    {
+      "evidence_type_id": "ev_mungo_shift_log",
+      "name": "值班日志片段",
+      "category": "HEAL",
+      "description": "医院值班日志的一角",
+      "default_tier": "C",
+      "provenance_default": "rumor",
+      "used_for": [
+        "ward_occlusion"
+      ],
+      "forgeability": "easy",
+      "expiry": "168h",
+      "notes": "可信度不高但可推时序"
+    },
+    {
+      "evidence_type_id": "ev_mask_stamp",
+      "name": "面具印记",
+      "category": "MISC",
+      "description": "你作为记录员留下的署名印记",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "press_glare"
+      ],
+      "forgeability": "easy",
+      "expiry": "168h",
+      "notes": "用于遗产系统"
+    },
+    {
+      "evidence_type_id": "ev_ticket_stub",
+      "name": "戏票根",
+      "category": "MISC",
+      "description": "演出门厅的票根（不含地理信息）",
+      "default_tier": "D",
+      "provenance_default": "onsite",
+      "used_for": [],
+      "forgeability": "easy",
+      "expiry": "12h",
+      "notes": "可作为交易小额单位"
+    },
+    {
+      "evidence_type_id": "ev_presence_silhouette",
+      "name": "群像剪影帧",
+      "category": "MISC",
+      "description": "匿名群像剪影帧（不可识别）",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "press_glare"
+      ],
+      "forgeability": "hard",
+      "expiry": "24h",
+      "notes": "RingA存在感但安全"
+    },
+    {
+      "evidence_type_id": "ev_pass_token",
+      "name": "通行证令牌",
+      "category": "MISC",
+      "description": "通行证令牌（权限）",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "secrecy_pressure"
+      ],
+      "forgeability": "hard",
+      "expiry": "168h",
+      "notes": "可解锁私场"
+    },
+    {
+      "evidence_type_id": "ev_style_fingerprint",
+      "name": "伪造风格指纹",
+      "category": "MISC",
+      "description": "伪造者的‘风格指纹’（字形/纸纤维/错别）",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "dark_trade_heat"
+      ],
+      "forgeability": "hard",
+      "expiry": "168h",
+      "notes": "用于识别抄写员"
+    },
+    {
+      "evidence_type_id": "ev_time_window_card",
+      "name": "时间窗卡",
+      "category": "MISC",
+      "description": "低噪窗口提示卡",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "ward_occlusion"
+      ],
+      "forgeability": "medium",
+      "expiry": "72h",
+      "notes": "用于押注前判断"
+    },
+    {
+      "evidence_type_id": "ev_fireplace_ash_sample",
+      "name": "灰样封袋",
+      "category": "FLOO",
+      "description": "壁炉灰样封袋（编码）",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "floo_stability"
+      ],
+      "forgeability": "medium",
+      "expiry": "48h",
+      "notes": "需要比对才可信"
+    },
+    {
+      "evidence_type_id": "ev_unspeakable_sig",
+      "name": "神秘司符记",
+      "category": "MYSTERY",
+      "description": "神秘事务司的符记（节选）",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "ward_occlusion"
+      ],
+      "forgeability": "hard",
+      "expiry": "168h",
+      "notes": "用于开启镜厅偏门"
+    },
+    {
+      "evidence_type_id": "ev_mirror_shard",
+      "name": "镜片碎屑",
+      "category": "MYSTERY",
+      "description": "镜厅掉落的镜片碎屑",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "ward_occlusion"
+      ],
+      "forgeability": "hard",
+      "expiry": "72h",
+      "notes": "可能割伤：叙事化呈现"
+    },
+    {
+      "evidence_type_id": "ev_loop_notation",
+      "name": "回环记号",
+      "category": "MYSTERY",
+      "description": "回环事件的记号（时间倒序提示）",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "floo_stability"
+      ],
+      "forgeability": "medium",
+      "expiry": "168h",
+      "notes": "用于识别‘伪信号’"
+    },
+    {
+      "evidence_type_id": "ev_suspect_list_redact",
+      "name": "嫌疑名单删改页",
+      "category": "MINISTRY",
+      "description": "嫌疑名单的删改版本",
+      "default_tier": "C",
+      "provenance_default": "rumor",
+      "used_for": [
+        "alertness",
+        "secrecy_pressure"
+      ],
+      "forgeability": "easy",
+      "expiry": "48h",
+      "notes": "误导与政治性强"
+    },
+    {
+      "evidence_type_id": "ev_market_tax_notice",
+      "name": "市集税变更告示",
+      "category": "ALLEY",
+      "description": "市集税变更告示（节选）",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "dark_trade_heat"
+      ],
+      "forgeability": "easy",
+      "expiry": "72h",
+      "notes": "影响交易拍子"
+    },
+    {
+      "evidence_type_id": "ev_quidditch_ticket",
+      "name": "魁地奇赛票",
+      "category": "SCHOOL",
+      "description": "球赛门票（符号化）",
+      "default_tier": "D",
+      "provenance_default": "onsite",
+      "used_for": [
+        "press_glare"
+      ],
+      "forgeability": "easy",
+      "expiry": "24h",
+      "notes": "用于引流与掩护"
+    },
+    {
+      "evidence_type_id": "ev_crowd_chant_audio",
+      "name": "人群口号片段",
+      "category": "SCHOOL",
+      "description": "观众口号/节拍音",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "press_glare"
+      ],
+      "forgeability": "easy",
+      "expiry": "12h",
+      "notes": "强化真实时间氛围"
+    },
+    {
+      "evidence_type_id": "ev_lane_arrow",
+      "name": "暗巷箭头痕",
+      "category": "ALLEY",
+      "description": "暗巷地面的箭头痕迹",
+      "default_tier": "D",
+      "provenance_default": "onsite",
+      "used_for": [
+        "dark_trade_heat"
+      ],
+      "forgeability": "easy",
+      "expiry": "6h",
+      "notes": "易衰减/覆盖"
+    },
+    {
+      "evidence_type_id": "ev_wardline_map",
+      "name": "封锁线示意",
+      "category": "MINISTRY",
+      "description": "封锁线示意图（舞台级）",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "secrecy_pressure",
+        "alertness"
+      ],
+      "forgeability": "medium",
+      "expiry": "24h",
+      "notes": "用于规划赶场"
+    },
+    {
+      "evidence_type_id": "ev_goblin_contract_clause",
+      "name": "契约条款节选",
+      "category": "BANK",
+      "description": "妖精契约条款的一段",
+      "default_tier": "A",
+      "provenance_default": "onsite",
+      "used_for": [
+        "goblin_tension"
+      ],
+      "forgeability": "hard",
+      "expiry": "168h",
+      "notes": "用于审计门"
+    },
+    {
+      "evidence_type_id": "ev_broker_token",
+      "name": "掮客筹码",
+      "category": "ALLEY",
+      "description": "交易筹码（符号化）",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "dark_trade_heat"
+      ],
+      "forgeability": "medium",
+      "expiry": "72h",
+      "notes": "可追溯来源"
+    },
+    {
+      "evidence_type_id": "ev_feather_quill_trace",
+      "name": "羽笔墨迹",
+      "category": "MEDIA",
+      "description": "速记羽笔的墨迹样式",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "press_glare"
+      ],
+      "forgeability": "medium",
+      "expiry": "72h",
+      "notes": "用于验证记者来源"
+    },
+    {
+      "evidence_type_id": "ev_healer_note",
+      "name": "治疗师便笺",
+      "category": "HEAL",
+      "description": "治疗师给患者的便笺编码",
+      "default_tier": "D",
+      "provenance_default": "onsite",
+      "used_for": [],
+      "forgeability": "easy",
+      "expiry": "24h",
+      "notes": "最小反馈"
+    },
+    {
+      "evidence_type_id": "ev_creature_scent_vial",
+      "name": "气味小瓶",
+      "category": "CREATURE",
+      "description": "捕捉队采集的气味小瓶",
+      "default_tier": "C",
+      "provenance_default": "onsite",
+      "used_for": [
+        "creature_unrest"
+      ],
+      "forgeability": "medium",
+      "expiry": "48h",
+      "notes": "用于追踪但不现实引导"
+    },
+    {
+      "evidence_type_id": "ev_school_badge_ribbon",
+      "name": "校徽丝带",
+      "category": "SCHOOL",
+      "description": "校徽丝带（匿名化）",
+      "default_tier": "D",
+      "provenance_default": "onsite",
+      "used_for": [],
+      "forgeability": "easy",
+      "expiry": "168h",
+      "notes": "社交身份符号"
+    },
+    {
+      "evidence_type_id": "ev_pass_revocation",
+      "name": "通行证撤销通知",
+      "category": "MINISTRY",
+      "description": "通行证撤销通知（节选）",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "secrecy_pressure"
+      ],
+      "forgeability": "hard",
+      "expiry": "168h",
+      "notes": "切身后果"
+    },
+    {
+      "evidence_type_id": "ev_dark_trade_manifest",
+      "name": "暗市清单",
+      "category": "ALLEY",
+      "description": "暗市货品清单（模糊）",
+      "default_tier": "C",
+      "provenance_default": "rumor",
+      "used_for": [
+        "dark_trade_heat"
+      ],
+      "forgeability": "easy",
+      "expiry": "24h",
+      "notes": "多误导"
+    },
+    {
+      "evidence_type_id": "ev_floo_maintenance_log",
+      "name": "飞路维护日志",
+      "category": "FLOO",
+      "description": "飞路维护日志的一页",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "floo_stability"
+      ],
+      "forgeability": "medium",
+      "expiry": "168h",
+      "notes": "用于修门线推理"
+    },
+    {
+      "evidence_type_id": "ev_portal_error_code",
+      "name": "门偏错误码",
+      "category": "PORTAL",
+      "description": "壁炉/门钥匙的错误码记录",
+      "default_tier": "B",
+      "provenance_default": "onsite",
+      "used_for": [
+        "floo_stability"
+      ],
+      "forgeability": "hard",
+      "expiry": "48h",
+      "notes": "用于识别伪门"
+    }
+  ]
+}

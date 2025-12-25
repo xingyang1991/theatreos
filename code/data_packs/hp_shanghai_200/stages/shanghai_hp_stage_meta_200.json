@@ -1,0 +1,5561 @@
+[
+  {
+    "stage_id": "stage_psq_01",
+    "cluster_code": "psq",
+    "district": "黄浦",
+    "real_spot": "人民广场",
+    "wizarding_alias": "九又四分之三候车厅",
+    "wizarding_zone": "九又四分之三枢纽",
+    "canon_ref": "King's Cross / Platform 9¾",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.230481,
+    "lng": 121.473531,
+    "prompt_seed": "地点：人民广场（上海黄浦）的魔法映射：九又四分之三候车厅；氛围：九又四分之三枢纽；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「人民广场·九又四分之三候车厅」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_psq_02",
+    "cluster_code": "psq",
+    "district": "黄浦",
+    "real_spot": "上海博物馆",
+    "wizarding_alias": "九又四分之三检票口",
+    "wizarding_zone": "九又四分之三枢纽",
+    "canon_ref": "King's Cross / Platform 9¾",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.230454,
+    "lng": 121.475776,
+    "prompt_seed": "地点：上海博物馆（上海黄浦）的魔法映射：九又四分之三检票口；氛围：九又四分之三枢纽；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「上海博物馆·九又四分之三检票口」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_psq_03",
+    "cluster_code": "psq",
+    "district": "黄浦",
+    "real_spot": "上海大剧院",
+    "wizarding_alias": "霍格沃茨快线广播",
+    "wizarding_zone": "九又四分之三枢纽",
+    "canon_ref": "King's Cross / Platform 9¾",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "paper",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.23049,
+    "lng": 121.471667,
+    "prompt_seed": "地点：上海大剧院（上海黄浦）的魔法映射：霍格沃茨快线广播；氛围：九又四分之三枢纽；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「上海大剧院·霍格沃茨快线广播」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_psq_04",
+    "cluster_code": "psq",
+    "district": "黄浦",
+    "real_spot": "城市规划展示馆",
+    "wizarding_alias": "魔法交通司调度台",
+    "wizarding_zone": "九又四分之三枢纽",
+    "canon_ref": "King's Cross / Platform 9¾",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.231986,
+    "lng": 121.473552,
+    "prompt_seed": "地点：城市规划展示馆（上海黄浦）的魔法映射：魔法交通司调度台；氛围：九又四分之三枢纽；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「城市规划展示馆·魔法交通司调度台」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_psq_05",
+    "cluster_code": "psq",
+    "district": "黄浦",
+    "real_spot": "人民公园",
+    "wizarding_alias": "门钥匙登记处",
+    "wizarding_zone": "九又四分之三枢纽",
+    "canon_ref": "King's Cross / Platform 9¾",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.228895,
+    "lng": 121.473658,
+    "prompt_seed": "地点：人民公园（上海黄浦）的魔法映射：门钥匙登记处；氛围：九又四分之三枢纽；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「人民公园·门钥匙登记处」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_psq_06",
+    "cluster_code": "psq",
+    "district": "黄浦",
+    "real_spot": "来福士广场",
+    "wizarding_alias": "飞路紧急接驳点",
+    "wizarding_zone": "九又四分之三枢纽",
+    "canon_ref": "King's Cross / Platform 9¾",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.232148,
+    "lng": 121.475754,
+    "prompt_seed": "地点：来福士广场（上海黄浦）的魔法映射：飞路紧急接驳点；氛围：九又四分之三枢纽；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「来福士广场·飞路紧急接驳点」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_psq_07",
+    "cluster_code": "psq",
+    "district": "黄浦",
+    "real_spot": "福州路口",
+    "wizarding_alias": "骑士公交临停站",
+    "wizarding_zone": "九又四分之三枢纽",
+    "canon_ref": "King's Cross / Platform 9¾",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.228643,
+    "lng": 121.475723,
+    "prompt_seed": "地点：福州路口（上海黄浦）的魔法映射：骑士公交临停站；氛围：九又四分之三枢纽；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「福州路口·骑士公交临停站」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_psq_08",
+    "cluster_code": "psq",
+    "district": "黄浦",
+    "real_spot": "黄河路口",
+    "wizarding_alias": "猫头鹰投递窗口",
+    "wizarding_zone": "九又四分之三枢纽",
+    "canon_ref": "King's Cross / Platform 9¾",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.231859,
+    "lng": 121.471772,
+    "prompt_seed": "地点：黄河路口（上海黄浦）的魔法映射：猫头鹰投递窗口；氛围：九又四分之三枢纽；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「黄河路口·猫头鹰投递窗口」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_psq_09",
+    "cluster_code": "psq",
+    "district": "黄浦",
+    "real_spot": "延安东路口",
+    "wizarding_alias": "麻瓜驱散咒警示牌",
+    "wizarding_zone": "九又四分之三枢纽",
+    "canon_ref": "King's Cross / Platform 9¾",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.228733,
+    "lng": 121.471667,
+    "prompt_seed": "地点：延安东路口（上海黄浦）的魔法映射：麻瓜驱散咒警示牌；氛围：九又四分之三枢纽；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「延安东路口·麻瓜驱散咒警示牌」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_psq_10",
+    "cluster_code": "psq",
+    "district": "黄浦",
+    "real_spot": "南京西路口",
+    "wizarding_alias": "隐形斗篷失物处",
+    "wizarding_zone": "九又四分之三枢纽",
+    "canon_ref": "King's Cross / Platform 9¾",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.230418,
+    "lng": 121.477177,
+    "prompt_seed": "地点：南京西路口（上海黄浦）的魔法映射：隐形斗篷失物处；氛围：九又四分之三枢纽；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「南京西路口·隐形斗篷失物处」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_njd_01",
+    "cluster_code": "njd",
+    "district": "黄浦",
+    "real_spot": "南京东路步行街",
+    "wizarding_alias": "破釜酒吧正门",
+    "wizarding_zone": "对角巷主街",
+    "canon_ref": "Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_gringotts_audit"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "lat": 31.235081,
+    "lng": 121.480105,
+    "prompt_seed": "地点：南京东路步行街（上海黄浦）的魔法映射：破釜酒吧正门；氛围：对角巷主街；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「南京东路步行街·破釜酒吧正门」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_njd_02",
+    "cluster_code": "njd",
+    "district": "黄浦",
+    "real_spot": "第一百货",
+    "wizarding_alias": "奥利凡德魔杖店",
+    "wizarding_zone": "对角巷主街",
+    "canon_ref": "Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_gringotts_audit"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "lat": 31.235036,
+    "lng": 121.482097,
+    "prompt_seed": "地点：第一百货（上海黄浦）的魔法映射：奥利凡德魔杖店；氛围：对角巷主街；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「第一百货·奥利凡德魔杖店」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_njd_03",
+    "cluster_code": "njd",
+    "district": "黄浦",
+    "real_spot": "世茂广场",
+    "wizarding_alias": "丽痕书店",
+    "wizarding_zone": "对角巷主街",
+    "canon_ref": "Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_gringotts_audit"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "lat": 31.234937,
+    "lng": 121.47823,
+    "prompt_seed": "地点：世茂广场（上海黄浦）的魔法映射：丽痕书店；氛围：对角巷主街；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「世茂广场·丽痕书店」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_njd_04",
+    "cluster_code": "njd",
+    "district": "黄浦",
+    "real_spot": "置地广场",
+    "wizarding_alias": "摩金夫人长袍店",
+    "wizarding_zone": "对角巷主街",
+    "canon_ref": "Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_gringotts_audit"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "lat": 31.236441,
+    "lng": 121.479789,
+    "prompt_seed": "地点：置地广场（上海黄浦）的魔法映射：摩金夫人长袍店；氛围：对角巷主街；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「置地广场·摩金夫人长袍店」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_njd_05",
+    "cluster_code": "njd",
+    "district": "黄浦",
+    "real_spot": "南京东路地铁站",
+    "wizarding_alias": "韦斯莱把戏坊",
+    "wizarding_zone": "对角巷主街",
+    "canon_ref": "Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_gringotts_audit"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "lat": 31.233315,
+    "lng": 121.479831,
+    "prompt_seed": "地点：南京东路地铁站（上海黄浦）的魔法映射：韦斯莱把戏坊；氛围：对角巷主街；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「南京东路地铁站·韦斯莱把戏坊」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_njd_06",
+    "cluster_code": "njd",
+    "district": "黄浦",
+    "real_spot": "四川中路口",
+    "wizarding_alias": "咿啦猫头鹰店",
+    "wizarding_zone": "对角巷主街",
+    "canon_ref": "Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_gringotts_audit"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "lat": 31.236468,
+    "lng": 121.482002,
+    "prompt_seed": "地点：四川中路口（上海黄浦）的魔法映射：咿啦猫头鹰店；氛围：对角巷主街；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「四川中路口·咿啦猫头鹰店」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_njd_07",
+    "cluster_code": "njd",
+    "district": "黄浦",
+    "real_spot": "河南中路口",
+    "wizarding_alias": "斯拉格与吉格斯药房",
+    "wizarding_zone": "对角巷主街",
+    "canon_ref": "Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_gringotts_audit"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "healing",
+      "lanes",
+      "order",
+      "paper",
+      "seal",
+      "secret",
+      "security",
+      "trade"
+    ],
+    "lat": 31.233486,
+    "lng": 121.481802,
+    "prompt_seed": "地点：河南中路口（上海黄浦）的魔法映射：斯拉格与吉格斯药房；氛围：对角巷主街；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「河南中路口·斯拉格与吉格斯药房」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_njd_08",
+    "cluster_code": "njd",
+    "district": "黄浦",
+    "real_spot": "福州路书店街",
+    "wizarding_alias": "神奇动物橱窗",
+    "wizarding_zone": "对角巷主街",
+    "canon_ref": "Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_gringotts_audit"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "lat": 31.236631,
+    "lng": 121.478198,
+    "prompt_seed": "地点：福州路书店街（上海黄浦）的魔法映射：神奇动物橱窗；氛围：对角巷主街；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「福州路书店街·神奇动物橱窗」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_njd_09",
+    "cluster_code": "njd",
+    "district": "黄浦",
+    "real_spot": "江西中路口",
+    "wizarding_alias": "预言家日报摊",
+    "wizarding_zone": "对角巷主街",
+    "canon_ref": "Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_gringotts_audit"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "lanes",
+      "order",
+      "paper",
+      "seal",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.233306,
+    "lng": 121.478093,
+    "prompt_seed": "地点：江西中路口（上海黄浦）的魔法映射：预言家日报摊；氛围：对角巷主街；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「江西中路口·预言家日报摊」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_njd_10",
+    "cluster_code": "njd",
+    "district": "黄浦",
+    "real_spot": "外滩口（南京东路）",
+    "wizarding_alias": "古灵阁咨询台",
+    "wizarding_zone": "对角巷主街",
+    "canon_ref": "Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_gringotts_audit"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "books",
+      "clue",
+      "finance",
+      "lanes",
+      "paper",
+      "seal",
+      "security",
+      "trade"
+    ],
+    "lat": 31.234919,
+    "lng": 121.483488,
+    "prompt_seed": "地点：外滩口（南京东路）（上海黄浦）的魔法映射：古灵阁咨询台；氛围：对角巷主街；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「外滩口（南京东路）·古灵阁咨询台」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_bund",
+    "cluster_code": "bund",
+    "district": "黄浦",
+    "real_spot": "外滩观光平台",
+    "wizarding_alias": "魔法部东办门厅",
+    "wizarding_zone": "魔法部东方办事处",
+    "canon_ref": "Ministry of Magic",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "lat": 31.240117,
+    "lng": 121.489842,
+    "prompt_seed": "地点：外滩观光平台（上海黄浦）的魔法映射：魔法部东办门厅；氛围：魔法部东方办事处；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「外滩观光平台·魔法部东办门厅」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_bund_02",
+    "cluster_code": "bund",
+    "district": "黄浦",
+    "real_spot": "和平饭店",
+    "wizarding_alias": "法律执行司值班",
+    "wizarding_zone": "魔法部东方办事处",
+    "canon_ref": "Ministry of Magic",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "lat": 31.240135,
+    "lng": 121.491749,
+    "prompt_seed": "地点：和平饭店（上海黄浦）的魔法映射：法律执行司值班；氛围：魔法部东方办事处；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「和平饭店·法律执行司值班」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_bund_03",
+    "cluster_code": "bund",
+    "district": "黄浦",
+    "real_spot": "外白渡桥",
+    "wizarding_alias": "神秘事务司镜厅",
+    "wizarding_zone": "魔法部东方办事处",
+    "canon_ref": "Ministry of Magic",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "lat": 31.240108,
+    "lng": 121.487945,
+    "prompt_seed": "地点：外白渡桥（上海黄浦）的魔法映射：神秘事务司镜厅；氛围：魔法部东方办事处；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「外白渡桥·神秘事务司镜厅」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_bund_04",
+    "cluster_code": "bund",
+    "district": "黄浦",
+    "real_spot": "外滩源",
+    "wizarding_alias": "威森加摩分庭",
+    "wizarding_zone": "魔法部东方办事处",
+    "canon_ref": "Ministry of Magic",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "lat": 31.241613,
+    "lng": 121.489789,
+    "prompt_seed": "地点：外滩源（上海黄浦）的魔法映射：威森加摩分庭；氛围：魔法部东方办事处；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「外滩源·威森加摩分庭」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_bund_05",
+    "cluster_code": "bund",
+    "district": "黄浦",
+    "real_spot": "海关大楼",
+    "wizarding_alias": "魔法事故与灾害司",
+    "wizarding_zone": "魔法部东方办事处",
+    "canon_ref": "Ministry of Magic",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "lat": 31.238252,
+    "lng": 121.490084,
+    "prompt_seed": "地点：海关大楼（上海黄浦）的魔法映射：魔法事故与灾害司；氛围：魔法部东方办事处；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「海关大楼·魔法事故与灾害司」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_bund_06",
+    "cluster_code": "bund",
+    "district": "黄浦",
+    "real_spot": "黄浦江游船码头",
+    "wizarding_alias": "记忆注销处",
+    "wizarding_zone": "魔法部东方办事处",
+    "canon_ref": "Ministry of Magic",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "lat": 31.241631,
+    "lng": 121.491939,
+    "prompt_seed": "地点：黄浦江游船码头（上海黄浦）的魔法映射：记忆注销处；氛围：魔法部东方办事处；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「黄浦江游船码头·记忆注销处」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_bund_07",
+    "cluster_code": "bund",
+    "district": "黄浦",
+    "real_spot": "中山东一路",
+    "wizarding_alias": "禁言令公告墙",
+    "wizarding_zone": "魔法部东方办事处",
+    "canon_ref": "Ministry of Magic",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "lat": 31.238288,
+    "lng": 121.491823,
+    "prompt_seed": "地点：中山东一路（上海黄浦）的魔法映射：禁言令公告墙；氛围：魔法部东方办事处；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「中山东一路·禁言令公告墙」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_bund_08",
+    "cluster_code": "bund",
+    "district": "黄浦",
+    "real_spot": "罗斯福公馆",
+    "wizarding_alias": "国际合作司会客",
+    "wizarding_zone": "魔法部东方办事处",
+    "canon_ref": "Ministry of Magic",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "lat": 31.241577,
+    "lng": 121.48824,
+    "prompt_seed": "地点：罗斯福公馆（上海黄浦）的魔法映射：国际合作司会客；氛围：魔法部东方办事处；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「罗斯福公馆·国际合作司会客」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_bund_09",
+    "cluster_code": "bund",
+    "district": "黄浦",
+    "real_spot": "汇丰大楼",
+    "wizarding_alias": "预言家部委记者席",
+    "wizarding_zone": "魔法部东方办事处",
+    "canon_ref": "Ministry of Magic",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "signal",
+      "waterfront"
+    ],
+    "lat": 31.23855,
+    "lng": 121.488198,
+    "prompt_seed": "地点：汇丰大楼（上海黄浦）的魔法映射：预言家部委记者席；氛围：魔法部东方办事处；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「汇丰大楼·预言家部委记者席」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_bund_10",
+    "cluster_code": "bund",
+    "district": "黄浦",
+    "real_spot": "观光隧道口（外滩）",
+    "wizarding_alias": "守护咒巡逻线",
+    "wizarding_zone": "魔法部东方办事处",
+    "canon_ref": "Ministry of Magic",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "waterfront"
+    ],
+    "lat": 31.239874,
+    "lng": 121.493372,
+    "prompt_seed": "地点：观光隧道口（外滩）（上海黄浦）的魔法映射：守护咒巡逻线；氛围：魔法部东方办事处；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「观光隧道口（外滩）·守护咒巡逻线」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_yuyuan",
+    "cluster_code": "yuyuan",
+    "district": "黄浦",
+    "real_spot": "豫园",
+    "wizarding_alias": "翻倒巷博金-博克",
+    "wizarding_zone": "翻倒巷/暗市",
+    "canon_ref": "Knockturn Alley",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.226928,
+    "lng": 121.491926,
+    "prompt_seed": "地点：豫园（上海黄浦）的魔法映射：翻倒巷博金-博克；氛围：翻倒巷/暗市；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「豫园·翻倒巷博金-博克」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_yuyuan_02",
+    "cluster_code": "yuyuan",
+    "district": "黄浦",
+    "real_spot": "城隍庙",
+    "wizarding_alias": "黑魔法器具铺",
+    "wizarding_zone": "翻倒巷/暗市",
+    "canon_ref": "Knockturn Alley",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.226973,
+    "lng": 121.493875,
+    "prompt_seed": "地点：城隍庙（上海黄浦）的魔法映射：黑魔法器具铺；氛围：翻倒巷/暗市；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「城隍庙·黑魔法器具铺」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_yuyuan_03",
+    "cluster_code": "yuyuan",
+    "district": "黄浦",
+    "real_spot": "豫园商城",
+    "wizarding_alias": "诅咒修补匠",
+    "wizarding_zone": "翻倒巷/暗市",
+    "canon_ref": "Knockturn Alley",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.227054,
+    "lng": 121.490125,
+    "prompt_seed": "地点：豫园商城（上海黄浦）的魔法映射：诅咒修补匠；氛围：翻倒巷/暗市；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「豫园商城·诅咒修补匠」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_yuyuan_04",
+    "cluster_code": "yuyuan",
+    "district": "黄浦",
+    "real_spot": "九曲桥",
+    "wizarding_alias": "伪造印章作坊",
+    "wizarding_zone": "翻倒巷/暗市",
+    "canon_ref": "Knockturn Alley",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.228586,
+    "lng": 121.49181,
+    "prompt_seed": "地点：九曲桥（上海黄浦）的魔法映射：伪造印章作坊；氛围：翻倒巷/暗市；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「九曲桥·伪造印章作坊」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_yuyuan_05",
+    "cluster_code": "yuyuan",
+    "district": "黄浦",
+    "real_spot": "方浜中路",
+    "wizarding_alias": "暗市交换所",
+    "wizarding_zone": "翻倒巷/暗市",
+    "canon_ref": "Knockturn Alley",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.225477,
+    "lng": 121.491958,
+    "prompt_seed": "地点：方浜中路（上海黄浦）的魔法映射：暗市交换所；氛围：翻倒巷/暗市；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「方浜中路·暗市交换所」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_yuyuan_06",
+    "cluster_code": "yuyuan",
+    "district": "黄浦",
+    "real_spot": "福佑路口",
+    "wizarding_alias": "禁书摊夜读角",
+    "wizarding_zone": "翻倒巷/暗市",
+    "canon_ref": "Knockturn Alley",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.228631,
+    "lng": 121.493991,
+    "prompt_seed": "地点：福佑路口（上海黄浦）的魔法映射：禁书摊夜读角；氛围：翻倒巷/暗市；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「福佑路口·禁书摊夜读角」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_yuyuan_07",
+    "cluster_code": "yuyuan",
+    "district": "黄浦",
+    "real_spot": "豫园地铁站",
+    "wizarding_alias": "失落门钥匙仓",
+    "wizarding_zone": "翻倒巷/暗市",
+    "canon_ref": "Knockturn Alley",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "black_market",
+      "clue",
+      "forgery",
+      "hub",
+      "lanes",
+      "occlusion",
+      "order",
+      "portal",
+      "risk",
+      "secret",
+      "security",
+      "signal",
+      "trade",
+      "transport"
+    ],
+    "lat": 31.225441,
+    "lng": 121.493707,
+    "prompt_seed": "地点：豫园地铁站（上海黄浦）的魔法映射：失落门钥匙仓；氛围：翻倒巷/暗市；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「豫园地铁站·失落门钥匙仓」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_yuyuan_08",
+    "cluster_code": "yuyuan",
+    "district": "黄浦",
+    "real_spot": "小南门口",
+    "wizarding_alias": "隐形墨水柜台",
+    "wizarding_zone": "翻倒巷/暗市",
+    "canon_ref": "Knockturn Alley",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.228748,
+    "lng": 121.490104,
+    "prompt_seed": "地点：小南门口（上海黄浦）的魔法映射：隐形墨水柜台；氛围：翻倒巷/暗市；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「小南门口·隐形墨水柜台」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_yuyuan_09",
+    "cluster_code": "yuyuan",
+    "district": "黄浦",
+    "real_spot": "十六铺码头",
+    "wizarding_alias": "走私暗号墙",
+    "wizarding_zone": "翻倒巷/暗市",
+    "canon_ref": "Knockturn Alley",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.225423,
+    "lng": 121.49004,
+    "prompt_seed": "地点：十六铺码头（上海黄浦）的魔法映射：走私暗号墙；氛围：翻倒巷/暗市；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「十六铺码头·走私暗号墙」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_yuyuan_10",
+    "cluster_code": "yuyuan",
+    "district": "黄浦",
+    "real_spot": "老城厢街口",
+    "wizarding_alias": "摄魂怪谣言角",
+    "wizarding_zone": "翻倒巷/暗市",
+    "canon_ref": "Knockturn Alley",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.226982,
+    "lng": 121.495255,
+    "prompt_seed": "地点：老城厢街口（上海黄浦）的魔法映射：摄魂怪谣言角；氛围：翻倒巷/暗市；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「老城厢街口·摄魂怪谣言角」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_xintiandi",
+    "cluster_code": "xintiandi",
+    "district": "黄浦",
+    "real_spot": "新天地",
+    "wizarding_alias": "对角巷南里",
+    "wizarding_zone": "对角巷南里/破釜后门",
+    "canon_ref": "Leaky Cauldron / Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.22031,
+    "lng": 121.47521,
+    "prompt_seed": "地点：新天地（上海黄浦）的魔法映射：对角巷南里；氛围：对角巷南里/破釜后门；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「新天地·对角巷南里」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_xintiandi_02",
+    "cluster_code": "xintiandi",
+    "district": "黄浦",
+    "real_spot": "太平桥公园",
+    "wizarding_alias": "破釜酒吧后门",
+    "wizarding_zone": "对角巷南里/破釜后门",
+    "canon_ref": "Leaky Cauldron / Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.220427,
+    "lng": 121.477138,
+    "prompt_seed": "地点：太平桥公园（上海黄浦）的魔法映射：破釜酒吧后门；氛围：对角巷南里/破釜后门；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「太平桥公园·破釜酒吧后门」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_xintiandi_03",
+    "cluster_code": "xintiandi",
+    "district": "黄浦",
+    "real_spot": "马当路口",
+    "wizarding_alias": "凤凰社茶会点",
+    "wizarding_zone": "对角巷南里/破釜后门",
+    "canon_ref": "Leaky Cauldron / Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "clue",
+      "creature",
+      "lanes",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.220328,
+    "lng": 121.473293,
+    "prompt_seed": "地点：马当路口（上海黄浦）的魔法映射：凤凰社茶会点；氛围：对角巷南里/破釜后门；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「马当路口·凤凰社茶会点」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_xintiandi_04",
+    "cluster_code": "xintiandi",
+    "district": "黄浦",
+    "real_spot": "香港广场",
+    "wizarding_alias": "变身术沙龙",
+    "wizarding_zone": "对角巷南里/破釜后门",
+    "canon_ref": "Leaky Cauldron / Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.222139,
+    "lng": 121.475295,
+    "prompt_seed": "地点：香港广场（上海黄浦）的魔法映射：变身术沙龙；氛围：对角巷南里/破釜后门；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「香港广场·变身术沙龙」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_xintiandi_05",
+    "cluster_code": "xintiandi",
+    "district": "黄浦",
+    "real_spot": "一大会址旁",
+    "wizarding_alias": "记忆酒吧",
+    "wizarding_zone": "对角巷南里/破釜后门",
+    "canon_ref": "Leaky Cauldron / Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.218959,
+    "lng": 121.4754,
+    "prompt_seed": "地点：一大会址旁（上海黄浦）的魔法映射：记忆酒吧；氛围：对角巷南里/破釜后门；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「一大会址旁·记忆酒吧」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_xintiandi_06",
+    "cluster_code": "xintiandi",
+    "district": "黄浦",
+    "real_spot": "瑞金二路口",
+    "wizarding_alias": "隐形斗篷寄存处",
+    "wizarding_zone": "对角巷南里/破釜后门",
+    "canon_ref": "Leaky Cauldron / Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.222202,
+    "lng": 121.477349,
+    "prompt_seed": "地点：瑞金二路口（上海黄浦）的魔法映射：隐形斗篷寄存处；氛围：对角巷南里/破釜后门；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「瑞金二路口·隐形斗篷寄存处」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_xintiandi_07",
+    "cluster_code": "xintiandi",
+    "district": "黄浦",
+    "real_spot": "复兴公园口",
+    "wizarding_alias": "双面镜联络台",
+    "wizarding_zone": "对角巷南里/破釜后门",
+    "canon_ref": "Leaky Cauldron / Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.21876,
+    "lng": 121.477391,
+    "prompt_seed": "地点：复兴公园口（上海黄浦）的魔法映射：双面镜联络台；氛围：对角巷南里/破釜后门；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「复兴公园口·双面镜联络台」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_xintiandi_08",
+    "cluster_code": "xintiandi",
+    "district": "黄浦",
+    "real_spot": "南里广场",
+    "wizarding_alias": "福灵剂小赌局",
+    "wizarding_zone": "对角巷南里/破釜后门",
+    "canon_ref": "Leaky Cauldron / Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.221932,
+    "lng": 121.473388,
+    "prompt_seed": "地点：南里广场（上海黄浦）的魔法映射：福灵剂小赌局；氛围：对角巷南里/破釜后门；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「南里广场·福灵剂小赌局」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_xintiandi_09",
+    "cluster_code": "xintiandi",
+    "district": "黄浦",
+    "real_spot": "北里广场",
+    "wizarding_alias": "护身符交换桌",
+    "wizarding_zone": "对角巷南里/破釜后门",
+    "canon_ref": "Leaky Cauldron / Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "ritual",
+      "seal",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.218895,
+    "lng": 121.473599,
+    "prompt_seed": "地点：北里广场（上海黄浦）的魔法映射：护身符交换桌；氛围：对角巷南里/破釜后门；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「北里广场·护身符交换桌」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_xintiandi_10",
+    "cluster_code": "xintiandi",
+    "district": "黄浦",
+    "real_spot": "淮海中路口（新天地）",
+    "wizarding_alias": "夜巡暗号处",
+    "wizarding_zone": "对角巷南里/破釜后门",
+    "canon_ref": "Leaky Cauldron / Diagon Alley",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "order",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.220535,
+    "lng": 121.478834,
+    "prompt_seed": "地点：淮海中路口（新天地）（上海黄浦）的魔法映射：夜巡暗号处；氛围：对角巷南里/破釜后门；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「淮海中路口（新天地）·夜巡暗号处」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_huaihai_01",
+    "cluster_code": "huaihai",
+    "district": "黄浦/徐汇",
+    "real_spot": "淮海中路",
+    "wizarding_alias": "预言家日报编辑部",
+    "wizarding_zone": "预言家日报/摩金高定",
+    "canon_ref": "Daily Prophet / Madam Malkin",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_gringotts_audit",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "audit",
+      "clue",
+      "order",
+      "paper",
+      "seal",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.21809,
+    "lng": 121.465789,
+    "prompt_seed": "地点：淮海中路（上海黄浦/徐汇）的魔法映射：预言家日报编辑部；氛围：预言家日报/摩金高定；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「淮海中路·预言家日报编辑部」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_huaihai_02",
+    "cluster_code": "huaihai",
+    "district": "黄浦/徐汇",
+    "real_spot": "K11购物艺术中心",
+    "wizarding_alias": "摩金夫人高定室",
+    "wizarding_zone": "预言家日报/摩金高定",
+    "canon_ref": "Daily Prophet / Madam Malkin",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_gringotts_audit",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "audit",
+      "clue",
+      "order",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "lat": 31.218117,
+    "lng": 121.468075,
+    "prompt_seed": "地点：K11购物艺术中心（上海黄浦/徐汇）的魔法映射：摩金夫人高定室；氛围：预言家日报/摩金高定；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「K11购物艺术中心·摩金夫人高定室」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_huaihai_03",
+    "cluster_code": "huaihai",
+    "district": "黄浦/徐汇",
+    "real_spot": "iapm环贸",
+    "wizarding_alias": "魔法界画廊会客",
+    "wizarding_zone": "预言家日报/摩金高定",
+    "canon_ref": "Daily Prophet / Madam Malkin",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_gringotts_audit",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "audit",
+      "clue",
+      "order",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "lat": 31.217892,
+    "lng": 121.464072,
+    "prompt_seed": "地点：iapm环贸（上海黄浦/徐汇）的魔法映射：魔法界画廊会客；氛围：预言家日报/摩金高定；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「iapm环贸·魔法界画廊会客」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_huaihai_04",
+    "cluster_code": "huaihai",
+    "district": "黄浦/徐汇",
+    "real_spot": "陕西南路口",
+    "wizarding_alias": "古灵阁贵宾咨询",
+    "wizarding_zone": "预言家日报/摩金高定",
+    "canon_ref": "Daily Prophet / Madam Malkin",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_gringotts_audit",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security",
+      "trade"
+    ],
+    "lat": 31.219721,
+    "lng": 121.466,
+    "prompt_seed": "地点：陕西南路口（上海黄浦/徐汇）的魔法映射：古灵阁贵宾咨询；氛围：预言家日报/摩金高定；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「陕西南路口·古灵阁贵宾咨询」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_huaihai_05",
+    "cluster_code": "huaihai",
+    "district": "黄浦/徐汇",
+    "real_spot": "上海图书馆",
+    "wizarding_alias": "魔药调香馆",
+    "wizarding_zone": "预言家日报/摩金高定",
+    "canon_ref": "Daily Prophet / Madam Malkin",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_gringotts_audit",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "audit",
+      "clue",
+      "order",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "lat": 31.21655,
+    "lng": 121.465905,
+    "prompt_seed": "地点：上海图书馆（上海黄浦/徐汇）的魔法映射：魔药调香馆；氛围：预言家日报/摩金高定；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「上海图书馆·魔药调香馆」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_huaihai_06",
+    "cluster_code": "huaihai",
+    "district": "黄浦/徐汇",
+    "real_spot": "思南公馆",
+    "wizarding_alias": "禁书阅览室",
+    "wizarding_zone": "预言家日报/摩金高定",
+    "canon_ref": "Daily Prophet / Madam Malkin",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_gringotts_audit",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "audit",
+      "black_market",
+      "clue",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "order",
+      "paper",
+      "risk",
+      "seal",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.219523,
+    "lng": 121.467696,
+    "prompt_seed": "地点：思南公馆（上海黄浦/徐汇）的魔法映射：禁书阅览室；氛围：预言家日报/摩金高定；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「思南公馆·禁书阅览室」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_huaihai_07",
+    "cluster_code": "huaihai",
+    "district": "黄浦/徐汇",
+    "real_spot": "瑞金医院",
+    "wizarding_alias": "魔法部公关处",
+    "wizarding_zone": "预言家日报/摩金高定",
+    "canon_ref": "Daily Prophet / Madam Malkin",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_gringotts_audit",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "ministry",
+      "order",
+      "paper",
+      "seal",
+      "security",
+      "trade"
+    ],
+    "lat": 31.216495,
+    "lng": 121.467844,
+    "prompt_seed": "地点：瑞金医院（上海黄浦/徐汇）的魔法映射：魔法部公关处；氛围：预言家日报/摩金高定；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「瑞金医院·魔法部公关处」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_huaihai_08",
+    "cluster_code": "huaihai",
+    "district": "黄浦/徐汇",
+    "real_spot": "复兴中路口",
+    "wizarding_alias": "时间转换器展柜",
+    "wizarding_zone": "预言家日报/摩金高定",
+    "canon_ref": "Daily Prophet / Madam Malkin",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_gringotts_audit",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "audit",
+      "clue",
+      "order",
+      "paper",
+      "seal",
+      "trade"
+    ],
+    "lat": 31.219757,
+    "lng": 121.464199,
+    "prompt_seed": "地点：复兴中路口（上海黄浦/徐汇）的魔法映射：时间转换器展柜；氛围：预言家日报/摩金高定；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「复兴中路口·时间转换器展柜」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_huaihai_09",
+    "cluster_code": "huaihai",
+    "district": "黄浦/徐汇",
+    "real_spot": "茂名南路口",
+    "wizarding_alias": "巫师电台播音间",
+    "wizarding_zone": "预言家日报/摩金高定",
+    "canon_ref": "Daily Prophet / Madam Malkin",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_gringotts_audit",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "audit",
+      "clue",
+      "order",
+      "paper",
+      "seal",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.21627,
+    "lng": 121.463893,
+    "prompt_seed": "地点：茂名南路口（上海黄浦/徐汇）的魔法映射：巫师电台播音间；氛围：预言家日报/摩金高定；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「茂名南路口·巫师电台播音间」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_huaihai_10",
+    "cluster_code": "huaihai",
+    "district": "黄浦/徐汇",
+    "real_spot": "巨鹿路口",
+    "wizarding_alias": "麻瓜研究伪装间",
+    "wizarding_zone": "预言家日报/摩金高定",
+    "canon_ref": "Daily Prophet / Madam Malkin",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_gringotts_audit",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "audit",
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "seal",
+      "secret",
+      "trade"
+    ],
+    "lat": 31.218063,
+    "lng": 121.469276,
+    "prompt_seed": "地点：巨鹿路口（上海黄浦/徐汇）的魔法映射：麻瓜研究伪装间；氛围：预言家日报/摩金高定；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「巨鹿路口·麻瓜研究伪装间」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_tianzifang_01",
+    "cluster_code": "tianzifang",
+    "district": "黄浦",
+    "real_spot": "田子坊",
+    "wizarding_alias": "猫头鹰邮局分拣间",
+    "wizarding_zone": "猫头鹰邮局/符文巷",
+    "canon_ref": "Owl Post / Rune Craft",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "paper",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.210135,
+    "lng": 121.465874,
+    "prompt_seed": "地点：田子坊（上海黄浦）的魔法映射：猫头鹰邮局分拣间；氛围：猫头鹰邮局/符文巷；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「田子坊·猫头鹰邮局分拣间」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_tianzifang_02",
+    "cluster_code": "tianzifang",
+    "district": "黄浦",
+    "real_spot": "泰康路口",
+    "wizarding_alias": "咿啦猫头鹰寄养处",
+    "wizarding_zone": "猫头鹰邮局/符文巷",
+    "canon_ref": "Owl Post / Rune Craft",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "paper",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.210045,
+    "lng": 121.467928,
+    "prompt_seed": "地点：泰康路口（上海黄浦）的魔法映射：咿啦猫头鹰寄养处；氛围：猫头鹰邮局/符文巷；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「泰康路口·咿啦猫头鹰寄养处」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_tianzifang_03",
+    "cluster_code": "tianzifang",
+    "district": "黄浦",
+    "real_spot": "打浦桥口",
+    "wizarding_alias": "符文刻印摊",
+    "wizarding_zone": "猫头鹰邮局/符文巷",
+    "canon_ref": "Owl Post / Rune Craft",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "order",
+      "paper",
+      "ritual",
+      "seal",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.20982,
+    "lng": 121.463988,
+    "prompt_seed": "地点：打浦桥口（上海黄浦）的魔法映射：符文刻印摊；氛围：猫头鹰邮局/符文巷；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「打浦桥口·符文刻印摊」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_tianzifang_04",
+    "cluster_code": "tianzifang",
+    "district": "黄浦",
+    "real_spot": "日月光中心",
+    "wizarding_alias": "门钥匙工坊",
+    "wizarding_zone": "猫头鹰邮局/符文巷",
+    "canon_ref": "Owl Post / Rune Craft",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "forgery",
+      "hub",
+      "lanes",
+      "order",
+      "paper",
+      "portal",
+      "secret",
+      "security",
+      "signal",
+      "trade",
+      "transport"
+    ],
+    "lat": 31.211658,
+    "lng": 121.465863,
+    "prompt_seed": "地点：日月光中心（上海黄浦）的魔法映射：门钥匙工坊；氛围：猫头鹰邮局/符文巷；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「日月光中心·门钥匙工坊」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_tianzifang_05",
+    "cluster_code": "tianzifang",
+    "district": "黄浦",
+    "real_spot": "丽园路口",
+    "wizarding_alias": "魔杖修理铺",
+    "wizarding_zone": "猫头鹰邮局/符文巷",
+    "canon_ref": "Owl Post / Rune Craft",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "paper",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.208342,
+    "lng": 121.465989,
+    "prompt_seed": "地点：丽园路口（上海黄浦）的魔法映射：魔杖修理铺；氛围：猫头鹰邮局/符文巷；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「丽园路口·魔杖修理铺」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_tianzifang_06",
+    "cluster_code": "tianzifang",
+    "district": "黄浦",
+    "real_spot": "南昌路口",
+    "wizarding_alias": "纸鹤咒信摊",
+    "wizarding_zone": "猫头鹰邮局/符文巷",
+    "canon_ref": "Owl Post / Rune Craft",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "paper",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.211586,
+    "lng": 121.467759,
+    "prompt_seed": "地点：南昌路口（上海黄浦）的魔法映射：纸鹤咒信摊；氛围：猫头鹰邮局/符文巷；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「南昌路口·纸鹤咒信摊」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_tianzifang_07",
+    "cluster_code": "tianzifang",
+    "district": "黄浦",
+    "real_spot": "建国中路口",
+    "wizarding_alias": "隐形墨水铺",
+    "wizarding_zone": "猫头鹰邮局/符文巷",
+    "canon_ref": "Owl Post / Rune Craft",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "black_market",
+      "clue",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "paper",
+      "risk",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.208532,
+    "lng": 121.467991,
+    "prompt_seed": "地点：建国中路口（上海黄浦）的魔法映射：隐形墨水铺；氛围：猫头鹰邮局/符文巷；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「建国中路口·隐形墨水铺」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_tianzifang_08",
+    "cluster_code": "tianzifang",
+    "district": "黄浦",
+    "real_spot": "斜土路口",
+    "wizarding_alias": "迷路符路标处",
+    "wizarding_zone": "猫头鹰邮局/符文巷",
+    "canon_ref": "Owl Post / Rune Craft",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "paper",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.21164,
+    "lng": 121.464083,
+    "prompt_seed": "地点：斜土路口（上海黄浦）的魔法映射：迷路符路标处；氛围：猫头鹰邮局/符文巷；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「斜土路口·迷路符路标处」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_tianzifang_09",
+    "cluster_code": "tianzifang",
+    "district": "黄浦",
+    "real_spot": "绍兴路口",
+    "wizarding_alias": "冥想盆展示柜",
+    "wizarding_zone": "猫头鹰邮局/符文巷",
+    "canon_ref": "Owl Post / Rune Craft",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "paper",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.208297,
+    "lng": 121.463904,
+    "prompt_seed": "地点：绍兴路口（上海黄浦）的魔法映射：冥想盆展示柜；氛围：猫头鹰邮局/符文巷；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「绍兴路口·冥想盆展示柜」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_tianzifang_10",
+    "cluster_code": "tianzifang",
+    "district": "黄浦",
+    "real_spot": "思南路口",
+    "wizarding_alias": "活点地图碎片墙",
+    "wizarding_zone": "猫头鹰邮局/符文巷",
+    "canon_ref": "Owl Post / Rune Craft",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "forgery",
+      "lanes",
+      "paper",
+      "secret",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.210063,
+    "lng": 121.46956,
+    "prompt_seed": "地点：思南路口（上海黄浦）的魔法映射：活点地图碎片墙；氛围：猫头鹰邮局/符文巷；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「思南路口·活点地图碎片墙」的阴影里，翻倒巷式的交易与伪造正在扩散；找到那枚有瑕疵的印记，才能追到走私源头。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_jingantmpl",
+    "cluster_code": "jingan",
+    "district": "静安",
+    "real_spot": "静安寺",
+    "wizarding_alias": "古灵阁静安分部",
+    "wizarding_zone": "圣芒戈/古灵阁分部",
+    "canon_ref": "St Mungo's / Gringotts branch",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "healing",
+      "order",
+      "paper",
+      "seal",
+      "secret",
+      "security"
+    ],
+    "lat": 31.223283,
+    "lng": 121.445011,
+    "prompt_seed": "地点：静安寺（上海静安）的魔法映射：古灵阁静安分部；氛围：圣芒戈/古灵阁分部；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「静安寺·古灵阁静安分部」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_jingan_02",
+    "cluster_code": "jingan",
+    "district": "静安",
+    "real_spot": "久光百货",
+    "wizarding_alias": "圣芒戈东区急诊",
+    "wizarding_zone": "圣芒戈/古灵阁分部",
+    "canon_ref": "St Mungo's / Gringotts branch",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "healing",
+      "order",
+      "secret",
+      "security"
+    ],
+    "lat": 31.223337,
+    "lng": 121.44677,
+    "prompt_seed": "地点：久光百货（上海静安）的魔法映射：圣芒戈东区急诊；氛围：圣芒戈/古灵阁分部；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「久光百货·圣芒戈东区急诊」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_jingan_03",
+    "cluster_code": "jingan",
+    "district": "静安",
+    "real_spot": "静安公园",
+    "wizarding_alias": "咒伤科诊疗台",
+    "wizarding_zone": "圣芒戈/古灵阁分部",
+    "canon_ref": "St Mungo's / Gringotts branch",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "healing",
+      "order",
+      "secret",
+      "security"
+    ],
+    "lat": 31.223571,
+    "lng": 121.443283,
+    "prompt_seed": "地点：静安公园（上海静安）的魔法映射：咒伤科诊疗台；氛围：圣芒戈/古灵阁分部；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「静安公园·咒伤科诊疗台」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_jingan_04",
+    "cluster_code": "jingan",
+    "district": "静安",
+    "real_spot": "静安嘉里中心",
+    "wizarding_alias": "记忆创伤科",
+    "wizarding_zone": "圣芒戈/古灵阁分部",
+    "canon_ref": "St Mungo's / Gringotts branch",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "healing",
+      "order",
+      "secret",
+      "security"
+    ],
+    "lat": 31.225085,
+    "lng": 121.444853,
+    "prompt_seed": "地点：静安嘉里中心（上海静安）的魔法映射：记忆创伤科；氛围：圣芒戈/古灵阁分部；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「静安嘉里中心·记忆创伤科」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_jingan_05",
+    "cluster_code": "jingan",
+    "district": "静安",
+    "real_spot": "南京西路（静安寺段）",
+    "wizarding_alias": "解咒药房",
+    "wizarding_zone": "圣芒戈/古灵阁分部",
+    "canon_ref": "St Mungo's / Gringotts branch",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "healing",
+      "order",
+      "secret",
+      "security"
+    ],
+    "lat": 31.221661,
+    "lng": 121.444937,
+    "prompt_seed": "地点：南京西路（静安寺段）（上海静安）的魔法映射：解咒药房；氛围：圣芒戈/古灵阁分部；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「南京西路（静安寺段）·解咒药房」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_jingan_06",
+    "cluster_code": "jingan",
+    "district": "静安",
+    "real_spot": "常德路口",
+    "wizarding_alias": "失控咒隔离室",
+    "wizarding_zone": "圣芒戈/古灵阁分部",
+    "canon_ref": "St Mungo's / Gringotts branch",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "healing",
+      "order",
+      "secret",
+      "security"
+    ],
+    "lat": 31.225193,
+    "lng": 121.447033,
+    "prompt_seed": "地点：常德路口（上海静安）的魔法映射：失控咒隔离室；氛围：圣芒戈/古灵阁分部；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「常德路口·失控咒隔离室」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_jingan_07",
+    "cluster_code": "jingan",
+    "district": "静安",
+    "real_spot": "愚园路口",
+    "wizarding_alias": "复方汤剂取药处",
+    "wizarding_zone": "圣芒戈/古灵阁分部",
+    "canon_ref": "St Mungo's / Gringotts branch",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "healing",
+      "order",
+      "secret",
+      "security"
+    ],
+    "lat": 31.221688,
+    "lng": 121.447033,
+    "prompt_seed": "地点：愚园路口（上海静安）的魔法映射：复方汤剂取药处；氛围：圣芒戈/古灵阁分部；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「愚园路口·复方汤剂取药处」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_jingan_08",
+    "cluster_code": "jingan",
+    "district": "静安",
+    "real_spot": "华山路口",
+    "wizarding_alias": "石化急救床",
+    "wizarding_zone": "圣芒戈/古灵阁分部",
+    "canon_ref": "St Mungo's / Gringotts branch",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "healing",
+      "order",
+      "secret",
+      "security"
+    ],
+    "lat": 31.22495,
+    "lng": 121.442914,
+    "prompt_seed": "地点：华山路口（上海静安）的魔法映射：石化急救床；氛围：圣芒戈/古灵阁分部；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「华山路口·石化急救床」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_jingan_09",
+    "cluster_code": "jingan",
+    "district": "静安",
+    "real_spot": "武定路口",
+    "wizarding_alias": "护身符诊疗台",
+    "wizarding_zone": "圣芒戈/古灵阁分部",
+    "canon_ref": "St Mungo's / Gringotts branch",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "clue",
+      "healing",
+      "order",
+      "ritual",
+      "seal",
+      "secret",
+      "security"
+    ],
+    "lat": 31.221814,
+    "lng": 121.443314,
+    "prompt_seed": "地点：武定路口（上海静安）的魔法映射：护身符诊疗台；氛围：圣芒戈/古灵阁分部；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「武定路口·护身符诊疗台」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_jingan_10",
+    "cluster_code": "jingan",
+    "district": "静安",
+    "real_spot": "静安寺地铁站",
+    "wizarding_alias": "禁林咬伤处理点",
+    "wizarding_zone": "圣芒戈/古灵阁分部",
+    "canon_ref": "St Mungo's / Gringotts branch",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "creature",
+      "healing",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "secret",
+      "security",
+      "signal"
+    ],
+    "lat": 31.223355,
+    "lng": 121.448445,
+    "prompt_seed": "地点：静安寺地铁站（上海静安）的魔法映射：禁林咬伤处理点；氛围：圣芒戈/古灵阁分部；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「静安寺地铁站·禁林咬伤处理点」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_njw_01",
+    "cluster_code": "njw",
+    "district": "静安",
+    "real_spot": "兴业太古汇",
+    "wizarding_alias": "魔法部财务司审计处",
+    "wizarding_zone": "财务司/国际合作司",
+    "canon_ref": "Ministry finance / International cooperation",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "bank",
+      "finance",
+      "ministry",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.229162,
+    "lng": 121.456095,
+    "prompt_seed": "地点：兴业太古汇（上海静安）的魔法映射：魔法部财务司审计处；氛围：财务司/国际合作司；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「兴业太古汇·魔法部财务司审计处」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_njw_02",
+    "cluster_code": "njw",
+    "district": "静安",
+    "real_spot": "恒隆广场",
+    "wizarding_alias": "古灵阁账簿室",
+    "wizarding_zone": "财务司/国际合作司",
+    "canon_ref": "Ministry finance / International cooperation",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "bank",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.229117,
+    "lng": 121.457707,
+    "prompt_seed": "地点：恒隆广场（上海静安）的魔法映射：古灵阁账簿室；氛围：财务司/国际合作司；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「恒隆广场·古灵阁账簿室」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_njw_03",
+    "cluster_code": "njw",
+    "district": "静安",
+    "real_spot": "梅龙镇广场",
+    "wizarding_alias": "预言家风向室",
+    "wizarding_zone": "财务司/国际合作司",
+    "canon_ref": "Ministry finance / International cooperation",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security",
+      "signal"
+    ],
+    "lat": 31.228838,
+    "lng": 121.454293,
+    "prompt_seed": "地点：梅龙镇广场（上海静安）的魔法映射：预言家风向室；氛围：财务司/国际合作司；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「梅龙镇广场·预言家风向室」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_njw_04",
+    "cluster_code": "njw",
+    "district": "静安",
+    "real_spot": "吴江路口",
+    "wizarding_alias": "国际合作司签证台",
+    "wizarding_zone": "财务司/国际合作司",
+    "canon_ref": "Ministry finance / International cooperation",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "finance",
+      "ministry",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.230441,
+    "lng": 121.456105,
+    "prompt_seed": "地点：吴江路口（上海静安）的魔法映射：国际合作司签证台；氛围：财务司/国际合作司；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「吴江路口·国际合作司签证台」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_njw_05",
+    "cluster_code": "njw",
+    "district": "静安",
+    "real_spot": "上海展览中心",
+    "wizarding_alias": "傲罗装备库",
+    "wizarding_zone": "财务司/国际合作司",
+    "canon_ref": "Ministry finance / International cooperation",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.227541,
+    "lng": 121.456,
+    "prompt_seed": "地点：上海展览中心（上海静安）的魔法映射：傲罗装备库；氛围：财务司/国际合作司；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「上海展览中心·傲罗装备库」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_njw_06",
+    "cluster_code": "njw",
+    "district": "静安",
+    "real_spot": "上海商城",
+    "wizarding_alias": "防伪封印处",
+    "wizarding_zone": "财务司/国际合作司",
+    "canon_ref": "Ministry finance / International cooperation",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.230514,
+    "lng": 121.457707,
+    "prompt_seed": "地点：上海商城（上海静安）的魔法映射：防伪封印处；氛围：财务司/国际合作司；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「上海商城·防伪封印处」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_njw_07",
+    "cluster_code": "njw",
+    "district": "静安",
+    "real_spot": "静安雕塑公园",
+    "wizarding_alias": "魔法合同盖章处",
+    "wizarding_zone": "财务司/国际合作司",
+    "canon_ref": "Ministry finance / International cooperation",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.227486,
+    "lng": 121.457686,
+    "prompt_seed": "地点：静安雕塑公园（上海静安）的魔法映射：魔法合同盖章处；氛围：财务司/国际合作司；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「静安雕塑公园·魔法合同盖章处」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_njw_08",
+    "cluster_code": "njw",
+    "district": "静安",
+    "real_spot": "南京西路地铁站",
+    "wizarding_alias": "保密法宣誓台",
+    "wizarding_zone": "财务司/国际合作司",
+    "canon_ref": "Ministry finance / International cooperation",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "finance",
+      "ministry",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.230802,
+    "lng": 121.453946,
+    "prompt_seed": "地点：南京西路地铁站（上海静安）的魔法映射：保密法宣誓台；氛围：财务司/国际合作司；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「南京西路地铁站·保密法宣誓台」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_njw_09",
+    "cluster_code": "njw",
+    "district": "静安",
+    "real_spot": "石门一路口",
+    "wizarding_alias": "麻瓜媒体干预组",
+    "wizarding_zone": "财务司/国际合作司",
+    "canon_ref": "Ministry finance / International cooperation",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.227405,
+    "lng": 121.45403,
+    "prompt_seed": "地点：石门一路口（上海静安）的魔法映射：麻瓜媒体干预组；氛围：财务司/国际合作司；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「石门一路口·麻瓜媒体干预组」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_njw_10",
+    "cluster_code": "njw",
+    "district": "静安",
+    "real_spot": "铜仁路口",
+    "wizarding_alias": "幻影广告牌",
+    "wizarding_zone": "财务司/国际合作司",
+    "canon_ref": "Ministry finance / International cooperation",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.229,
+    "lng": 121.459171,
+    "prompt_seed": "地点：铜仁路口（上海静安）的魔法映射：幻影广告牌；氛围：财务司/国际合作司；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「铜仁路口·幻影广告牌」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_zsp_01",
+    "cluster_code": "zsp",
+    "district": "长宁",
+    "real_spot": "中山公园",
+    "wizarding_alias": "神奇动物安置点",
+    "wizarding_zone": "神奇动物驿站",
+    "canon_ref": "Fantastic Beasts",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "order",
+      "risk",
+      "signal"
+    ],
+    "lat": 31.223865,
+    "lng": 121.424211,
+    "prompt_seed": "地点：中山公园（上海长宁）的魔法映射：神奇动物安置点；氛围：神奇动物驿站；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「中山公园·神奇动物安置点」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_zsp_02",
+    "cluster_code": "zsp",
+    "district": "长宁",
+    "real_spot": "龙之梦购物中心",
+    "wizarding_alias": "神奇动物巡护站",
+    "wizarding_zone": "神奇动物驿站",
+    "canon_ref": "Fantastic Beasts",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "order",
+      "risk",
+      "signal"
+    ],
+    "lat": 31.224063,
+    "lng": 121.425854,
+    "prompt_seed": "地点：龙之梦购物中心（上海长宁）的魔法映射：神奇动物巡护站；氛围：神奇动物驿站；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「龙之梦购物中心·神奇动物巡护站」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_zsp_03",
+    "cluster_code": "zsp",
+    "district": "长宁",
+    "real_spot": "长宁路口",
+    "wizarding_alias": "独角兽水源点",
+    "wizarding_zone": "神奇动物驿站",
+    "canon_ref": "Fantastic Beasts",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "lat": 31.224036,
+    "lng": 121.42222,
+    "prompt_seed": "地点：长宁路口（上海长宁）的魔法映射：独角兽水源点；氛围：神奇动物驿站；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「长宁路口·独角兽水源点」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_zsp_04",
+    "cluster_code": "zsp",
+    "district": "长宁",
+    "real_spot": "定西路口",
+    "wizarding_alias": "夜骐牧场",
+    "wizarding_zone": "神奇动物驿站",
+    "canon_ref": "Fantastic Beasts",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "lat": 31.225613,
+    "lng": 121.423853,
+    "prompt_seed": "地点：定西路口（上海长宁）的魔法映射：夜骐牧场；氛围：神奇动物驿站；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「定西路口·夜骐牧场」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_zsp_05",
+    "cluster_code": "zsp",
+    "district": "长宁",
+    "real_spot": "江苏路口",
+    "wizarding_alias": "护树罗锅小窝",
+    "wizarding_zone": "神奇动物驿站",
+    "canon_ref": "Fantastic Beasts",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "lat": 31.22227,
+    "lng": 121.424158,
+    "prompt_seed": "地点：江苏路口（上海长宁）的魔法映射：护树罗锅小窝；氛围：神奇动物驿站；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「江苏路口·护树罗锅小窝」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_zsp_06",
+    "cluster_code": "zsp",
+    "district": "长宁",
+    "real_spot": "愚园路（长宁段）",
+    "wizarding_alias": "嗅嗅巡逻点",
+    "wizarding_zone": "神奇动物驿站",
+    "canon_ref": "Fantastic Beasts",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "lat": 31.225649,
+    "lng": 121.425896,
+    "prompt_seed": "地点：愚园路（长宁段）（上海长宁）的魔法映射：嗅嗅巡逻点；氛围：神奇动物驿站；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「愚园路（长宁段）·嗅嗅巡逻点」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_zsp_07",
+    "cluster_code": "zsp",
+    "district": "长宁",
+    "real_spot": "延安西路口",
+    "wizarding_alias": "马人观测点",
+    "wizarding_zone": "神奇动物驿站",
+    "canon_ref": "Fantastic Beasts",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "paper",
+      "risk",
+      "ritual",
+      "school",
+      "secret",
+      "signal"
+    ],
+    "lat": 31.222333,
+    "lng": 121.425886,
+    "prompt_seed": "地点：延安西路口（上海长宁）的魔法映射：马人观测点；氛围：神奇动物驿站；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「延安西路口·马人观测点」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_zsp_08",
+    "cluster_code": "zsp",
+    "district": "长宁",
+    "real_spot": "凯旋路口",
+    "wizarding_alias": "摄魂怪预警灯",
+    "wizarding_zone": "神奇动物驿站",
+    "canon_ref": "Fantastic Beasts",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "order",
+      "risk",
+      "signal"
+    ],
+    "lat": 31.225559,
+    "lng": 121.421914,
+    "prompt_seed": "地点：凯旋路口（上海长宁）的魔法映射：摄魂怪预警灯；氛围：神奇动物驿站；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「凯旋路口·摄魂怪预警灯」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_zsp_09",
+    "cluster_code": "zsp",
+    "district": "长宁",
+    "real_spot": "中山公园地铁站",
+    "wizarding_alias": "禁林投影边缘",
+    "wizarding_zone": "神奇动物驿站",
+    "canon_ref": "Fantastic Beasts",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "lat": 31.222414,
+    "lng": 121.421904,
+    "prompt_seed": "地点：中山公园地铁站（上海长宁）的魔法映射：禁林投影边缘；氛围：神奇动物驿站；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「中山公园地铁站·禁林投影边缘」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_zsp_10",
+    "cluster_code": "zsp",
+    "district": "长宁",
+    "real_spot": "虹桥路口",
+    "wizarding_alias": "凤凰栖木",
+    "wizarding_zone": "神奇动物驿站",
+    "canon_ref": "Fantastic Beasts",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "lat": 31.223919,
+    "lng": 121.427508,
+    "prompt_seed": "地点：虹桥路口（上海长宁）的魔法映射：凤凰栖木；氛围：神奇动物驿站；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「虹桥路口·凤凰栖木」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_xujiahui_01",
+    "cluster_code": "xujiahui",
+    "district": "徐汇",
+    "real_spot": "徐家汇",
+    "wizarding_alias": "校友会沪上会馆",
+    "wizarding_zone": "霍格沃茨校友会/外勤教室",
+    "canon_ref": "Hogwarts",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret",
+      "security"
+    ],
+    "lat": 31.193973,
+    "lng": 121.436126,
+    "prompt_seed": "地点：徐家汇（上海徐汇）的魔法映射：校友会沪上会馆；氛围：霍格沃茨校友会/外勤教室；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「徐家汇·校友会沪上会馆」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_xujiahui_02",
+    "cluster_code": "xujiahui",
+    "district": "徐汇",
+    "real_spot": "港汇恒隆广场",
+    "wizarding_alias": "魔法史讲堂",
+    "wizarding_zone": "霍格沃茨校友会/外勤教室",
+    "canon_ref": "Hogwarts",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret",
+      "security"
+    ],
+    "lat": 31.193919,
+    "lng": 121.437822,
+    "prompt_seed": "地点：港汇恒隆广场（上海徐汇）的魔法映射：魔法史讲堂；氛围：霍格沃茨校友会/外勤教室；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「港汇恒隆广场·魔法史讲堂」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_xujiahui_03",
+    "cluster_code": "xujiahui",
+    "district": "徐汇",
+    "real_spot": "美罗城",
+    "wizarding_alias": "拉文克劳资料室",
+    "wizarding_zone": "霍格沃茨校友会/外勤教室",
+    "canon_ref": "Hogwarts",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret",
+      "security"
+    ],
+    "lat": 31.194117,
+    "lng": 121.434262,
+    "prompt_seed": "地点：美罗城（上海徐汇）的魔法映射：拉文克劳资料室；氛围：霍格沃茨校友会/外勤教室；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「美罗城·拉文克劳资料室」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_xujiahui_04",
+    "cluster_code": "xujiahui",
+    "district": "徐汇",
+    "real_spot": "徐家汇天主教堂",
+    "wizarding_alias": "格兰芬多集结点",
+    "wizarding_zone": "霍格沃茨校友会/外勤教室",
+    "canon_ref": "Hogwarts",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "school",
+      "security"
+    ],
+    "lat": 31.195586,
+    "lng": 121.436179,
+    "prompt_seed": "地点：徐家汇天主教堂（上海徐汇）的魔法映射：格兰芬多集结点；氛围：霍格沃茨校友会/外勤教室；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「徐家汇天主教堂·格兰芬多集结点」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_xujiahui_05",
+    "cluster_code": "xujiahui",
+    "district": "徐汇",
+    "real_spot": "徐家汇公园",
+    "wizarding_alias": "赫奇帕奇补给间",
+    "wizarding_zone": "霍格沃茨校友会/外勤教室",
+    "canon_ref": "Hogwarts",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "school",
+      "security"
+    ],
+    "lat": 31.192351,
+    "lng": 121.436063,
+    "prompt_seed": "地点：徐家汇公园（上海徐汇）的魔法映射：赫奇帕奇补给间；氛围：霍格沃茨校友会/外勤教室；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「徐家汇公园·赫奇帕奇补给间」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_xujiahui_06",
+    "cluster_code": "xujiahui",
+    "district": "徐汇",
+    "real_spot": "太平洋百货",
+    "wizarding_alias": "斯莱特林暗室",
+    "wizarding_zone": "霍格沃茨校友会/外勤教室",
+    "canon_ref": "Hogwarts",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "school",
+      "security"
+    ],
+    "lat": 31.195622,
+    "lng": 121.438022,
+    "prompt_seed": "地点：太平洋百货（上海徐汇）的魔法映射：斯莱特林暗室；氛围：霍格沃茨校友会/外勤教室；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「太平洋百货·斯莱特林暗室」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_xujiahui_07",
+    "cluster_code": "xujiahui",
+    "district": "徐汇",
+    "real_spot": "徐家汇地铁站",
+    "wizarding_alias": "黑魔防练习场",
+    "wizarding_zone": "霍格沃茨校友会/外勤教室",
+    "canon_ref": "Hogwarts",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "black_market",
+      "books",
+      "clue",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "order",
+      "risk",
+      "school",
+      "secret",
+      "security",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.192261,
+    "lng": 121.437927,
+    "prompt_seed": "地点：徐家汇地铁站（上海徐汇）的魔法映射：黑魔防练习场；氛围：霍格沃茨校友会/外勤教室；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「徐家汇地铁站·黑魔防练习场」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_xujiahui_08",
+    "cluster_code": "xujiahui",
+    "district": "徐汇",
+    "real_spot": "衡山路口（徐家汇）",
+    "wizarding_alias": "飞行课看台",
+    "wizarding_zone": "霍格沃茨校友会/外勤教室",
+    "canon_ref": "Hogwarts",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "school",
+      "security"
+    ],
+    "lat": 31.195703,
+    "lng": 121.434252,
+    "prompt_seed": "地点：衡山路口（徐家汇）（上海徐汇）的魔法映射：飞行课看台；氛围：霍格沃茨校友会/外勤教室；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「衡山路口（徐家汇）·飞行课看台」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_xujiahui_09",
+    "cluster_code": "xujiahui",
+    "district": "徐汇",
+    "real_spot": "徐家汇书院",
+    "wizarding_alias": "分院帽问答桌",
+    "wizarding_zone": "霍格沃茨校友会/外勤教室",
+    "canon_ref": "Hogwarts",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "school",
+      "security"
+    ],
+    "lat": 31.192559,
+    "lng": 121.434283,
+    "prompt_seed": "地点：徐家汇书院（上海徐汇）的魔法映射：分院帽问答桌；氛围：霍格沃茨校友会/外勤教室；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「徐家汇书院·分院帽问答桌」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_xujiahui_10",
+    "cluster_code": "xujiahui",
+    "district": "徐汇",
+    "real_spot": "上海体育馆口",
+    "wizarding_alias": "OWL考试公告栏",
+    "wizarding_zone": "霍格沃茨校友会/外勤教室",
+    "canon_ref": "Hogwarts",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "books",
+      "clue",
+      "ministry",
+      "order",
+      "paper",
+      "school",
+      "secret",
+      "security"
+    ],
+    "lat": 31.194162,
+    "lng": 121.439549,
+    "prompt_seed": "地点：上海体育馆口（上海徐汇）的魔法映射：OWL考试公告栏；氛围：霍格沃茨校友会/外勤教室；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「上海体育馆口·OWL考试公告栏」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_wukang_01",
+    "cluster_code": "wukang",
+    "district": "徐汇",
+    "real_spot": "武康路",
+    "wizarding_alias": "凤凰社密会门环",
+    "wizarding_zone": "凤凰社安全屋/双面镜",
+    "canon_ref": "Order of the Phoenix",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_hogwarts_field",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "creature",
+      "lanes",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "secret",
+      "security",
+      "signal"
+    ],
+    "lat": 31.206153,
+    "lng": 121.437958,
+    "prompt_seed": "地点：武康路（上海徐汇）的魔法映射：凤凰社密会门环；氛围：凤凰社安全屋/双面镜；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「武康路·凤凰社密会门环」像凤凰社的安全屋入口：信息不会直说，只会以双面镜/暗号/碎片形式出现；你需要与他人交换证物才能拼全。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wukang_02",
+    "cluster_code": "wukang",
+    "district": "徐汇",
+    "real_spot": "安福路",
+    "wizarding_alias": "双面镜交换柜",
+    "wizarding_zone": "凤凰社安全屋/双面镜",
+    "canon_ref": "Order of the Phoenix",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_hogwarts_field",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "occlusion",
+      "order",
+      "secret",
+      "security"
+    ],
+    "lat": 31.206108,
+    "lng": 121.439696,
+    "prompt_seed": "地点：安福路（上海徐汇）的魔法映射：双面镜交换柜；氛围：凤凰社安全屋/双面镜；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「安福路·双面镜交换柜」像凤凰社的安全屋入口：信息不会直说，只会以双面镜/暗号/碎片形式出现；你需要与他人交换证物才能拼全。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wukang_03",
+    "cluster_code": "wukang",
+    "district": "徐汇",
+    "real_spot": "衡山路",
+    "wizarding_alias": "记忆瓶暗柜",
+    "wizarding_zone": "凤凰社安全屋/双面镜",
+    "canon_ref": "Order of the Phoenix",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_hogwarts_field",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "occlusion",
+      "order",
+      "secret",
+      "security"
+    ],
+    "lat": 31.206153,
+    "lng": 121.436136,
+    "prompt_seed": "地点：衡山路（上海徐汇）的魔法映射：记忆瓶暗柜；氛围：凤凰社安全屋/双面镜；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「衡山路·记忆瓶暗柜」像凤凰社的安全屋入口：信息不会直说，只会以双面镜/暗号/碎片形式出现；你需要与他人交换证物才能拼全。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wukang_04",
+    "cluster_code": "wukang",
+    "district": "徐汇",
+    "real_spot": "复兴西路",
+    "wizarding_alias": "预言厅碎片收藏",
+    "wizarding_zone": "凤凰社安全屋/双面镜",
+    "canon_ref": "Order of the Phoenix",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_hogwarts_field",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "occlusion",
+      "order",
+      "secret",
+      "security"
+    ],
+    "lat": 31.207703,
+    "lng": 121.437905,
+    "prompt_seed": "地点：复兴西路（上海徐汇）的魔法映射：预言厅碎片收藏；氛围：凤凰社安全屋/双面镜；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「复兴西路·预言厅碎片收藏」像凤凰社的安全屋入口：信息不会直说，只会以双面镜/暗号/碎片形式出现；你需要与他人交换证物才能拼全。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wukang_05",
+    "cluster_code": "wukang",
+    "district": "徐汇",
+    "real_spot": "乌鲁木齐中路",
+    "wizarding_alias": "隐形披风投影廊",
+    "wizarding_zone": "凤凰社安全屋/双面镜",
+    "canon_ref": "Order of the Phoenix",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_hogwarts_field",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "occlusion",
+      "order",
+      "secret",
+      "security"
+    ],
+    "lat": 31.204261,
+    "lng": 121.437989,
+    "prompt_seed": "地点：乌鲁木齐中路（上海徐汇）的魔法映射：隐形披风投影廊；氛围：凤凰社安全屋/双面镜；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「乌鲁木齐中路·隐形披风投影廊」像凤凰社的安全屋入口：信息不会直说，只会以双面镜/暗号/碎片形式出现；你需要与他人交换证物才能拼全。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wukang_06",
+    "cluster_code": "wukang",
+    "district": "徐汇",
+    "real_spot": "上海交大徐汇校区",
+    "wizarding_alias": "守护神练习点",
+    "wizarding_zone": "凤凰社安全屋/双面镜",
+    "canon_ref": "Order of the Phoenix",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_hogwarts_field",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "occlusion",
+      "order",
+      "secret",
+      "security"
+    ],
+    "lat": 31.207541,
+    "lng": 121.440054,
+    "prompt_seed": "地点：上海交大徐汇校区（上海徐汇）的魔法映射：守护神练习点；氛围：凤凰社安全屋/双面镜；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「上海交大徐汇校区·守护神练习点」像凤凰社的安全屋入口：信息不会直说，只会以双面镜/暗号/碎片形式出现；你需要与他人交换证物才能拼全。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wukang_07",
+    "cluster_code": "wukang",
+    "district": "徐汇",
+    "real_spot": "宋庆龄故居",
+    "wizarding_alias": "合法化身术诊所",
+    "wizarding_zone": "凤凰社安全屋/双面镜",
+    "canon_ref": "Order of the Phoenix",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_hogwarts_field",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "occlusion",
+      "order",
+      "secret",
+      "security"
+    ],
+    "lat": 31.204505,
+    "lng": 121.439991,
+    "prompt_seed": "地点：宋庆龄故居（上海徐汇）的魔法映射：合法化身术诊所；氛围：凤凰社安全屋/双面镜；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「宋庆龄故居·合法化身术诊所」像凤凰社的安全屋入口：信息不会直说，只会以双面镜/暗号/碎片形式出现；你需要与他人交换证物才能拼全。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wukang_08",
+    "cluster_code": "wukang",
+    "district": "徐汇",
+    "real_spot": "巴金故居",
+    "wizarding_alias": "禁咒事故档案点",
+    "wizarding_zone": "凤凰社安全屋/双面镜",
+    "canon_ref": "Order of the Phoenix",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_hogwarts_field",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "lanes",
+      "ministry",
+      "occlusion",
+      "order",
+      "paper",
+      "secret",
+      "security"
+    ],
+    "lat": 31.20764,
+    "lng": 121.43602,
+    "prompt_seed": "地点：巴金故居（上海徐汇）的魔法映射：禁咒事故档案点；氛围：凤凰社安全屋/双面镜；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「巴金故居·禁咒事故档案点」像凤凰社的安全屋入口：信息不会直说，只会以双面镜/暗号/碎片形式出现；你需要与他人交换证物才能拼全。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wukang_09",
+    "cluster_code": "wukang",
+    "district": "徐汇",
+    "real_spot": "上海音乐学院",
+    "wizarding_alias": "魂器谣言角",
+    "wizarding_zone": "凤凰社安全屋/双面镜",
+    "canon_ref": "Order of the Phoenix",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_hogwarts_field",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "black_market",
+      "clue",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "order",
+      "risk",
+      "secret",
+      "security",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.204261,
+    "lng": 121.435978,
+    "prompt_seed": "地点：上海音乐学院（上海徐汇）的魔法映射：魂器谣言角；氛围：凤凰社安全屋/双面镜；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「上海音乐学院·魂器谣言角」像凤凰社的安全屋入口：信息不会直说，只会以双面镜/暗号/碎片形式出现；你需要与他人交换证物才能拼全。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wukang_10",
+    "cluster_code": "wukang",
+    "district": "徐汇",
+    "real_spot": "湖南路口",
+    "wizarding_alias": "夜巡暗线",
+    "wizarding_zone": "凤凰社安全屋/双面镜",
+    "canon_ref": "Order of the Phoenix",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_hogwarts_field",
+      "thread_knockturn_smuggling"
+    ],
+    "tags": [
+      "clue",
+      "lanes",
+      "occlusion",
+      "order",
+      "secret",
+      "security"
+    ],
+    "lat": 31.206081,
+    "lng": 121.441486,
+    "prompt_seed": "地点：湖南路口（上海徐汇）的魔法映射：夜巡暗线；氛围：凤凰社安全屋/双面镜；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「湖南路口·夜巡暗线」像凤凰社的安全屋入口：信息不会直说，只会以双面镜/暗号/碎片形式出现；你需要与他人交换证物才能拼全。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_rail_01",
+    "cluster_code": "rail",
+    "district": "静安",
+    "real_spot": "上海火车站",
+    "wizarding_alias": "门钥匙列车厢",
+    "wizarding_zone": "门钥匙列车/飞路接驳",
+    "canon_ref": "Portkey / Floo network",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.249964,
+    "lng": 121.458842,
+    "prompt_seed": "地点：上海火车站（上海静安）的魔法映射：门钥匙列车厢；氛围：门钥匙列车/飞路接驳；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「上海火车站·门钥匙列车厢」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_rail_02",
+    "cluster_code": "rail",
+    "district": "静安",
+    "real_spot": "长途客运总站",
+    "wizarding_alias": "飞路炉灰清理站",
+    "wizarding_zone": "门钥匙列车/飞路接驳",
+    "canon_ref": "Portkey / Floo network",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.250045,
+    "lng": 121.460918,
+    "prompt_seed": "地点：长途客运总站（上海静安）的魔法映射：飞路炉灰清理站；氛围：门钥匙列车/飞路接驳；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「长途客运总站·飞路炉灰清理站」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_rail_03",
+    "cluster_code": "rail",
+    "district": "静安",
+    "real_spot": "苏州河步道",
+    "wizarding_alias": "交通司调度间",
+    "wizarding_zone": "门钥匙列车/飞路接驳",
+    "canon_ref": "Portkey / Floo network",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.250036,
+    "lng": 121.457114,
+    "prompt_seed": "地点：苏州河步道（上海静安）的魔法映射：交通司调度间；氛围：门钥匙列车/飞路接驳；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「苏州河步道·交通司调度间」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_rail_04",
+    "cluster_code": "rail",
+    "district": "静安",
+    "real_spot": "M50创意园",
+    "wizarding_alias": "失控门封印站",
+    "wizarding_zone": "门钥匙列车/飞路接驳",
+    "canon_ref": "Portkey / Floo network",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "hub",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.251721,
+    "lng": 121.458831,
+    "prompt_seed": "地点：M50创意园（上海静安）的魔法映射：失控门封印站；氛围：门钥匙列车/飞路接驳；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「M50创意园·失控门封印站」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_rail_05",
+    "cluster_code": "rail",
+    "district": "静安",
+    "real_spot": "长寿路口",
+    "wizarding_alias": "骑士公交换乘点",
+    "wizarding_zone": "门钥匙列车/飞路接驳",
+    "canon_ref": "Portkey / Floo network",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.248342,
+    "lng": 121.458821,
+    "prompt_seed": "地点：长寿路口（上海静安）的魔法映射：骑士公交换乘点；氛围：门钥匙列车/飞路接驳；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「长寿路口·骑士公交换乘点」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_rail_06",
+    "cluster_code": "rail",
+    "district": "静安",
+    "real_spot": "天潼路口",
+    "wizarding_alias": "行李幻影柜",
+    "wizarding_zone": "门钥匙列车/飞路接驳",
+    "canon_ref": "Portkey / Floo network",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "hub",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.251739,
+    "lng": 121.460886,
+    "prompt_seed": "地点：天潼路口（上海静安）的魔法映射：行李幻影柜；氛围：门钥匙列车/飞路接驳；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「天潼路口·行李幻影柜」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_rail_07",
+    "cluster_code": "rail",
+    "district": "静安",
+    "real_spot": "中潭路口",
+    "wizarding_alias": "猫头鹰快递站",
+    "wizarding_zone": "门钥匙列车/飞路接驳",
+    "canon_ref": "Portkey / Floo network",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "hub",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.248414,
+    "lng": 121.460823,
+    "prompt_seed": "地点：中潭路口（上海静安）的魔法映射：猫头鹰快递站；氛围：门钥匙列车/飞路接驳；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「中潭路口·猫头鹰快递站」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_rail_08",
+    "cluster_code": "rail",
+    "district": "静安",
+    "real_spot": "昌化路口",
+    "wizarding_alias": "防伪检票咒",
+    "wizarding_zone": "门钥匙列车/飞路接驳",
+    "canon_ref": "Portkey / Floo network",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.251802,
+    "lng": 121.457093,
+    "prompt_seed": "地点：昌化路口（上海静安）的魔法映射：防伪检票咒；氛围：门钥匙列车/飞路接驳；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「昌化路口·防伪检票咒」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_rail_09",
+    "cluster_code": "rail",
+    "district": "静安",
+    "real_spot": "光复西路口",
+    "wizarding_alias": "信号干扰屏",
+    "wizarding_zone": "门钥匙列车/飞路接驳",
+    "canon_ref": "Portkey / Floo network",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "hub",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.248559,
+    "lng": 121.457072,
+    "prompt_seed": "地点：光复西路口（上海静安）的魔法映射：信号干扰屏；氛围：门钥匙列车/飞路接驳；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「光复西路口·信号干扰屏」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_rail_10",
+    "cluster_code": "rail",
+    "district": "静安",
+    "real_spot": "上海站北广场",
+    "wizarding_alias": "紧急撤离点",
+    "wizarding_zone": "门钥匙列车/飞路接驳",
+    "canon_ref": "Portkey / Floo network",
+    "recommended_threads": [
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "order",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.250162,
+    "lng": 121.462225,
+    "prompt_seed": "地点：上海站北广场（上海静安）的魔法映射：紧急撤离点；氛围：门钥匙列车/飞路接驳；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「上海站北广场·紧急撤离点」附近，飞路网与门钥匙线路出现异常回声；你需要在下一次跳转前确认正确的通行暗号与时间窗。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_northbund_01",
+    "cluster_code": "northbund",
+    "district": "虹口",
+    "real_spot": "北外滩滨江",
+    "wizarding_alias": "黑湖码头渡口",
+    "wizarding_zone": "黑湖码头/魔法海关",
+    "canon_ref": "Black Lake Dock / Smuggling interdiction",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "lat": 31.248144,
+    "lng": 121.500063,
+    "prompt_seed": "地点：北外滩滨江（上海虹口）的魔法映射：黑湖码头渡口；氛围：黑湖码头/魔法海关；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「北外滩滨江·黑湖码头渡口」靠近水域与码头，海雾带来遮蔽与回声；海关结界与走私暗号同时出现，线索会随潮汐改变。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_northbund_02",
+    "cluster_code": "northbund",
+    "district": "虹口",
+    "real_spot": "白玉兰广场",
+    "wizarding_alias": "魔法海关口岸",
+    "wizarding_zone": "黑湖码头/魔法海关",
+    "canon_ref": "Black Lake Dock / Smuggling interdiction",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "lat": 31.247955,
+    "lng": 121.501812,
+    "prompt_seed": "地点：白玉兰广场（上海虹口）的魔法映射：魔法海关口岸；氛围：黑湖码头/魔法海关；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「白玉兰广场·魔法海关口岸」靠近水域与码头，海雾带来遮蔽与回声；海关结界与走私暗号同时出现，线索会随潮汐改变。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_northbund_03",
+    "cluster_code": "northbund",
+    "district": "虹口",
+    "real_spot": "国际客运中心",
+    "wizarding_alias": "走私截停点",
+    "wizarding_zone": "黑湖码头/魔法海关",
+    "canon_ref": "Black Lake Dock / Smuggling interdiction",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "black_market",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "risk",
+      "secret",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "lat": 31.247973,
+    "lng": 121.497956,
+    "prompt_seed": "地点：国际客运中心（上海虹口）的魔法映射：走私截停点；氛围：黑湖码头/魔法海关；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「国际客运中心·走私截停点」靠近水域与码头，海雾带来遮蔽与回声；海关结界与走私暗号同时出现，线索会随潮汐改变。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_northbund_04",
+    "cluster_code": "northbund",
+    "district": "虹口",
+    "real_spot": "上海邮轮码头",
+    "wizarding_alias": "海雾信号灯塔",
+    "wizarding_zone": "黑湖码头/魔法海关",
+    "canon_ref": "Black Lake Dock / Smuggling interdiction",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "lat": 31.249766,
+    "lng": 121.499821,
+    "prompt_seed": "地点：上海邮轮码头（上海虹口）的魔法映射：海雾信号灯塔；氛围：黑湖码头/魔法海关；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「上海邮轮码头·海雾信号灯塔」靠近水域与码头，海雾带来遮蔽与回声；海关结界与走私暗号同时出现，线索会随潮汐改变。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_northbund_05",
+    "cluster_code": "northbund",
+    "district": "虹口",
+    "real_spot": "提篮桥口",
+    "wizarding_alias": "国际魁地奇码头",
+    "wizarding_zone": "黑湖码头/魔法海关",
+    "canon_ref": "Black Lake Dock / Smuggling interdiction",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "lat": 31.246225,
+    "lng": 121.5,
+    "prompt_seed": "地点：提篮桥口（上海虹口）的魔法映射：国际魁地奇码头；氛围：黑湖码头/魔法海关；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「提篮桥口·国际魁地奇码头」靠近水域与码头，海雾带来遮蔽与回声；海关结界与走私暗号同时出现，线索会随潮汐改变。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_northbund_06",
+    "cluster_code": "northbund",
+    "district": "虹口",
+    "real_spot": "公平路口",
+    "wizarding_alias": "德姆斯特朗货舱",
+    "wizarding_zone": "黑湖码头/魔法海关",
+    "canon_ref": "Black Lake Dock / Smuggling interdiction",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "lat": 31.24973,
+    "lng": 121.501823,
+    "prompt_seed": "地点：公平路口（上海虹口）的魔法映射：德姆斯特朗货舱；氛围：黑湖码头/魔法海关；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「公平路口·德姆斯特朗货舱」靠近水域与码头，海雾带来遮蔽与回声；海关结界与走私暗号同时出现，线索会随潮汐改变。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_northbund_07",
+    "cluster_code": "northbund",
+    "district": "虹口",
+    "real_spot": "东大名路口",
+    "wizarding_alias": "门钥匙仓",
+    "wizarding_zone": "黑湖码头/魔法海关",
+    "canon_ref": "Black Lake Dock / Smuggling interdiction",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "occlusion",
+      "order",
+      "portal",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "lat": 31.246207,
+    "lng": 121.501865,
+    "prompt_seed": "地点：东大名路口（上海虹口）的魔法映射：门钥匙仓；氛围：黑湖码头/魔法海关；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「东大名路口·门钥匙仓」靠近水域与码头，海雾带来遮蔽与回声；海关结界与走私暗号同时出现，线索会随潮汐改变。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_northbund_08",
+    "cluster_code": "northbund",
+    "district": "虹口",
+    "real_spot": "北外滩来福士口",
+    "wizarding_alias": "护岸结界桩",
+    "wizarding_zone": "黑湖码头/魔法海关",
+    "canon_ref": "Black Lake Dock / Smuggling interdiction",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "lat": 31.249775,
+    "lng": 121.498124,
+    "prompt_seed": "地点：北外滩来福士口（上海虹口）的魔法映射：护岸结界桩；氛围：黑湖码头/魔法海关；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「北外滩来福士口·护岸结界桩」靠近水域与码头，海雾带来遮蔽与回声；海关结界与走私暗号同时出现，线索会随潮汐改变。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_northbund_09",
+    "cluster_code": "northbund",
+    "district": "虹口",
+    "real_spot": "虹口滨江绿地",
+    "wizarding_alias": "水下回声室",
+    "wizarding_zone": "黑湖码头/魔法海关",
+    "canon_ref": "Black Lake Dock / Smuggling interdiction",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "lat": 31.246405,
+    "lng": 121.497945,
+    "prompt_seed": "地点：虹口滨江绿地（上海虹口）的魔法映射：水下回声室；氛围：黑湖码头/魔法海关；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「虹口滨江绿地·水下回声室」靠近水域与码头，海雾带来遮蔽与回声；海关结界与走私暗号同时出现，线索会随潮汐改变。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_northbund_10",
+    "cluster_code": "northbund",
+    "district": "虹口",
+    "real_spot": "外白渡桥北口",
+    "wizarding_alias": "港口传闻墙",
+    "wizarding_zone": "黑湖码头/魔法海关",
+    "canon_ref": "Black Lake Dock / Smuggling interdiction",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "occlusion",
+      "risk",
+      "security",
+      "signal",
+      "trade",
+      "transport",
+      "waterfront"
+    ],
+    "lat": 31.247991,
+    "lng": 121.503562,
+    "prompt_seed": "地点：外白渡桥北口（上海虹口）的魔法映射：港口传闻墙；氛围：黑湖码头/魔法海关；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「外白渡桥北口·港口传闻墙」靠近水域与码头，海雾带来遮蔽与回声；海关结界与走私暗号同时出现，线索会随潮汐改变。",
+    "npc_hint": "暗市掮客/伪造师/走私联络员（低语、暗号、避实就虚）"
+  },
+  {
+    "stage_id": "stage_hongkou_01",
+    "cluster_code": "hongkou",
+    "district": "虹口",
+    "real_spot": "虹口足球场",
+    "wizarding_alias": "傲罗训练场",
+    "wizarding_zone": "傲罗训练区/档案馆",
+    "canon_ref": "Auror Office / Law Enforcement",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_knockturn_smuggling",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "order",
+      "risk",
+      "security"
+    ],
+    "lat": 31.276,
+    "lng": 121.488084,
+    "prompt_seed": "地点：虹口足球场（上海虹口）的魔法映射：傲罗训练场；氛围：傲罗训练区/档案馆；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「虹口足球场·傲罗训练场」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_hongkou_02",
+    "cluster_code": "hongkou",
+    "district": "虹口",
+    "real_spot": "鲁迅公园",
+    "wizarding_alias": "执法司演练厅",
+    "wizarding_zone": "傲罗训练区/档案馆",
+    "canon_ref": "Auror Office / Law Enforcement",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_knockturn_smuggling",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "order",
+      "risk",
+      "security"
+    ],
+    "lat": 31.276,
+    "lng": 121.490003,
+    "prompt_seed": "地点：鲁迅公园（上海虹口）的魔法映射：执法司演练厅；氛围：傲罗训练区/档案馆；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「鲁迅公园·执法司演练厅」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_hongkou_03",
+    "cluster_code": "hongkou",
+    "district": "虹口",
+    "real_spot": "1933老场坊",
+    "wizarding_alias": "记忆抹除培训点",
+    "wizarding_zone": "傲罗训练区/档案馆",
+    "canon_ref": "Auror Office / Law Enforcement",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_knockturn_smuggling",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "order",
+      "risk",
+      "security"
+    ],
+    "lat": 31.276171,
+    "lng": 121.486103,
+    "prompt_seed": "地点：1933老场坊（上海虹口）的魔法映射：记忆抹除培训点；氛围：傲罗训练区/档案馆；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「1933老场坊·记忆抹除培训点」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_hongkou_04",
+    "cluster_code": "hongkou",
+    "district": "虹口",
+    "real_spot": "多伦路名人街",
+    "wizarding_alias": "凤凰社观察台",
+    "wizarding_zone": "傲罗训练区/档案馆",
+    "canon_ref": "Auror Office / Law Enforcement",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_knockturn_smuggling",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "security",
+      "signal"
+    ],
+    "lat": 31.277468,
+    "lng": 121.488011,
+    "prompt_seed": "地点：多伦路名人街（上海虹口）的魔法映射：凤凰社观察台；氛围：傲罗训练区/档案馆；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「多伦路名人街·凤凰社观察台」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_hongkou_05",
+    "cluster_code": "hongkou",
+    "district": "虹口",
+    "real_spot": "四川北路口",
+    "wizarding_alias": "黑魔遗物展柜",
+    "wizarding_zone": "傲罗训练区/档案馆",
+    "canon_ref": "Auror Office / Law Enforcement",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_knockturn_smuggling",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "black_market",
+      "clue",
+      "forgery",
+      "lanes",
+      "occlusion",
+      "order",
+      "risk",
+      "secret",
+      "security",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.274505,
+    "lng": 121.4882,
+    "prompt_seed": "地点：四川北路口（上海虹口）的魔法映射：黑魔遗物展柜；氛围：傲罗训练区/档案馆；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「四川北路口·黑魔遗物展柜」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_hongkou_06",
+    "cluster_code": "hongkou",
+    "district": "虹口",
+    "real_spot": "海伦路口",
+    "wizarding_alias": "禁咒事故档案馆",
+    "wizarding_zone": "傲罗训练区/档案馆",
+    "canon_ref": "Auror Office / Law Enforcement",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_knockturn_smuggling",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "ministry",
+      "order",
+      "paper",
+      "risk",
+      "security"
+    ],
+    "lat": 31.277468,
+    "lng": 121.489697,
+    "prompt_seed": "地点：海伦路口（上海虹口）的魔法映射：禁咒事故档案馆；氛围：傲罗训练区/档案馆；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「海伦路口·禁咒事故档案馆」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_hongkou_07",
+    "cluster_code": "hongkou",
+    "district": "虹口",
+    "real_spot": "甜爱路口",
+    "wizarding_alias": "混淆咒演示点",
+    "wizarding_zone": "傲罗训练区/档案馆",
+    "canon_ref": "Auror Office / Law Enforcement",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_knockturn_smuggling",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "order",
+      "risk",
+      "security"
+    ],
+    "lat": 31.274351,
+    "lng": 121.489834,
+    "prompt_seed": "地点：甜爱路口（上海虹口）的魔法映射：混淆咒演示点；氛围：傲罗训练区/档案馆；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「甜爱路口·混淆咒演示点」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_hongkou_08",
+    "cluster_code": "hongkou",
+    "district": "虹口",
+    "real_spot": "虹口龙之梦口",
+    "wizarding_alias": "巡逻路线图",
+    "wizarding_zone": "傲罗训练区/档案馆",
+    "canon_ref": "Auror Office / Law Enforcement",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_knockturn_smuggling",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "order",
+      "risk",
+      "security"
+    ],
+    "lat": 31.27755,
+    "lng": 121.485987,
+    "prompt_seed": "地点：虹口龙之梦口（上海虹口）的魔法映射：巡逻路线图；氛围：傲罗训练区/档案馆；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「虹口龙之梦口·巡逻路线图」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_hongkou_09",
+    "cluster_code": "hongkou",
+    "district": "虹口",
+    "real_spot": "邮政博物馆口",
+    "wizarding_alias": "审讯模拟室",
+    "wizarding_zone": "傲罗训练区/档案馆",
+    "canon_ref": "Auror Office / Law Enforcement",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_knockturn_smuggling",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "order",
+      "risk",
+      "security"
+    ],
+    "lat": 31.274243,
+    "lng": 121.486092,
+    "prompt_seed": "地点：邮政博物馆口（上海虹口）的魔法映射：审讯模拟室；氛围：傲罗训练区/档案馆；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「邮政博物馆口·审讯模拟室」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_hongkou_10",
+    "cluster_code": "hongkou",
+    "district": "虹口",
+    "real_spot": "江湾体育场口",
+    "wizarding_alias": "战术道具仓",
+    "wizarding_zone": "傲罗训练区/档案馆",
+    "canon_ref": "Auror Office / Law Enforcement",
+    "recommended_threads": [
+      "thread_ministry_lockdown",
+      "thread_knockturn_smuggling",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "order",
+      "risk",
+      "security"
+    ],
+    "lat": 31.275838,
+    "lng": 121.49151,
+    "prompt_seed": "地点：江湾体育场口（上海虹口）的魔法映射：战术道具仓；氛围：傲罗训练区/档案馆；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "魔法部加强封锁后，「江湾体育场口·战术道具仓」成了执法与舆论的交汇处；一条新禁令正在生效，错一步就会被记入档案。",
+    "npc_hint": "傲罗/执法司文书官/预言家记者（高压、程序化口吻）"
+  },
+  {
+    "stage_id": "stage_lujiazui",
+    "cluster_code": "lujiazui",
+    "district": "浦东",
+    "real_spot": "陆家嘴环路",
+    "wizarding_alias": "古灵阁东方分行大厅",
+    "wizarding_zone": "古灵阁东方分行",
+    "canon_ref": "Gringotts",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.240153,
+    "lng": 121.506011,
+    "prompt_seed": "地点：陆家嘴环路（上海浦东）的魔法映射：古灵阁东方分行大厅；氛围：古灵阁东方分行；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「陆家嘴环路·古灵阁东方分行大厅」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_lujiazui_02",
+    "cluster_code": "lujiazui",
+    "district": "浦东",
+    "real_spot": "东方明珠",
+    "wizarding_alias": "金库门一号",
+    "wizarding_zone": "古灵阁东方分行",
+    "canon_ref": "Gringotts",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.239946,
+    "lng": 121.507918,
+    "prompt_seed": "地点：东方明珠（上海浦东）的魔法映射：金库门一号；氛围：古灵阁东方分行；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「东方明珠·金库门一号」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_lujiazui_03",
+    "cluster_code": "lujiazui",
+    "district": "浦东",
+    "real_spot": "上海中心",
+    "wizarding_alias": "哥布林清算台",
+    "wizarding_zone": "古灵阁东方分行",
+    "canon_ref": "Gringotts",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.240153,
+    "lng": 121.504304,
+    "prompt_seed": "地点：上海中心（上海浦东）的魔法映射：哥布林清算台；氛围：古灵阁东方分行；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「上海中心·哥布林清算台」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_lujiazui_04",
+    "cluster_code": "lujiazui",
+    "district": "浦东",
+    "real_spot": "环球金融中心",
+    "wizarding_alias": "账簿封印室",
+    "wizarding_zone": "古灵阁东方分行",
+    "canon_ref": "Gringotts",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.24155,
+    "lng": 121.505852,
+    "prompt_seed": "地点：环球金融中心（上海浦东）的魔法映射：账簿封印室；氛围：古灵阁东方分行；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「环球金融中心·账簿封印室」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_lujiazui_05",
+    "cluster_code": "lujiazui",
+    "district": "浦东",
+    "real_spot": "金茂大厦",
+    "wizarding_alias": "资产咒印室",
+    "wizarding_zone": "古灵阁东方分行",
+    "canon_ref": "Gringotts",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.238198,
+    "lng": 121.505905,
+    "prompt_seed": "地点：金茂大厦（上海浦东）的魔法映射：资产咒印室；氛围：古灵阁东方分行；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「金茂大厦·资产咒印室」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_lujiazui_06",
+    "cluster_code": "lujiazui",
+    "district": "浦东",
+    "real_spot": "国金中心IFC",
+    "wizarding_alias": "魔法金融交易台",
+    "wizarding_zone": "古灵阁东方分行",
+    "canon_ref": "Gringotts",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.241685,
+    "lng": 121.50777,
+    "prompt_seed": "地点：国金中心IFC（上海浦东）的魔法映射：魔法金融交易台；氛围：古灵阁东方分行；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「国金中心IFC·魔法金融交易台」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_lujiazui_07",
+    "cluster_code": "lujiazui",
+    "district": "浦东",
+    "real_spot": "正大广场",
+    "wizarding_alias": "护卫巨像岗哨",
+    "wizarding_zone": "古灵阁东方分行",
+    "canon_ref": "Gringotts",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.238342,
+    "lng": 121.507844,
+    "prompt_seed": "地点：正大广场（上海浦东）的魔法映射：护卫巨像岗哨；氛围：古灵阁东方分行；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「正大广场·护卫巨像岗哨」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_lujiazui_08",
+    "cluster_code": "lujiazui",
+    "district": "浦东",
+    "real_spot": "陆家嘴地铁站",
+    "wizarding_alias": "债券咒文柜",
+    "wizarding_zone": "古灵阁东方分行",
+    "canon_ref": "Gringotts",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.241495,
+    "lng": 121.504051,
+    "prompt_seed": "地点：陆家嘴地铁站（上海浦东）的魔法映射：债券咒文柜；氛围：古灵阁东方分行；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「陆家嘴地铁站·债券咒文柜」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_lujiazui_09",
+    "cluster_code": "lujiazui",
+    "district": "浦东",
+    "real_spot": "滨江大道",
+    "wizarding_alias": "审计密室",
+    "wizarding_zone": "古灵阁东方分行",
+    "canon_ref": "Gringotts",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.238351,
+    "lng": 121.504282,
+    "prompt_seed": "地点：滨江大道（上海浦东）的魔法映射：审计密室；氛围：古灵阁东方分行；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「滨江大道·审计密室」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_lujiazui_10",
+    "cluster_code": "lujiazui",
+    "district": "浦东",
+    "real_spot": "观光隧道口（浦东）",
+    "wizarding_alias": "黑金追踪台",
+    "wizarding_zone": "古灵阁东方分行",
+    "canon_ref": "Gringotts",
+    "recommended_threads": [
+      "thread_gringotts_audit",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "bank",
+      "finance",
+      "paper",
+      "seal",
+      "security"
+    ],
+    "lat": 31.240135,
+    "lng": 121.509572,
+    "prompt_seed": "地点：观光隧道口（浦东）（上海浦东）的魔法映射：黑金追踪台；氛围：古灵阁东方分行；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "古灵阁的账簿清点波及到「观光隧道口（浦东）·黑金追踪台」：一笔被抹去的记录正指向某个上锁金库，封印是否被动过是关键。",
+    "npc_hint": "古灵阁审计员/哥布林柜员/保安结界师（冷静、算计、注重细节）"
+  },
+  {
+    "stage_id": "stage_centuryave_01",
+    "cluster_code": "centuryave",
+    "district": "浦东",
+    "real_spot": "世纪大道",
+    "wizarding_alias": "国际合作司办证台",
+    "wizarding_zone": "魔法科技展/国际合作",
+    "canon_ref": "Department of Mysteries / Muggle studies",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.221928,
+    "lng": 121.537916,
+    "prompt_seed": "地点：世纪大道（上海浦东）的魔法映射：国际合作司办证台；氛围：魔法科技展/国际合作；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「世纪大道·国际合作司办证台」，神秘事务司式的回声干扰正在放大；你拿到的每个碎片都“可解释但不确定”，必须用审计与封印去验证。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_centuryave_02",
+    "cluster_code": "centuryave",
+    "district": "浦东",
+    "real_spot": "上海科技馆",
+    "wizarding_alias": "麻瓜研究伪装科",
+    "wizarding_zone": "魔法科技展/国际合作",
+    "canon_ref": "Department of Mysteries / Muggle studies",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "authority",
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.222117,
+    "lng": 121.539854,
+    "prompt_seed": "地点：上海科技馆（上海浦东）的魔法映射：麻瓜研究伪装科；氛围：魔法科技展/国际合作；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「上海科技馆·麻瓜研究伪装科」，神秘事务司式的回声干扰正在放大；你拿到的每个碎片都“可解释但不确定”，必须用审计与封印去验证。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_centuryave_03",
+    "cluster_code": "centuryave",
+    "district": "浦东",
+    "real_spot": "东方艺术中心",
+    "wizarding_alias": "魔法科技展厅",
+    "wizarding_zone": "魔法科技展/国际合作",
+    "canon_ref": "Department of Mysteries / Muggle studies",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "authority",
+      "clue",
+      "order",
+      "paper",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.221901,
+    "lng": 121.535914,
+    "prompt_seed": "地点：东方艺术中心（上海浦东）的魔法映射：魔法科技展厅；氛围：魔法科技展/国际合作；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「东方艺术中心·魔法科技展厅」，神秘事务司式的回声干扰正在放大；你拿到的每个碎片都“可解释但不确定”，必须用审计与封印去验证。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_centuryave_04",
+    "cluster_code": "centuryave",
+    "district": "浦东",
+    "real_spot": "世纪大道地铁站",
+    "wizarding_alias": "神秘事务司回声室",
+    "wizarding_zone": "魔法科技展/国际合作",
+    "canon_ref": "Department of Mysteries / Muggle studies",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.223523,
+    "lng": 121.538,
+    "prompt_seed": "地点：世纪大道地铁站（上海浦东）的魔法映射：神秘事务司回声室；氛围：魔法科技展/国际合作；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「世纪大道地铁站·神秘事务司回声室」，神秘事务司式的回声干扰正在放大；你拿到的每个碎片都“可解释但不确定”，必须用审计与封印去验证。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_centuryave_05",
+    "cluster_code": "centuryave",
+    "district": "浦东",
+    "real_spot": "张杨路口",
+    "wizarding_alias": "预言家数据台",
+    "wizarding_zone": "魔法科技展/国际合作",
+    "canon_ref": "Department of Mysteries / Muggle studies",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "authority",
+      "clue",
+      "order",
+      "paper",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.220414,
+    "lng": 121.538147,
+    "prompt_seed": "地点：张杨路口（上海浦东）的魔法映射：预言家数据台；氛围：魔法科技展/国际合作；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「张杨路口·预言家数据台」，神秘事务司式的回声干扰正在放大；你拿到的每个碎片都“可解释但不确定”，必须用审计与封印去验证。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_centuryave_06",
+    "cluster_code": "centuryave",
+    "district": "浦东",
+    "real_spot": "花木路口",
+    "wizarding_alias": "交通枢纽门厅",
+    "wizarding_zone": "魔法科技展/国际合作",
+    "canon_ref": "Department of Mysteries / Muggle studies",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "authority",
+      "clue",
+      "hub",
+      "order",
+      "paper",
+      "portal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.223541,
+    "lng": 121.539749,
+    "prompt_seed": "地点：花木路口（上海浦东）的魔法映射：交通枢纽门厅；氛围：魔法科技展/国际合作；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「花木路口·交通枢纽门厅」，神秘事务司式的回声干扰正在放大；你拿到的每个碎片都“可解释但不确定”，必须用审计与封印去验证。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_centuryave_07",
+    "cluster_code": "centuryave",
+    "district": "浦东",
+    "real_spot": "迎春路口",
+    "wizarding_alias": "时空记录柜",
+    "wizarding_zone": "魔法科技展/国际合作",
+    "canon_ref": "Department of Mysteries / Muggle studies",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "authority",
+      "clue",
+      "order",
+      "paper",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.220315,
+    "lng": 121.539907,
+    "prompt_seed": "地点：迎春路口（上海浦东）的魔法映射：时空记录柜；氛围：魔法科技展/国际合作；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「迎春路口·时空记录柜」，神秘事务司式的回声干扰正在放大；你拿到的每个碎片都“可解释但不确定”，必须用审计与封印去验证。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_centuryave_08",
+    "cluster_code": "centuryave",
+    "district": "浦东",
+    "real_spot": "丁香路口",
+    "wizarding_alias": "咒语反射屏",
+    "wizarding_zone": "魔法科技展/国际合作",
+    "canon_ref": "Department of Mysteries / Muggle studies",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "authority",
+      "clue",
+      "order",
+      "paper",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.223649,
+    "lng": 121.53623,
+    "prompt_seed": "地点：丁香路口（上海浦东）的魔法映射：咒语反射屏；氛围：魔法科技展/国际合作；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「丁香路口·咒语反射屏」，神秘事务司式的回声干扰正在放大；你拿到的每个碎片都“可解释但不确定”，必须用审计与封印去验证。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_centuryave_09",
+    "cluster_code": "centuryave",
+    "district": "浦东",
+    "real_spot": "科苑路口",
+    "wizarding_alias": "低噪观察窗",
+    "wizarding_zone": "魔法科技展/国际合作",
+    "canon_ref": "Department of Mysteries / Muggle studies",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "authority",
+      "clue",
+      "order",
+      "paper",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.220198,
+    "lng": 121.536188,
+    "prompt_seed": "地点：科苑路口（上海浦东）的魔法映射：低噪观察窗；氛围：魔法科技展/国际合作；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「科苑路口·低噪观察窗」，神秘事务司式的回声干扰正在放大；你拿到的每个碎片都“可解释但不确定”，必须用审计与封印去验证。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_centuryave_10",
+    "cluster_code": "centuryave",
+    "district": "浦东",
+    "real_spot": "浦东图书馆口",
+    "wizarding_alias": "外交咒印台",
+    "wizarding_zone": "魔法科技展/国际合作",
+    "canon_ref": "Department of Mysteries / Muggle studies",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_ministry_lockdown"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "bank",
+      "clue",
+      "finance",
+      "order",
+      "paper",
+      "seal",
+      "security",
+      "signal",
+      "transport"
+    ],
+    "lat": 31.221829,
+    "lng": 121.541255,
+    "prompt_seed": "地点：浦东图书馆口（上海浦东）的魔法映射：外交咒印台；氛围：魔法科技展/国际合作；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "在「浦东图书馆口·外交咒印台」，神秘事务司式的回声干扰正在放大；你拿到的每个碎片都“可解释但不确定”，必须用审计与封印去验证。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_centurypark_01",
+    "cluster_code": "centurypark",
+    "district": "浦东",
+    "real_spot": "世纪公园",
+    "wizarding_alias": "禁林投影入口",
+    "wizarding_zone": "禁林投影区",
+    "canon_ref": "Forbidden Forest",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "lat": 31.214982,
+    "lng": 121.546084,
+    "prompt_seed": "地点：世纪公园（上海浦东）的魔法映射：禁林投影入口；氛围：禁林投影区；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「世纪公园·禁林投影入口」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_centurypark_02",
+    "cluster_code": "centurypark",
+    "district": "浦东",
+    "real_spot": "花木路地铁站",
+    "wizarding_alias": "妖精圈",
+    "wizarding_zone": "禁林投影区",
+    "canon_ref": "Forbidden Forest",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "lat": 31.214901,
+    "lng": 121.547865,
+    "prompt_seed": "地点：花木路地铁站（上海浦东）的魔法映射：妖精圈；氛围：禁林投影区；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「花木路地铁站·妖精圈」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_centurypark_03",
+    "cluster_code": "centurypark",
+    "district": "浦东",
+    "real_spot": "新国际博览中心",
+    "wizarding_alias": "马人观测点",
+    "wizarding_zone": "禁林投影区",
+    "canon_ref": "Forbidden Forest",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "paper",
+      "risk",
+      "ritual",
+      "school",
+      "secret",
+      "signal"
+    ],
+    "lat": 31.21518,
+    "lng": 121.544241,
+    "prompt_seed": "地点：新国际博览中心（上海浦东）的魔法映射：马人观测点；氛围：禁林投影区；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「新国际博览中心·马人观测点」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_centurypark_04",
+    "cluster_code": "centurypark",
+    "district": "浦东",
+    "real_spot": "锦绣路口",
+    "wizarding_alias": "夜骐牧场",
+    "wizarding_zone": "禁林投影区",
+    "canon_ref": "Forbidden Forest",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "lat": 31.216658,
+    "lng": 121.546137,
+    "prompt_seed": "地点：锦绣路口（上海浦东）的魔法映射：夜骐牧场；氛围：禁林投影区；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「锦绣路口·夜骐牧场」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_centurypark_05",
+    "cluster_code": "centurypark",
+    "district": "浦东",
+    "real_spot": "罗山路口",
+    "wizarding_alias": "独角兽踪迹",
+    "wizarding_zone": "禁林投影区",
+    "canon_ref": "Forbidden Forest",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "lat": 31.213279,
+    "lng": 121.545916,
+    "prompt_seed": "地点：罗山路口（上海浦东）的魔法映射：独角兽踪迹；氛围：禁林投影区；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「罗山路口·独角兽踪迹」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_centurypark_06",
+    "cluster_code": "centurypark",
+    "district": "浦东",
+    "real_spot": "迎春路（公园段）",
+    "wizarding_alias": "海格临时营地",
+    "wizarding_zone": "禁林投影区",
+    "canon_ref": "Forbidden Forest",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "lat": 31.216631,
+    "lng": 121.547822,
+    "prompt_seed": "地点：迎春路（公园段）（上海浦东）的魔法映射：海格临时营地；氛围：禁林投影区；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「迎春路（公园段）·海格临时营地」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_centurypark_07",
+    "cluster_code": "centurypark",
+    "district": "浦东",
+    "real_spot": "世纪公园7号门",
+    "wizarding_alias": "狼人警戒线",
+    "wizarding_zone": "禁林投影区",
+    "canon_ref": "Forbidden Forest",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "lat": 31.213333,
+    "lng": 121.547938,
+    "prompt_seed": "地点：世纪公园7号门（上海浦东）的魔法映射：狼人警戒线；氛围：禁林投影区；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「世纪公园7号门·狼人警戒线」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_centurypark_08",
+    "cluster_code": "centurypark",
+    "district": "浦东",
+    "real_spot": "世纪公园2号门",
+    "wizarding_alias": "护树罗锅栖地",
+    "wizarding_zone": "禁林投影区",
+    "canon_ref": "Forbidden Forest",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "lat": 31.216613,
+    "lng": 121.543893,
+    "prompt_seed": "地点：世纪公园2号门（上海浦东）的魔法映射：护树罗锅栖地；氛围：禁林投影区；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「世纪公园2号门·护树罗锅栖地」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_centurypark_09",
+    "cluster_code": "centurypark",
+    "district": "浦东",
+    "real_spot": "芳甸路口",
+    "wizarding_alias": "迷雾祭坛",
+    "wizarding_zone": "禁林投影区",
+    "canon_ref": "Forbidden Forest",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "clue",
+      "creature",
+      "mystery",
+      "occlusion",
+      "order",
+      "risk",
+      "ritual",
+      "seal",
+      "secret",
+      "signal"
+    ],
+    "lat": 31.213369,
+    "lng": 121.543935,
+    "prompt_seed": "地点：芳甸路口（上海浦东）的魔法映射：迷雾祭坛；氛围：禁林投影区；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「芳甸路口·迷雾祭坛」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_centurypark_10",
+    "cluster_code": "centurypark",
+    "district": "浦东",
+    "real_spot": "龙阳路口",
+    "wizarding_alias": "放生登记点",
+    "wizarding_zone": "禁林投影区",
+    "canon_ref": "Forbidden Forest",
+    "recommended_threads": [
+      "thread_creature_surge",
+      "thread_hogwarts_field"
+    ],
+    "tags": [
+      "creature",
+      "mystery",
+      "occlusion",
+      "risk",
+      "ritual",
+      "signal"
+    ],
+    "lat": 31.215162,
+    "lng": 121.549266,
+    "prompt_seed": "地点：龙阳路口（上海浦东）的魔法映射：放生登记点；氛围：禁林投影区；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "神奇动物的踪迹在「龙阳路口·放生登记点」附近频繁出现；只要收集到毛发/足迹/回声，就能推断它从哪条隐蔽路径进入城市。",
+    "npc_hint": "驯兽师/巡护员/药草学助手（观察痕迹、描述生物习性）"
+  },
+  {
+    "stage_id": "stage_fudan_01",
+    "cluster_code": "fudan",
+    "district": "杨浦",
+    "real_spot": "复旦大学邯郸校区",
+    "wizarding_alias": "魔法研究所图书馆",
+    "wizarding_zone": "魔法研究所",
+    "canon_ref": "Hogwarts research / Library",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "lat": 31.297153,
+    "lng": 121.503116,
+    "prompt_seed": "地点：复旦大学邯郸校区（上海杨浦）的魔法映射：魔法研究所图书馆；氛围：魔法研究所；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「复旦大学邯郸校区·魔法研究所图书馆」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_fudan_02",
+    "cluster_code": "fudan",
+    "district": "杨浦",
+    "real_spot": "邯郸路口",
+    "wizarding_alias": "拉文克劳论文室",
+    "wizarding_zone": "魔法研究所",
+    "canon_ref": "Hogwarts research / Library",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "lat": 31.297045,
+    "lng": 121.504961,
+    "prompt_seed": "地点：邯郸路口（上海杨浦）的魔法映射：拉文克劳论文室；氛围：魔法研究所；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「邯郸路口·拉文克劳论文室」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_fudan_03",
+    "cluster_code": "fudan",
+    "district": "杨浦",
+    "real_spot": "光华楼",
+    "wizarding_alias": "预言厅译码室",
+    "wizarding_zone": "魔法研究所",
+    "canon_ref": "Hogwarts research / Library",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "lat": 31.297135,
+    "lng": 121.501239,
+    "prompt_seed": "地点：光华楼（上海杨浦）的魔法映射：预言厅译码室；氛围：魔法研究所；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「光华楼·预言厅译码室」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_fudan_04",
+    "cluster_code": "fudan",
+    "district": "杨浦",
+    "real_spot": "复旦正门",
+    "wizarding_alias": "魔咒实验台",
+    "wizarding_zone": "魔法研究所",
+    "canon_ref": "Hogwarts research / Library",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "lat": 31.298712,
+    "lng": 121.502873,
+    "prompt_seed": "地点：复旦正门（上海杨浦）的魔法映射：魔咒实验台；氛围：魔法研究所；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「复旦正门·魔咒实验台」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_fudan_05",
+    "cluster_code": "fudan",
+    "district": "杨浦",
+    "real_spot": "相辉堂",
+    "wizarding_alias": "记忆术研讨室",
+    "wizarding_zone": "魔法研究所",
+    "canon_ref": "Hogwarts research / Library",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "lat": 31.29545,
+    "lng": 121.502989,
+    "prompt_seed": "地点：相辉堂（上海杨浦）的魔法映射：记忆术研讨室；氛围：魔法研究所；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「相辉堂·记忆术研讨室」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_fudan_06",
+    "cluster_code": "fudan",
+    "district": "杨浦",
+    "real_spot": "复旦图书馆",
+    "wizarding_alias": "符文学讲义柜",
+    "wizarding_zone": "魔法研究所",
+    "canon_ref": "Hogwarts research / Library",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "ritual",
+      "school",
+      "seal",
+      "secret"
+    ],
+    "lat": 31.298712,
+    "lng": 121.504929,
+    "prompt_seed": "地点：复旦图书馆（上海杨浦）的魔法映射：符文学讲义柜；氛围：魔法研究所；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「复旦图书馆·符文学讲义柜」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_fudan_07",
+    "cluster_code": "fudan",
+    "district": "杨浦",
+    "real_spot": "江湾体育场",
+    "wizarding_alias": "魔药配方库",
+    "wizarding_zone": "魔法研究所",
+    "canon_ref": "Hogwarts research / Library",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "lat": 31.295387,
+    "lng": 121.504887,
+    "prompt_seed": "地点：江湾体育场（上海杨浦）的魔法映射：魔药配方库；氛围：魔法研究所；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「江湾体育场·魔药配方库」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_fudan_08",
+    "cluster_code": "fudan",
+    "district": "杨浦",
+    "real_spot": "五角场口（复旦侧）",
+    "wizarding_alias": "天文观测台",
+    "wizarding_zone": "魔法研究所",
+    "canon_ref": "Hogwarts research / Library",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "lat": 31.298505,
+    "lng": 121.501165,
+    "prompt_seed": "地点：五角场口（复旦侧）（上海杨浦）的魔法映射：天文观测台；氛围：魔法研究所；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「五角场口（复旦侧）·天文观测台」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_fudan_09",
+    "cluster_code": "fudan",
+    "district": "杨浦",
+    "real_spot": "国权路口",
+    "wizarding_alias": "保护咒测试点",
+    "wizarding_zone": "魔法研究所",
+    "canon_ref": "Hogwarts research / Library",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "lat": 31.295315,
+    "lng": 121.500944,
+    "prompt_seed": "地点：国权路口（上海杨浦）的魔法映射：保护咒测试点；氛围：魔法研究所；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「国权路口·保护咒测试点」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_fudan_10",
+    "cluster_code": "fudan",
+    "district": "杨浦",
+    "real_spot": "复旦北区",
+    "wizarding_alias": "校内密道入口",
+    "wizarding_zone": "魔法研究所",
+    "canon_ref": "Hogwarts research / Library",
+    "recommended_threads": [
+      "thread_hogwarts_field",
+      "thread_floo_fracture",
+      "thread_creature_surge"
+    ],
+    "tags": [
+      "books",
+      "clue",
+      "order",
+      "paper",
+      "school",
+      "secret"
+    ],
+    "lat": 31.296892,
+    "lng": 121.506585,
+    "prompt_seed": "地点：复旦北区（上海杨浦）的魔法映射：校内密道入口；氛围：魔法研究所；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "霍格沃茨的外勤任务落在「复旦北区·校内密道入口」：一份讲义与一段录音需要你和同伴拼起来，才能解出下一道门的条件。",
+    "npc_hint": "霍格沃茨外勤导师/拉文克劳学生/图书馆管理员（知识导向、给提示不直给答案）"
+  },
+  {
+    "stage_id": "stage_wujiaochang_01",
+    "cluster_code": "wujiaochang",
+    "district": "杨浦",
+    "real_spot": "五角场",
+    "wizarding_alias": "对角巷北口",
+    "wizarding_zone": "对角巷北口/巫师广播",
+    "canon_ref": "Diagon Alley (north) / Wizarding wireless",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.302045,
+    "lng": 121.514053,
+    "prompt_seed": "地点：五角场（上海杨浦）的魔法映射：对角巷北口；氛围：对角巷北口/巫师广播；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「五角场·对角巷北口」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wujiaochang_02",
+    "cluster_code": "wujiaochang",
+    "district": "杨浦",
+    "real_spot": "合生汇",
+    "wizarding_alias": "魁地奇球迷酒馆",
+    "wizarding_zone": "对角巷北口/巫师广播",
+    "canon_ref": "Diagon Alley (north) / Wizarding wireless",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.302162,
+    "lng": 121.515792,
+    "prompt_seed": "地点：合生汇（上海杨浦）的魔法映射：魁地奇球迷酒馆；氛围：对角巷北口/巫师广播；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「合生汇·魁地奇球迷酒馆」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wujiaochang_03",
+    "cluster_code": "wujiaochang",
+    "district": "杨浦",
+    "real_spot": "万达广场（五角场）",
+    "wizarding_alias": "巫师无线电台",
+    "wizarding_zone": "对角巷北口/巫师广播",
+    "canon_ref": "Diagon Alley (north) / Wizarding wireless",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "paper",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.301883,
+    "lng": 121.512281,
+    "prompt_seed": "地点：万达广场（五角场）（上海杨浦）的魔法映射：巫师无线电台；氛围：对角巷北口/巫师广播；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「万达广场（五角场）·巫师无线电台」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wujiaochang_04",
+    "cluster_code": "wujiaochang",
+    "district": "杨浦",
+    "real_spot": "百联又一城",
+    "wizarding_alias": "快闪门厅",
+    "wizarding_zone": "对角巷北口/巫师广播",
+    "canon_ref": "Diagon Alley (north) / Wizarding wireless",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.303595,
+    "lng": 121.514095,
+    "prompt_seed": "地点：百联又一城（上海杨浦）的魔法映射：快闪门厅；氛围：对角巷北口/巫师广播；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「百联又一城·快闪门厅」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wujiaochang_05",
+    "cluster_code": "wujiaochang",
+    "district": "杨浦",
+    "real_spot": "五角场地铁站",
+    "wizarding_alias": "交换证物柜",
+    "wizarding_zone": "对角巷北口/巫师广播",
+    "canon_ref": "Diagon Alley (north) / Wizarding wireless",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.300495,
+    "lng": 121.514179,
+    "prompt_seed": "地点：五角场地铁站（上海杨浦）的魔法映射：交换证物柜；氛围：对角巷北口/巫师广播；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「五角场地铁站·交换证物柜」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wujiaochang_06",
+    "cluster_code": "wujiaochang",
+    "district": "杨浦",
+    "real_spot": "淞沪路口",
+    "wizarding_alias": "伪装服饰店",
+    "wizarding_zone": "对角巷北口/巫师广播",
+    "canon_ref": "Diagon Alley (north) / Wizarding wireless",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.303631,
+    "lng": 121.515814,
+    "prompt_seed": "地点：淞沪路口（上海杨浦）的魔法映射：伪装服饰店；氛围：对角巷北口/巫师广播；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「淞沪路口·伪装服饰店」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wujiaochang_07",
+    "cluster_code": "wujiaochang",
+    "district": "杨浦",
+    "real_spot": "国定路口",
+    "wizarding_alias": "魔法小剧场",
+    "wizarding_zone": "对角巷北口/巫师广播",
+    "canon_ref": "Diagon Alley (north) / Wizarding wireless",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.300477,
+    "lng": 121.516024,
+    "prompt_seed": "地点：国定路口（上海杨浦）的魔法映射：魔法小剧场；氛围：对角巷北口/巫师广播；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「国定路口·魔法小剧场」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wujiaochang_08",
+    "cluster_code": "wujiaochang",
+    "district": "杨浦",
+    "real_spot": "黄兴路口",
+    "wizarding_alias": "风向占卜摊",
+    "wizarding_zone": "对角巷北口/巫师广播",
+    "canon_ref": "Diagon Alley (north) / Wizarding wireless",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "paper",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.303586,
+    "lng": 121.512271,
+    "prompt_seed": "地点：黄兴路口（上海杨浦）的魔法映射：风向占卜摊；氛围：对角巷北口/巫师广播；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「黄兴路口·风向占卜摊」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wujiaochang_09",
+    "cluster_code": "wujiaochang",
+    "district": "杨浦",
+    "real_spot": "创智天地",
+    "wizarding_alias": "传闻公告墙",
+    "wizarding_zone": "对角巷北口/巫师广播",
+    "canon_ref": "Diagon Alley (north) / Wizarding wireless",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "audit",
+      "authority",
+      "clue",
+      "hub",
+      "lanes",
+      "ministry",
+      "order",
+      "paper",
+      "security",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.300432,
+    "lng": 121.512165,
+    "prompt_seed": "地点：创智天地（上海杨浦）的魔法映射：传闻公告墙；氛围：对角巷北口/巫师广播；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「创智天地·传闻公告墙」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  },
+  {
+    "stage_id": "stage_wujiaochang_10",
+    "cluster_code": "wujiaochang",
+    "district": "杨浦",
+    "real_spot": "江湾镇口",
+    "wizarding_alias": "社团集会点",
+    "wizarding_zone": "对角巷北口/巫师广播",
+    "canon_ref": "Diagon Alley (north) / Wizarding wireless",
+    "recommended_threads": [
+      "thread_knockturn_smuggling",
+      "thread_hogwarts_field",
+      "thread_floo_fracture"
+    ],
+    "tags": [
+      "clue",
+      "hub",
+      "lanes",
+      "order",
+      "signal",
+      "trade"
+    ],
+    "lat": 31.302081,
+    "lng": 121.517269,
+    "prompt_seed": "地点：江湾镇口（上海杨浦）的魔法映射：社团集会点；氛围：对角巷北口/巫师广播；注意：不提现实详细地址，不出现可识别真人。",
+    "story_hook": "「江湾镇口·社团集会点」像是对角巷在沪的投影点：有人用可疑封印换取情报与道具，真伪与代价都写在细节里。",
+    "npc_hint": "站台引导员/邮局分拣员/无线电播音员（节拍强、信息短句）"
+  }
+]

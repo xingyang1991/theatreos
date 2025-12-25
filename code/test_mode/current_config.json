@@ -1,0 +1,23 @@
+{
+  "scene_change_interval": 30,
+  "event_trigger_interval": 15,
+  "gate_voting_duration": 60,
+  "evidence_cooldown": 10,
+  "npc_dialogue_cooldown": 5,
+  "ring_upgrade_points": 100,
+  "base_choice_points": 50,
+  "min_vote_participants": 1,
+  "evidence_drop_rate": 80,
+  "rare_evidence_drop_rate": 30,
+  "ring_c_radius": 2000,
+  "ring_b_radius": 1000,
+  "ring_a_radius": 500,
+  "max_active_stages": 15,
+  "world_var_change_multiplier": 5.0,
+  "world_var_decay_interval": 60,
+  "test_mode_enabled": true,
+  "auto_events_enabled": true,
+  "debug_logging": true,
+  "skip_location_check": true,
+  "fast_ring_upgrade": true
+}

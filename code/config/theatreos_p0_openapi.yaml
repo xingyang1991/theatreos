@@ -1,0 +1,285 @@
+openapi: 3.0.3
+info:
+  title: TheatreOS P0 API
+  version: "1.0"
+servers:
+  - url: https://api.example.com
+paths:
+  /v1/theatres/{theatre_id}/slots/next:
+    get:
+      summary: Get next slots showbill (next N hours)
+      parameters:
+        - name: theatre_id
+          in: path
+          required: true
+          schema: { type: string }
+        - name: hours
+          in: query
+          required: false
+          schema: { type: integer, default: 2, minimum: 1, maximum: 24 }
+      responses:
+        "200":
+          description: Slot list
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/NextSlotsResponse'
+  /v1/slots/{slot_id}:
+    get:
+      summary: Get slot details (scenes + gate entry) with ring-based filtering
+      parameters:
+        - name: slot_id
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        "200":
+          description: Slot detail
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SlotDetail'
+  /v1/gates/{gate_instance_id}:
+    get:
+      summary: Get gate instance (options + timer)
+      parameters:
+        - name: gate_instance_id
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        "200":
+          description: Gate instance
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GateInstance'
+  /v1/gates/{gate_instance_id}/vote:
+    post:
+      summary: Submit or update vote
+      parameters:
+        - name: gate_instance_id
+          in: path
+          required: true
+          schema: { type: string }
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/VoteRequest' }
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/ActionAck' }
+  /v1/gates/{gate_instance_id}/stake:
+    post:
+      summary: Stake / increase stake (locks wallet balance)
+      parameters:
+        - name: gate_instance_id
+          in: path
+          required: true
+          schema: { type: string }
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/StakeRequest' }
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/ActionAck' }
+        "402":
+          description: Insufficient balance
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/Error' }
+  /v1/gates/{gate_instance_id}/evidence:
+    post:
+      summary: Submit evidence to gate (affects hint_level/caps, not vote weight)
+      parameters:
+        - name: gate_instance_id
+          in: path
+          required: true
+          schema: { type: string }
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/EvidenceSubmitRequest' }
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/ActionAck' }
+  /v1/gates/{gate_instance_id}/result:
+    get:
+      summary: Get resolved result + explain card + personal settlement
+      parameters:
+        - name: gate_instance_id
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        "200":
+          description: Result
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/GateResult' }
+  /v1/theatres/{theatre_id}/ring/evaluate:
+    post:
+      summary: Evaluate ring levels for user location (privacy-safe)
+      parameters:
+        - name: theatre_id
+          in: path
+          required: true
+          schema: { type: string }
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema: { $ref: '#/components/schemas/RingEvaluateRequest' }
+      responses:
+        "200":
+          description: Ring evaluation result
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/RingEvaluateResponse' }
+components:
+  schemas:
+    NextSlotsResponse:
+      type: object
+      properties:
+        theatre_id: { type: string }
+        now_ms: { type: integer }
+        slots:
+          type: array
+          items: { $ref: '#/components/schemas/SlotSummary' }
+      required: [theatre_id, now_ms, slots]
+    SlotSummary:
+      type: object
+      properties:
+        slot_id: { type: string }
+        start_at_ms: { type: integer }
+        end_at_ms: { type: integer }
+        theatre_mode: { type: string, enum: [Flagship, SideA, SideB, Mixed] }
+        gate_type: { type: string, enum: [Public, Fate, FateMajor, Council] }
+        scenes_parallel: { type: integer }
+        published: { type: boolean }
+      required: [slot_id, start_at_ms, end_at_ms, gate_type, scenes_parallel, published]
+    SlotDetail:
+      type: object
+      properties:
+        slot_id: { type: string }
+        theatre_id: { type: string }
+        publish_version: { type: integer }
+        scenes:
+          type: array
+          items: { $ref: '#/components/schemas/SceneSummary' }
+        gate_instance_id: { type: string }
+        notes: { type: string }
+      required: [slot_id, theatre_id, publish_version, scenes, gate_instance_id]
+    SceneSummary:
+      type: object
+      properties:
+        scene_id: { type: string }
+        stage_id: { type: string }
+        ring_min: { type: string, enum: [C,B,A] }
+        media_level: { type: string, enum: [L0,L1,L2,L3,L4] }
+        title: { type: string }
+      required: [scene_id, stage_id, ring_min, media_level]
+    GateInstance:
+      type: object
+      properties:
+        gate_instance_id: { type: string }
+        slot_id: { type: string }
+        status: { type: string, enum: [SCHEDULED,OPEN,CLOSED,RESOLVING,RESOLVED,ARCHIVED] }
+        title: { type: string }
+        opens_at_ms: { type: integer }
+        closes_at_ms: { type: integer }
+        resolve_at_ms: { type: integer }
+        options:
+          type: array
+          items: { $ref: '#/components/schemas/GateOption' }
+      required: [gate_instance_id, slot_id, status, title, opens_at_ms, closes_at_ms, resolve_at_ms, options]
+    GateOption:
+      type: object
+      properties:
+        option_id: { type: string }
+        label: { type: string }
+        hint: { type: string }
+      required: [option_id, label]
+    VoteRequest:
+      type: object
+      properties:
+        option_id: { type: string }
+        ring_level: { type: string, enum: [C,B,A] }
+      required: [option_id, ring_level]
+    StakeRequest:
+      type: object
+      properties:
+        option_id: { type: string }
+        currency: { type: string, enum: [TICKET, SHARD] }
+        amount: { type: number, minimum: 0.0 }
+        ring_level: { type: string, enum: [C,B,A] }
+      required: [option_id, currency, amount, ring_level]
+    EvidenceSubmitRequest:
+      type: object
+      properties:
+        evidence_instance_id: { type: string }
+        ring_token: { type: string }
+      required: [evidence_instance_id]
+    GateResult:
+      type: object
+      properties:
+        gate_instance_id: { type: string }
+        winner_option_id: { type: string }
+        explain_card: { type: object }
+        personal_settlement: { type: object }
+      required: [gate_instance_id, winner_option_id, explain_card]
+    RingEvaluateRequest:
+      type: object
+      properties:
+        slot_id: { type: string }
+        lat: { type: number }
+        lng: { type: number }
+        accuracy_m: { type: number }
+        timestamp_ms: { type: integer }
+        requested_stage_ids:
+          type: array
+          items: { type: string }
+      required: [lat, lng, accuracy_m, timestamp_ms]
+    RingEvaluateResponse:
+      type: object
+      properties:
+        theatre_id: { type: string }
+        slot_id: { type: string }
+        global_risk_level: { type: string, enum: [LOW,MEDIUM,HIGH] }
+        rings:
+          type: array
+          items:
+            type: object
+            properties:
+              stage_id: { type: string }
+              ring_level: { type: string, enum: [C,B,A] }
+              distance_m: { type: number }
+              token: { type: string }
+              expires_in_sec: { type: integer }
+            required: [stage_id, ring_level]
+      required: [theatre_id, rings]
+    ActionAck:
+      type: object
+      properties:
+        ok: { type: boolean }
+        message: { type: string }
+      required: [ok]
+    Error:
+      type: object
+      properties:
+        error: { type: string }
+        message: { type: string }
+      required: [error, message]

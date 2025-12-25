@@ -1,0 +1,24 @@
+{
+  "pack_id": "hp_shanghai_s1",
+  "name": "哈利波特·上海魔法界 第一季",
+  "version": "1.0.0",
+  "description": "基于哈利波特世界观的上海魔法界主题包，第一季：飞路错拍。包含6条主故事线、16个角色、完整的拍子模板库和门模板库。",
+  "season_id": "hp_season_01_broken_floo",
+  "city": "shanghai",
+  "created_at": "2025-12-25T00:00:00Z",
+  "updated_at": "2025-12-25T00:00:00Z",
+  "author": "TheatreOS Content Team",
+  "license": "proprietary",
+  "tags": ["harry_potter", "magic", "shanghai", "mystery", "immersive"],
+  "files": {
+    "characters": "characters.json",
+    "threads": "threads.json",
+    "beats": "beats.json",
+    "gates": "gates.json",
+    "evidence": "evidence.json",
+    "world_variables": "world_variables.json",
+    "objects": "objects.json",
+    "factions": "factions.json",
+    "rescue_beats": "rescue_beats.json"
+  }
+}
